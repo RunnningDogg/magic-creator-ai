@@ -1,0 +1,26 @@
+/* CSS 样式 */
+.card-container {
+  /* 这将创建多个列，但不允许它们换行 */
+  column-count: 3; /* 你可以根据需要调整列数 */
+  column-gap: 1em; /* 列与列之间的间距 */
+}
+
+.card {
+  /* 这将防止卡片在列中断裂 */
+  break-inside: avoid;
+  margin-bottom: 1em; /* 卡片与卡片之间的间距 */
+  /* 可以根据需要添加背景、边框和内边距等样式 */
+}
+
+/* 针对不同的屏幕大小做响应式布局 */
+@media (max-width: 1200px) {
+  .card-container {
+    column-count: 2;
+  }
+}
+
+@media (max-width: 768px) {
+  .card-container {
+    column-count: 1;
+  }
+}
