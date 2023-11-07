@@ -1,65 +1,122 @@
 import { SearchBar } from "@/components/ui-tony/search-bar";
 import Image from "next/image";
 import Link from "next/link";
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
+import CardContainer from "@/components/ui-tony/card-container";
+import { Tag } from "@/components/ui-tony/tag";
+import { FAQ } from "@/components/faq";
+import Footer from "@/components/ui-tony/footer";
+import LinksList from "@/components/ui-tony/link-list";
 
 const cards = [
   {
-    title: "Mountain Adventure",
-    content: "Join us for an exciting trek through the mountains.",
-    footer: "Posted 2 days ago",
+    title: "DALL·E",
+    content: "Let me turn your imagination into imagery.",
+    tag: "Creative Services",
+    image: "/card-dalle.png",
   },
   {
-    title: "Culinary Delights",
-    content: "Explore the best gourmet experiences in the city.",
-    footer: "Posted 5 days ago",
+    title: "Data Analysis",
+    content:
+      "Drop in any field and I can help analyze and visualize your data.",
+    tag: "Educational Support",
+    image: "/card-da.png",
   },
   {
-    title: "Tech Innovations",
-    content: "Dive into the latest in tech and gadgets.",
-    footer: "Posted 1 day ago",
+    title: "ChatGPT Classic",
+    content: "The earliest version of GPT-4 with no additional capabilities.",
+    tag: "Technical Assistance",
   },
   {
-    title: "Art and Culture",
-    content: "Discover hidden art scenes around town.",
-    footer: "Posted 3 weeks ago",
+    title: "Game Time",
+    content:
+      "I can play text-based board games or card games to the rules you supply. Let the games begin!",
+    tag: "Entertainment",
+    image: "/card-game.png",
   },
   {
-    title: "Fitness Challenges",
-    content: "Push your limits with our latest fitness challenges.",
-    footer: "Posted 1 month ago",
+    title: "The Negotiator",
+    content:
+      "I'll help you advocate for yourself and get better outcomes. Become a great negotiator.",
+    tag: "Educational Support",
+    image: "/card-nego.png",
   },
   {
-    title: "Gardening Tips",
-    content: "Grow a lush garden with expert advice.",
-    footer: "Posted 2 weeks ago",
+    title: "Creative Writing Coach",
+    content:
+      "I'm eager to read your work and give you feedback to improve your results.",
+    tag: "Educational Support",
+    image: "/card-writing-coach.png",
   },
   {
-    title: "Photography 101",
-    content: "Learn the basics of capturing stunning photos.",
-    footer: "Posted 1 week ago",
+    title: "Cosmic Dream",
+    content: "Visionary painter digital wonder.",
+    tag: "Creative Services",
+    image: "/card-cosmic.png",
   },
   {
-    title: "Sustainable Living",
-    content: "Embrace eco-friendly habits for a better tomorrow.",
-    footer: "Posted 4 days ago",
+    title: "Tech Support Advisor",
+    content:
+      "From setting up a printer to troubleshooting a device, I'm here to help you step-by-step.",
+    tag: "Technical Assistance",
   },
   {
-    title: "Business Strategies",
-    content: "Enhance your business acumen with our strategies.",
-    footer: "Posted 3 months ago",
+    title: "Coloring Book Hero",
+    content: "Take any idea and turn it into whimsical coloring book pages.",
+    tag: "Creative Services",
   },
   {
-    title: "Travel on a Budget",
-    content: "See the world without breaking the bank.",
-    footer: "Posted 6 days ago",
+    title: "Laundry Buddy",
+    content:
+      "Ask me anything about stains, settings, sorting and everything else laundry.",
+    tag: "Lifestyle & Recreation",
+  },
+  {
+    title: "Sous Chef",
+    content:
+      "I'll give you recipes based on the foods you love and ingredients you have.",
+    tag: "Lifestyle & Recreation",
+  },
+  {
+    title: "Sticker Whiz",
+    content:
+      "I'll help turn your wildest dreams into die-cut stickers, shipped right to your door.",
+    tag: "Creative Services",
+  },
+  {
+    title: "Math Mentor",
+    content:
+      "Need help or practice help with math? Need a 98% refresh on geometry proofs? I'm here to help you.",
+    tag: "Educational Support",
+  },
+  {
+    title: "Hot Melts",
+    content:
+      "Let's ready your image into something really wild. Upload an image and let's go!",
+    tag: "Creative Services",
+  },
+  {
+    title: "Mocktail Mixologist",
+    content:
+      "I'll make any party a blast with mocktail recipes with whatever ingredients you have on hand.",
+    tag: "Lifestyle & Recreation",
+  },
+  {
+    title: "gen z meme",
+    content: "Help u understand the lingo & the latest memes.",
+    tag: "Educational Support",
+  },
+];
+
+const links = [
+  {
+    href: "https://openai.com/blog/introducing-gpts",
+    text: "Introducing GPTs",
+    desc: "OpenAI introduces GPTs, enabling easy creation of custom ChatGPTs for specific tasks, soon shareable via the upcoming GPT Store",
+  },
+  {
+    href: "https://openai.com/blog/new-models-and-developer-products-announced-at-devday",
+    text: "New models and developer products announced at DevDay",
+    desc: "OpenAI DevDay reveals GPT-4 Turbo, Assistants API, and multimodal AI enhancements for advanced developer integration",
   },
 ];
 
@@ -67,35 +124,29 @@ export default function Home() {
   return (
     <>
       {/* max-w-5xl */}
-      <header className=" sticky top-0 z-20 mx-auto flex w-full  flex-row  flex-nowrap items-stretch justify-between border-b bg-gray-100 px-4 py-3 duration-1000 ease-in-out animate-in fade-in slide-in-from-top-4 sm:px-6">
+      <header className=" sticky top-0 z-20 mx-auto flex w-full  flex-row  flex-nowrap items-stretch justify-between border-b px-4 py-3 backdrop-blur-md duration-1000 ease-in-out animate-in fade-in slide-in-from-top-4 sm:px-6">
         {/* h-14 */}
         <Link href="/" className="flex items-center space-x-2">
           <Image
             className="rounded"
             alt="logo"
-            src="/magic-creator.png"
+            src={"/magic-creator.png"}
             width={48}
             height={48}
           />
           <span className="text-lg font-semibold tracking-tight text-gray-900 sm:text-xl md:text-2xl">
-            Magic Creator
+            GPTs Store AI
           </span>
         </Link>
       </header>
 
       <main className="flex flex-col items-center justify-center py-[10vh] sm:py-[10vh]">
         <h1 className="mb-3 text-4xl font-medium text-black duration-1000 ease-in-out animate-in fade-in slide-in-from-bottom-3">
-          Magic Creator AI
+          GPTs Store AI
         </h1>
 
-        <ul>
-          <li>Instructions</li>
-          <li>Expanded Knowledges</li>
-          <li>Actions</li>
-        </ul>
-
         <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
-          Shared your Magin Creator (Aka GPT workflow) with others
+          Shared your GPTs (Aka GPT workflow) with others 👍🏻
         </p>
 
         {/* input area to search workflow */}
@@ -105,27 +156,42 @@ export default function Home() {
         </div>
 
         {/* show area */}
-        <div className=" grid w-[50rem]  max-w-5xl grid-cols-1 gap-4 bg-slate-100 p-4 md:grid-cols-2 lg:grid-cols-2">
-          {/* Repeat this block for each card */}
-          {cards.map((card) => (
-            <Card key={card.title}>
-              <CardHeader>
-                <CardTitle>{card.title}</CardTitle>
-                <CardDescription>Card Description</CardDescription>
-              </CardHeader>
-              <CardContent>
-                <p>{card.content}</p>
-              </CardContent>
-              <CardFooter className="flex space-x-3">
-                <span>Tag: </span>
-                <span>Card Footer</span>
-              </CardFooter>
-            </Card>
+        <div className="mb-10 grid w-3/4 grid-cols-2 gap-2 bg-slate-100 px-4 py-8">
+          {cards.map((item, idx) => (
+            <CardContainer
+              key={idx}
+              className="card-with-img rounded border   bg-white hover:border-blue-400 "
+            >
+              <div className="flex flex-col space-y-2">
+                <h3 className="text-2xl font-semibold leading-none tracking-tight">
+                  {item.title}
+                </h3>
+                <p className="text-sm text-muted-foreground">Powered By GPT</p>
+                <p className="content">{item.content}</p>
+                <Tag name={item.tag} />
+              </div>
+              <div className="relative h-32 w-32">
+                {/* // "relative" is required; adjust sizes to your liking */}
+                <Image
+                  src={item.image ?? "/react.png"}
+                  alt="Picture of the author"
+                  layout="fill" // required
+                  objectFit="cover" // change to suit your needs
+                  className="rounded-full" // just an example
+                />
+              </div>
+            </CardContainer>
           ))}
-
-          {/* End card block */}
         </div>
+
+        {/* faq */}
+        <FAQ />
+
+        {/* related links */}
+        <LinksList className="mt-10" links={links} />
       </main>
+      {/* footer */}
+      <Footer />
     </>
   );
 }

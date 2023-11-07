@@ -46,13 +46,17 @@ export function SearchBar() {
           render={({ field }) => (
             <FormItem>
               <FormControl>
-                <Input placeholder="Magic Creator" {...field} />
+                <Input
+                  className="w-[25rem]"
+                  placeholder="GPTs press enter to search.."
+                  {...field}
+                />
               </FormControl>
               {/* <FormMessage/> */}
             </FormItem>
           )}
         />
-        <Button type="submit">Submit</Button>
+        <Button type="submit">Search</Button>
       </form>
     </Form>
   );

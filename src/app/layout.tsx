@@ -14,7 +14,7 @@ export const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Magic Creator",
+  title: "GPTs Store",
   description: "create useful magic creator with others and share with others",
 };
 
@@ -28,7 +28,7 @@ export default function RootLayout({
       {/* <body className={inter.className}>{children}</body> */}
       <body
         className={cn(
-          "min-h-screen bg-background font-sans antialiased",
+          "min-h-screen bg-slate-100 font-sans antialiased",
           fontSans.variable,
         )}
       >
