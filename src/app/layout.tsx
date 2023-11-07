@@ -7,6 +7,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/toaster";
+import GoogleAnalytics from "./GoogleAnalytic";
 
 export const fontSans = FontSans({
   subsets: ["latin"],
@@ -35,6 +36,7 @@ export default function RootLayout({
         {children}
         <Toaster />
         <Analytics />
+        <GoogleAnalytics />
       </body>
     </html>
   );
