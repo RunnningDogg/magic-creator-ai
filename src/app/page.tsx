@@ -6,6 +6,8 @@ import { Tag } from "@/components/ui-tony/tag";
 import { FAQ } from "@/components/v0/faq";
 import Footer from "@/components/ui-tony/footer";
 import LinksList from "@/components/ui-tony/link-list";
+import TypeWriter from "@/components/ui-tony/type-writer";
+import SquigglyLines from "@/components/ui-tony/SquigglyLines";
 
 const cards = [
   {
@@ -141,12 +143,39 @@ export default function Home() {
       </header>
 
       <main className="flex flex-col items-center justify-center py-[10vh] sm:py-[10vh]">
-        <h1 className="mb-3 text-4xl font-medium text-black duration-1000 ease-in-out animate-in fade-in slide-in-from-bottom-3">
-          GPTs Store AI
+        <h1 className="mb-3 text-4xl font-bold text-black duration-1000 ease-in-out animate-in fade-in slide-in-from-bottom-3">
+          GPTs Store{" "}
+          <span className="relative whitespace-nowrap text-[#3290EE]">
+            <SquigglyLines />
+            <TypeWriter
+              className="relative"
+              typingSpeed={100}
+              deletingSpeed={75}
+              textArray={[
+                "DALL·E",
+                "Data Analysis",
+                "ChatGPT Classic",
+                "Game Time",
+                "The Negotiator",
+                "Creative Writing Coach",
+                "Cosmic Dream",
+                "Tech Support Advisor",
+                "Coloring Book Hero",
+                "Laundry Buddy",
+                "Sous Chef",
+                "Sticker Whiz",
+                "Math Mentor",
+                "Hot Melts",
+                "Mocktail Mixologist",
+                "gen z meme",
+              ]}
+            />
+          </span>{" "}
         </h1>
 
         <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
-          Shared your GPTs (Aka GPT workflow) with others 👍🏻
+          Find innovative GPTs and shared your GPTs (Aka GPT workflow) with
+          others 👍🏻
         </p>
 
         {/* input area to search workflow */}
@@ -156,7 +185,7 @@ export default function Home() {
         </div>
 
         {/* show area */}
-        <div className="mb-10 grid w-3/4 grid-cols-2 gap-2 bg-slate-100 px-4 py-8">
+        <div className="mb-10 grid w-3/4 grid-cols-2 gap-5 bg-slate-100 px-4 py-8">
           {cards.map((item, idx) => (
             <CardContainer
               key={idx}
@@ -176,7 +205,7 @@ export default function Home() {
                   src={item.image ?? "/react.png"}
                   alt="Picture of the author"
                   layout="fill" // required
-                  objectFit="cover" // change to suit your needs
+                  // objectFit="cover" // change to suit your needs
                   className="rounded-full" // just an example
                 />
               </div>
