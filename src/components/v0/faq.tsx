@@ -62,7 +62,7 @@ export function FAQ() {
       <Card className="w-[650px] shadow-lg">
         <CardContent className="p-6">
           <h2 className="text-2xl font-semibold">Frequently Asked Questions</h2>
-          <Accordion className="mt-4 w-full" collapsible="" type="multiple">
+          <Accordion className="mt-4 w-full" type="multiple">
             {qaArray.map((item, idx) => {
               const v = `item-${idx}`;
               if (idx !== qaArray.length - 1) {
