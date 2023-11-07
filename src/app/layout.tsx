@@ -7,7 +7,8 @@ import { Analytics } from "@vercel/analytics/react";
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/toaster";
-import GoogleAnalytics from "./GoogleAnalytic";
+import Script from "next/script";
+// import GoogleAnalytics from "./GoogleAnalytic";
 
 export const fontSans = FontSans({
   subsets: ["latin"],
@@ -36,7 +37,20 @@ export default function RootLayout({
         {children}
         <Toaster />
         <Analytics />
-        <GoogleAnalytics />
+
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-XPLK21FMNR"
+        ></Script>
+        <Script id="google-analytics">
+          {`
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XPLK21FMNR');
+  `}
+        </Script>
       </body>
     </html>
   );
