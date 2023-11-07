@@ -3,7 +3,7 @@ import Image from "next/image";
 import Link from "next/link";
 import CardContainer from "@/components/ui-tony/card-container";
 import { Tag } from "@/components/ui-tony/tag";
-import { FAQ } from "@/components/faq";
+import { FAQ } from "@/components/v0/faq";
 import Footer from "@/components/ui-tony/footer";
 import LinksList from "@/components/ui-tony/link-list";
 

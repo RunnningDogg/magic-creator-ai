@@ -47,7 +47,7 @@ const qaArray = [
     question:
       "What future developments are expected for GPTs in the GPTs Store?",
     answer:
-      "GPTs are expected to become smarter and more capable, eventually undertaking real-world tasks as 'agents', with a careful approach to technical and safety work.",
+      "GPTs are expected to become smarter and more capable, eventually undertaking real-world tasks as agents, with a careful approach to technical and safety work.",
   },
   {
     question: "Can developers connect GPTs to real-world data and services?",
