@@ -62,7 +62,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
   };
 
   // Update the search query state and filter the cards
-  const handleSearch = (e) => {
+  const handleSearch = (e: React.ChangeEvent<HTMLInputElement>) => {
     setQuery(e.target.value);
   };
 
