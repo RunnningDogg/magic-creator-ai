@@ -1,13 +1,12 @@
 import { SearchBar } from "@/components/ui-tony/search-bar";
 import Image from "next/image";
 import Link from "next/link";
-import CardContainer from "@/components/ui-tony/card-container";
-import { Tag } from "@/components/ui-tony/tag";
 import { FAQ } from "@/components/v0/faq";
 import Footer from "@/components/ui-tony/footer";
 import LinksList from "@/components/ui-tony/link-list";
 import TypeWriter from "@/components/ui-tony/type-writer";
 import SquigglyLines from "@/components/ui-tony/SquigglyLines";
+import TagsList from "@/components/ui-tony/tag-list";
 
 const cards = [
   {
@@ -27,20 +26,23 @@ const cards = [
     title: "ChatGPT Classic",
     content: "The earliest version of GPT-4 with no additional capabilities.",
     tag: "Technical Assistance",
+    image: "/gpt.png",
   },
   {
     title: "Game Time",
     content:
       "I can play text-based board games or card games to the rules you supply. Let the games begin!",
     tag: "Entertainment",
-    image: "/card-game.png",
+    image: "/game-time.png",
+    href: "https://chat.openai.com/g/g-Sug6mXozT-game-time",
   },
   {
     title: "The Negotiator",
     content:
       "I'll help you advocate for yourself and get better outcomes. Become a great negotiator.",
     tag: "Educational Support",
-    image: "/card-nego.png",
+    image: "/negotiator.png",
+    href: "https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator",
   },
   {
     title: "Creative Writing Coach",
@@ -48,6 +50,7 @@ const cards = [
       "I'm eager to read your work and give you feedback to improve your results.",
     tag: "Educational Support",
     image: "/card-writing-coach.png",
+    href: "https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach",
   },
   {
     title: "Cosmic Dream",
@@ -60,40 +63,51 @@ const cards = [
     content:
       "From setting up a printer to troubleshooting a device, I'm here to help you step-by-step.",
     tag: "Technical Assistance",
+    image: "/tech-support.jpg",
+    href: "https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor",
   },
   {
     title: "Coloring Book Hero",
     content: "Take any idea and turn it into whimsical coloring book pages.",
     tag: "Creative Services",
+    image: "/card-coloring.png",
   },
   {
     title: "Laundry Buddy",
     content:
       "Ask me anything about stains, settings, sorting and everything else laundry.",
     tag: "Lifestyle & Recreation",
+    image: "/laundry-buddy.png",
+    href: "https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy",
   },
   {
     title: "Sous Chef",
     content:
       "I'll give you recipes based on the foods you love and ingredients you have.",
     tag: "Lifestyle & Recreation",
+    image: "/sous-chef.jpg",
+    href: "https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef",
   },
   {
     title: "Sticker Whiz",
     content:
       "I'll help turn your wildest dreams into die-cut stickers, shipped right to your door.",
     tag: "Creative Services",
+    image: "/sticker-wizard.png",
+    href: "https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz",
   },
   {
     title: "Math Mentor",
     content:
       "Need help or practice help with math? Need a 98% refresh on geometry proofs? I'm here to help you.",
     tag: "Educational Support",
+    image: "/math-mentor.png",
+    href: "https://chat.openai.com/g/g-ENhijiiwK-math-mentor",
   },
   {
-    title: "Hot Melts",
+    title: "Hot Mods",
     content:
-      "Let's ready your image into something really wild. Upload an image and let's go!",
+      "Let's modify your image into something really wild. Upload an image and let's go!",
     tag: "Creative Services",
   },
   {
@@ -122,11 +136,19 @@ const links = [
   },
 ];
 
+const tags = [
+  "Creative Services",
+  "Educational Support",
+  "Technical Assistance",
+  "Entertainment",
+  "Lifestyle & Recreation",
+];
+
 export default function Home() {
   return (
     <>
       {/* max-w-5xl */}
-      <header className=" sticky top-0 z-20 mx-auto flex w-full  flex-row  flex-nowrap items-stretch justify-between border-b px-4 py-3 backdrop-blur-md duration-1000 ease-in-out animate-in fade-in slide-in-from-top-4 sm:px-6">
+      <header className=" sticky top-0 z-20 mx-auto flex w-full flex-row  flex-nowrap  items-center   justify-between border-b px-4 py-3 backdrop-blur-md duration-1000 ease-in-out animate-in fade-in slide-in-from-top-4 sm:px-6">
         {/* h-14 */}
         <Link href="/" className="flex items-center space-x-2">
           <Image
@@ -137,9 +159,31 @@ export default function Home() {
             height={48}
           />
           <span className="text-lg font-semibold tracking-tight text-gray-900 sm:text-xl md:text-2xl">
-            GPTs Store AI
+            GPTs Store
           </span>
         </Link>
+
+        <ul className="flex space-x-3">
+          <Link
+            href="https://ko-fi.com/F1F0QT7HI"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              height={36}
+              width={162} // 你需要提供正确的宽度
+              src="/kofi_button_red.png"
+              alt="Buy Me a Coffee at ko-fi.com"
+            />
+          </Link>
+          <Link
+            href="https://github.com/RunnningDogg/GPTs-Store/issues/1"
+            target="_blank"
+            className="hover:text-blue-500"
+          >
+            Submit GPTs
+          </Link>
+        </ul>
       </header>
 
       <main className="flex flex-col items-center justify-center py-[10vh] sm:py-[10vh]">
@@ -180,37 +224,12 @@ export default function Home() {
 
         {/* input area to search workflow */}
 
-        <div className="searchBar mb-10">
+        {/* <div className="searchBar mb-10">
           <SearchBar />
-        </div>
+        </div> */}
 
-        {/* show area */}
-        <div className="mb-10 grid w-3/4 grid-cols-2 gap-5 bg-slate-100 px-4 py-8">
-          {cards.map((item, idx) => (
-            <CardContainer
-              key={idx}
-              className="card-with-img rounded border   bg-white hover:border-blue-400 "
-            >
-              <div className="flex flex-col space-y-2">
-                <h3 className="text-2xl font-semibold leading-none tracking-tight">
-                  {item.title}
-                </h3>
-                <p className="text-sm text-muted-foreground">Powered By GPT</p>
-                <p className="content">{item.content}</p>
-                <Tag name={item.tag} />
-              </div>
-              <div className="relative h-32 w-32">
-                {/* // "relative" is required; adjust sizes to your liking */}
-                <Image
-                  src={item.image ?? "/react.png"}
-                  alt="Picture of the author"
-                  layout="fill" // required
-                  // objectFit="cover" // change to suit your needs
-                  className="rounded-full" // just an example
-                />
-              </div>
-            </CardContainer>
-          ))}
+        <div>
+          <TagsList tags={tags} cards={cards} />
         </div>
 
         {/* faq */}
@@ -220,6 +239,7 @@ export default function Home() {
         <LinksList className="mt-10" links={links} />
       </main>
       {/* footer */}
+
       <Footer />
     </>
   );

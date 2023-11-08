@@ -2,8 +2,8 @@
 .card-container {
   /* 这将创建多个列，但不允许它们换行 */
   display: grid;
-  grid-template-columns: 2fr 1fr;
-  padding: 2rem;
+  grid-template-columns: 1.5fr 1fr;
+  padding: 1rem 2rem;
 }
 
 .card {
