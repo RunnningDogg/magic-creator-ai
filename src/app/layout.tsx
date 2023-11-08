@@ -51,6 +51,11 @@ export default function RootLayout({
   gtag('config', 'G-XPLK21FMNR');
   `}
         </Script>
+        <Script
+          defer
+          data-domain="gpts-store.net"
+          src="https://plausible.io/js/script.js"
+        ></Script>
       </body>
     </html>
   );
