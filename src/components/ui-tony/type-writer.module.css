@@ -1,0 +1,15 @@
+@keyframes blink-cursor {
+  from,
+  to {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.typewriter::after {
+  margin-left: 3px;
+  content: "|";
+  animation: blink-cursor 1.3s infinite step-start;
+}

@@ -1,7 +1,7 @@
 "use client";
 import { cn } from "@/lib/utils";
 import React, { useEffect, useState } from "react";
-
+import styles from "./type-writer.module.css";
 type Props = {
   textArray: string[];
   className?: string;
@@ -59,7 +59,12 @@ export default function TypeWriter({
 
   return (
     <span
-      className={cn("text-4xl font-bold text-blue-400 ", className)}
+      className={cn(
+        "text-4xl font-bold text-blue-400 ",
+        // repeat-infinite after:ml-0.5 after:content-['|']
+        styles["typewriter"],
+        className,
+      )}
       {...props}
     >
       {displayedText}
