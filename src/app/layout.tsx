@@ -6,7 +6,8 @@ import { Analytics } from "@vercel/analytics/react";
 
 import { Inter as FontSans } from "next/font/google";
 import { cn } from "@/lib/utils";
-import { Toaster } from "@/components/ui/toaster";
+import { Toaster as ShadnCnToaster } from "@/components/ui/toaster";
+import { Toaster } from "react-hot-toast";
 import Script from "next/script";
 // import GoogleAnalytics from "./GoogleAnalytic";
 
@@ -35,7 +36,9 @@ export default function RootLayout({
         )}
       >
         {children}
+        <ShadnCnToaster />
         <Toaster />
+
         <Analytics />
 
         <Script

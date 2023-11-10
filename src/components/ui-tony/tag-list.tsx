@@ -38,7 +38,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
     return cards.filter(
       (card) =>
         (activeTags.length === 0 || activeTags.includes(card.tag)) &&
-        card.title.toLowerCase().includes(query.toLowerCase()),
+        card?.title?.toLowerCase().includes(query.toLowerCase()),
     );
   };
   // Call filterCards to filter based on both tags and query
@@ -71,6 +71,15 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
     filteredCards = filterCards();
     // This will cause the component to re-render with the updated filteredCards
   }, [activeTags, query]); // Add activeTags and query as dependencies
+
+  useEffect(() => {
+    async function fetchPost() {
+      const res = await fetch("/api/posts");
+      const posts = await res.json();
+      console.log(posts);
+    }
+    fetchPost();
+  });
 
   return (
     <div className="mx-auto flex flex-col items-center">
@@ -121,7 +130,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
                 // layout="responsive" // This will maintain aspect ratio
                 width={100} // Set desired aspect ratio width
                 height={100} // Set desired aspect ratio height
-                objectFit="contain" // This will ensure the image is contained within the element
+                // objectFit="contain" // This will ensure the image is contained within the element
                 className="rounded-full" // Maintain rounded corners
               />
             </div>
