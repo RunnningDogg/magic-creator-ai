@@ -100,8 +100,7 @@ export default function Home() {
         </h1>
 
         <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
-          Find innovative GPTs and shared your GPTs (Aka GPT workflow) with
-          others 👍🏻
+          Find innovative GPTs and shared your GPTs with others 👍🏻
         </p>
 
         {/* input area to search workflow */}
