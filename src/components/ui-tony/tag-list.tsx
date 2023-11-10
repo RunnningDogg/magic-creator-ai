@@ -11,10 +11,10 @@ import Link from "next/link";
 // 定义 TagsList 的属性类型
 interface TagsListProps {
   tags: string[];
-  cards?: {
-    title: string;
-    content: string;
-    tag: string;
+  cards: {
+    title?: string;
+    content?: string;
+    tag?: string;
     image?: string;
     href?: string;
   }[];
@@ -35,11 +35,16 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
   // 根据选中的标签过滤卡片
   // Combine both tag and query filtering into a single function
   const filterCards = () => {
-    return cards.filter(
-      (card) =>
-        (activeTags.length === 0 || activeTags.includes(card.tag)) &&
-        card?.title?.toLowerCase().includes(query.toLowerCase()),
-    );
+    return cards.filter((card) => {
+      if (card.tag) {
+        return (
+          (activeTags.length === 0 || activeTags.includes(card?.tag)) &&
+          card?.title?.toLowerCase().includes(query.toLowerCase())
+        );
+      } else {
+        return card?.title?.toLowerCase().includes(query.toLowerCase());
+      }
+    });
   };
   // Call filterCards to filter based on both tags and query
   let filteredCards = filterCards();
@@ -121,7 +126,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
                   Try It Out
                 </Link>
               )}
-              <Tag name={item.tag} />
+              <Tag name={item?.tag} />
             </div>
             <div className="relative w-full">
               <Image

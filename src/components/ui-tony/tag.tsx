@@ -3,7 +3,7 @@ import React from "react";
 
 // 定义 Tag 的类型接口
 interface TagProps {
-  name: string;
+  name?: string;
   className?: string;
   activeTags?: string[];
   handleTagClick?: () => void;
@@ -16,6 +16,10 @@ export const Tag: React.FC<TagProps> = ({
   activeTags,
   handleTagClick,
 }) => {
+  if (!name) {
+    return null;
+  }
+
   // Tailwind CSS颜色映射
   const colorMapping: { [key: string]: string } = {
     "Creative Services": "blue",
