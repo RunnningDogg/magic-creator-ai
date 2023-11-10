@@ -11,7 +11,7 @@ import Link from "next/link";
 // 定义 TagsList 的属性类型
 interface TagsListProps {
   tags: string[];
-  cards: {
+  cards?: {
     title: string;
     content: string;
     tag: string;
