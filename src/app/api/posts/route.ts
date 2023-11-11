@@ -12,6 +12,8 @@ export const GET = async (request: NextRequest) => {
 };
 
 export const POST = async (request: NextRequest) => {
+  //  const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
+
   const requestJson = await request.json();
   console.log("post " + requestJson);
   console.log(requestJson);

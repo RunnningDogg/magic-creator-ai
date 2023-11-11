@@ -3,10 +3,10 @@ import Image from "next/image";
 import CardContainer from "./card-container";
 import { Tag } from "./tag";
 import { useEffect, useState } from "react";
-import { SearchBar } from "./search-bar";
 import { Input } from "../ui/input";
 import { Button } from "../ui/button";
 import Link from "next/link";
+import { useRouter } from "next/navigation";
 
 // 定义 TagsList 的属性类型
 interface TagsListProps {
@@ -17,6 +17,7 @@ interface TagsListProps {
     tag?: string;
     image?: string;
     href?: string;
+    route?: string;
   }[];
 }
 
@@ -86,6 +87,8 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
     fetchPost();
   });
 
+  const router = useRouter();
+
   return (
     <div className="mx-auto flex flex-col items-center">
       <div className="searchBar mb-10 flex gap-2">
@@ -105,11 +108,12 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
         ))}
       </div>
 
-      <div className="mb-10 grid w-3/4  grid-cols-1 gap-5 bg-slate-100 px-4 py-8 md:grid-cols-2 lg:grid-cols-3">
+      <div className="mb-10 grid w-3/4 grid-cols-1 gap-8 bg-slate-100 p-6 transition duration-500 ease-in-out   md:grid-cols-2 lg:grid-cols-3">
         {filteredCards.map((item, idx) => (
           <CardContainer
+            onClick={() => router.push(`/gpts/${item.route}`)}
             key={idx}
-            className="card-with-img rounded border   bg-white hover:border-blue-400 "
+            className="card-with-img cursor-pointer rounded border bg-white  transition duration-150 hover:scale-110 hover:border-blue-400 hover:shadow-md"
           >
             <div className="flex flex-col space-y-2">
               <h3 className="text-2xl font-semibold leading-none tracking-tight">

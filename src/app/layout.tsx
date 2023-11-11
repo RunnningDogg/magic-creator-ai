@@ -9,6 +9,8 @@ import { cn } from "@/lib/utils";
 import { Toaster as ShadnCnToaster } from "@/components/ui/toaster";
 import { Toaster } from "react-hot-toast";
 import Script from "next/script";
+import Header from "@/components/ui-tony/general/header";
+import Footer from "@/components/ui-tony/footer";
 // import GoogleAnalytics from "./GoogleAnalytic";
 
 export const fontSans = FontSans({
@@ -35,12 +37,14 @@ export default function RootLayout({
           fontSans.variable,
         )}
       >
+        <Header />
         {children}
+        <Footer />
+
+        {/* toaster & analytic */}
         <ShadnCnToaster />
         <Toaster />
-
         <Analytics />
-
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-XPLK21FMNR"
