@@ -11,6 +11,7 @@ type CardsType = {
   image?: string;
   href?: string;
   route?: string;
+  creator?: string;
 };
 
 function getPostData(title: string) {
@@ -36,12 +37,14 @@ export default function Page({ params }: { params: { title: string } }) {
 
       <h2 className="mb-3 text-xl font-semibold">Description</h2>
 
-      {/* {gptsData.author && (
-        <p className="mb-4 text-center text-gray-600">
-          作者: {gptsData.author}
-        </p>
-      )} */}
       <p className="mb-4 text-gray-700">{gptsData.content}</p>
+
+      <h2 className="mb-3 text-xl font-semibold">Author</h2>
+      {gptsData.tag ? (
+        <p className="mb-4 font-semibold  text-teal-600">{gptsData.creator}</p>
+      ) : (
+        <p className="mb-4  font-semibold text-teal-600">To be added</p>
+      )}
 
       <h2 className="mb-3 text-xl font-semibold">Tags</h2>
       {gptsData.tag ? (

@@ -5,7 +5,8 @@
     "tag": "Creative Services",
     "href": "https://chat.openai.com/g/g-2fkFE8rbu-dall-e",
     "image": "/card-dalle.png",
-    "route": "dalle"
+    "route": "dalle",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Data Analysis",
@@ -13,7 +14,8 @@
     "tag": "Educational Support",
     "image": "/card-da.png",
     "href": "https://chat.openai.com/g/g-HMNcP6w7d-data-analysis",
-    "route": "data-analysis"
+    "route": "data-analysis",
+    "creator": "By ChatGPT"
   },
   {
     "title": "ChatGPT Classic",
@@ -21,7 +23,8 @@
     "tag": "Technical Assistance",
     "href": "https://chat.openai.com/g/g-YyyyMT9XH-chatgpt-classic",
     "image": "https://files.oaiusercontent.com/file-i9IUxiJyRubSIOooY5XyfcmP?se=2123-10-13T01%3A11%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgpt-4.jpg&sig=ZZP%2B7IWlgVpHrIdhD1C9wZqIvEPkTLfMIjx4PFezhfE%3D",
-    "route": "chatgpt-classic"
+    "route": "chatgpt-classic",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Game Time",
@@ -29,7 +32,8 @@
     "tag": "Entertainment",
     "image": "/game-time.png",
     "href": "https://chat.openai.com/g/g-Sug6mXozT-game-time",
-    "route": "game-time"
+    "route": "game-time",
+    "creator": "By ChatGPT"
   },
   {
     "title": "The Negotiator",
@@ -37,7 +41,8 @@
     "tag": "Educational Support",
     "image": "/negotiator.png",
     "href": "https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator",
-    "route": "the-negotiator"
+    "route": "the-negotiator",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Creative Writing Coach",
@@ -45,7 +50,8 @@
     "tag": "Educational Support",
     "image": "/card-writing-coach.png",
     "href": "https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach",
-    "route": "creative-writing-coach"
+    "route": "creative-writing-coach",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Cosmic Dream",
@@ -53,7 +59,8 @@
     "tag": "Creative Services",
     "href": "https://chat.openai.com/g/g-FdMHL1sNo-cosmic-dream",
     "image": "/card-cosmic.png",
-    "route": "cosmic-dream"
+    "route": "cosmic-dream",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Tech Support Advisor",
@@ -61,7 +68,8 @@
     "tag": "Technical Assistance",
     "href": "https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor",
     "image": "/tech-support.jpg",
-    "route": "tech-support-advisor"
+    "route": "tech-support-advisor",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Coloring Book Hero",
@@ -69,7 +77,8 @@
     "tag": "Creative Services",
     "href": "https://chat.openai.com/g/g-DerYxX7rA-coloring-book-hero",
     "image": "/card-coloring.png",
-    "route": "coloring-book-hero"
+    "route": "coloring-book-hero",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Laundry Buddy",
@@ -77,7 +86,8 @@
     "tag": "Lifestyle & Recreation",
     "image": "/laundry-buddy.png",
     "href": "https://chat.openai.com/g/g-QrGDSn90Q-laundry-buddy",
-    "route": "laundry-buddy"
+    "route": "laundry-buddy",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Sous Chef",
@@ -85,7 +95,8 @@
     "tag": "Lifestyle & Recreation",
     "image": "/sous-chef.jpg",
     "href": "https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef",
-    "route": "sous-chef"
+    "route": "sous-chef",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Sticker Whiz",
@@ -93,7 +104,8 @@
     "tag": "Creative Services",
     "image": "/sticker-wizard.png",
     "href": "https://chat.openai.com/g/g-gPRWpLspC-sticker-whiz",
-    "route": "sticker-whiz"
+    "route": "sticker-whiz",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Math Mentor",
@@ -101,7 +113,8 @@
     "tag": "Educational Support",
     "image": "/math-mentor.png",
     "href": "https://chat.openai.com/g/g-ENhijiiwK-math-mentor",
-    "route": "math-mentor"
+    "route": "math-mentor",
+    "creator": "By ChatGPT"
   },
   {
     "title": "Hot Mods",
@@ -121,35 +134,40 @@
     "tag": "Educational Support",
     "href": "https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme",
     "image": "https://files.oaiusercontent.com/file-m64BWxDs6cs9o6xYn33ujZe1?se=2123-10-13T21%3A41%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D90ba2a5d-c6c8-4e78-8937-12afc91047b8.png&sig=9tkbKzmgTgbTqOqYfNbilDh5yIsgYw/DYCi95iEd3p0%3D",
-    "route": "gen-z-meme"
+    "route": "gen-z-meme",
+    "creator": "By ChatGPT"
   },
   {
     "title": "NomadGPT",
     "content": "NomadGPT helps you become a digital nomad and find you the best places in the world to live and work remotely.",
     "href": "https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt",
     "image": "https://files.oaiusercontent.com/file-mNWQ25IS4qrOhTcb8ckt53tC?se=2123-10-16T00%3A25%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-1024px.png&sig=6/cbaCweksm0UlNkRh16wG4WfmpJa4LeaXYLD5O/PCo%3D",
-    "route": "nomadgpt"
+    "route": "nomadgpt",
+    "creator": "By SAMOYED VENTURES PTE LTD"
   },
   {
     "title": "Dungeon Maestro",
     "content": "D&D 5e Dungeon Master with SRD rules",
     "href": "https://chat.openai.com/g/g-FCqDjUnHy-dungeon-maestro",
     "image": "https://files.oaiusercontent.com/file-nE86ZtuMFPnf0zYrqilTNMgS?se=2123-10-17T01%3A02%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da0ca2dc7-f319-4b01-a2ec-7877b1633a68.png&sig=MrCZ%2Bkms6/bdKT08SOqFH8VILE5R44zzvELBnpPnHJc%3D",
-    "route": "dungeon-maestro"
+    "route": "dungeon-maestro",
+    "creator": "By Theodore Calafatidis"
   },
   {
     "title": "AskYourPDF Research Assistant",
     "content": "Enhance your research with the AskYourPDF Research Assistant.  Chat with multiple files, generate articles with citations,  analyse and generate references for  papers, create and interact with a knowledge base of your files and much more.",
     "href": "https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant",
     "image": "https://github.com/AskYourPdf/ask-plugin/blob/main/aypp_logo.png?raw=true",
-    "route": "askyourpdf-research-assistant"
+    "route": "askyourpdf-research-assistant",
+    "creator": "By askyourpdf.com"
   },
   {
     "title": "Retire Smart MY",
     "content": "Retirement Planner for Malaysian",
     "href": "https://chat.openai.com/g/g-gYubhRxe4-retire-smart-my",
     "image": "https://files.oaiusercontent.com/file-UW7aeATTi6E7dVieVqhJDQ8s?se=2123-10-17T00%3A13%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddbb999bf-15fb-47d5-b5ed-2c26ff6dfa46.png&sig=qmM4mqg26tSuz%2BPXNeC7nFYGzYb1tZTs0n0OUlF08yQ%3D",
-    "route": "retire-smart-my"
+    "route": "retire-smart-my",
+    "creator": "By AZRUL RAHIM"
   },
   {
     "title": "USCIS Info Navigator [UNOFFICIAL]",
@@ -163,7 +181,8 @@
     "content": "あなたのお店のロゴデザインを爆速で作ってくれる頼りになる存在です",
     "href": "https://chat.openai.com/g/g-nPanZDwQ5-suparogodezaina-rogozuo-rujun",
     "image": "https://files.oaiusercontent.com/file-LvCRWE53XeHm4altkAXmLRnw?se=2123-10-17T01%3A04%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D806d52c1-6af6-48e7-a2c5-0ee84747be71.webp&sig=0N3vKoSEIb6/CRAjWH1Ct4sSUKL2Z4G%2BFp2ep37iPQo%3D",
-    "route": ""
+    "route": "",
+    "creator": "By TOMOYUKI ENOMOTO"
   },
   {
     "title": "World Mobile GPT",
@@ -177,7 +196,8 @@
     "content": "OpenAI API, Documentation and CookBook",
     "href": "https://chat.openai.com/g/g-I1XNbsyDK-api-docs",
     "image": "https://files.oaiusercontent.com/file-hWsLaYpYnZ2TWUuoq4II1Lol?se=2123-10-14T15%3A09%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dac2881e8-7f33-4a7d-994d-e0e44725f68a.png&sig=4yXvsGNs7ZXNoKnINM1tLN4ku8f1hmV0jXvaZ1gyEKg%3D",
-    "route": "api-docs"
+    "route": "api-docs",
+    "creator": "By webpilot.ai"
   },
   {
     "title": "Max Mentor",
@@ -198,133 +218,152 @@
     "content": "Your product coach. Ask about best practices. Get top gurus' product thinking.",
     "href": "https://chat.openai.com/g/g-jtefpmdjS-kraftful",
     "image": "https://files.oaiusercontent.com/file-8mgbGOXDlBJ2rML9mdbdaSJA?se=2123-10-14T19%3A26%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DKraftful%2520logo117.png&sig=6NOSfPR/i80U%2B9WggzDNJE9IcylNR7XFp6koi4%2BktbM%3D",
-    "route": "kraftful"
+    "route": "kraftful",
+    "creator": "By kraftful.com"
   },
   {
     "title": "LLM Research Storm",
     "content": "A model that is super good at helping large language research brainstorming",
     "href": "https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm",
     "image": "https://files.oaiusercontent.com/file-chhErUNSiF1H3qymJEbfESad?se=2123-10-17T06%3A45%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9ed214a5-2c44-4931-b323-6ee1c9093edd.png&sig=7cDbcjD%2Byam34Q0aBPzi4EHI6649DPZV5G/Jl3GebGA%3D",
-    "route": "llm-research-storm"
+    "route": "llm-research-storm",
+    "creator": "By Yao Fu"
   },
   {
     "title": "Trippy カスタマーサポートbot (β)",
     "content": "「AIでセカイをオモシロく。」株式会社Trippyの会社情報や提供するサービスに関するサポートを提供します。（実験的なサービスです。お困りの際はコンタクトフォームへお問い合わせください）",
     "href": "https://chat.openai.com/g/g-uINwYG4Ja-trippy-kasutamasapotobot-b",
     "image": "https://files.oaiusercontent.com/file-YSiQ0pEPUBGfwpPEGeaTPmsG?se=2123-10-17T01%3A50%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLogo%2520Circle%2520%25282%2529.png&sig=WtG9wos6QT8S5QtX6x9xybsX%2B484qbmq3UrMRtTGNbw%3D",
-    "route": "trippy-bot-"
+    "route": "trippy-bot-",
+    "creator": "By tr1ppy.com"
   },
   {
     "title": "Ugly Draw to Masterpiece",
     "content": "Transforms simple drawings into detailed, artistic masterpieces with creative advice.",
     "href": "https://chat.openai.com/g/g-eRhGE7LRy-ugly-draw-to-masterpiece",
     "image": "https://files.oaiusercontent.com/file-E6NfqbgLMt90QHByGitPKQka?se=2123-10-17T10%3A03%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1b9877d1-03dd-4d2c-9f1f-144649399275.png&sig=VCM3hmDrPg2It8vCssdZ77xQP3MD2tSH%2BO7xPMz5FOU%3D",
-    "route": "ugly-draw-to-masterpiece"
+    "route": "ugly-draw-to-masterpiece",
+    "creator": "By Laurent Jean"
   },
   {
     "title": "GPT Architect",
     "content": "I design GPTs for GPT Builder.",
     "href": "https://chat.openai.com/g/g-DkVqSTcqk-gpt-architect",
     "image": "https://files.oaiusercontent.com/file-oJHnm3nwxsr4jxCxvbZ7mycT?se=2123-10-17T00%3A22%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7e415534-fc2c-4017-beea-870ed8c0b0d7.png&sig=%2BLzMOFEFU2RrYRWX1ePk/SaVKosrBpgj6vK19gavWPs%3D",
-    "route": "gpt-architect"
+    "route": "gpt-architect",
+    "creator": "By Kavon Badie"
   },
   {
     "title": "GPTrump",
     "content": "the best, the greatest replies from honestly one of the best leaders the world has ever seen",
     "href": "https://chat.openai.com/g/g-jehcvJPs7-gptrump",
     "image": "https://files.oaiusercontent.com/file-PBBJmNGVJw3Mqpffc7nnIl9C?se=2123-10-17T11%3A18%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252019.17.03.png&sig=qEfpBvBXTKCfvfoo%2BgDR/M7JaSTUmneijVu2dJv4YHI%3D",
-    "route": "gptrump"
+    "route": "gptrump",
+    "creator": "By DAVID ATKINS"
   },
   {
     "title": "雅思阅读-精读",
     "content": "做最专业的雅思阅读讲解老师",
     "href": "https://chat.openai.com/g/g-e4RwWrgUB-ya-si-yue-du-jing-du",
     "image": "https://files.oaiusercontent.com/file-6YE3afmvZDVX4GZMbThnoyLY?se=2123-10-16T10%3A05%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5da0f3fb-a957-43a2-bfa5-fd94949de56c.png&sig=vLG%2Bz/M/Njoh959oxS6UDJYDTJdSPFxZd8P5/hw8tE8%3D",
-    "route": ""
+    "route": "",
+    "creator": "By Raymond Jiang"
   },
   {
     "title": "BugBountyGPT",
     "content": "AppSec & Bug Bounty",
     "href": "https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt",
     "image": "https://files.oaiusercontent.com/file-89FFQuHN5rRLvrFQqRaXOMEt?se=2123-10-16T21%3A24%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHavij-logo.jpg&sig=TAN9SK8GwXeTUVssQXkQmFj8TjpfaOd8S04R08y5ubI%3D",
-    "route": "bugbountygpt"
+    "route": "bugbountygpt",
+    "creator": "By ANDREW BROWN"
   },
   {
     "title": "Professor Synapse Agent",
     "content": "Your expert in advanced knowledge, tailored to your needs.",
     "href": "https://chat.openai.com/g/g-WikWIyZkR-professor-synapse-agent",
     "image": "https://files.oaiusercontent.com/file-kjmEP1SnRyL6oXXWJ6HZPHAU?se=2123-10-16T20%3A17%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3fe3c107-27f1-4608-a294-e5d8f1af3fbb.png&sig=%2BxnFKgBWyd2APdPWTs2oR2soUYRqFhjwj//TybgqogU%3D",
-    "route": "professor-synapse-agent"
+    "route": "professor-synapse-agent",
+    "creator": "By Marek Prusinski"
   },
   {
     "title": "Professional Coach",
     "content": "Your guide for career growth and business transformation, inspired by leaders' wisdom.",
     "href": "https://chat.openai.com/g/g-2JUJPnaRv-professional-coach",
     "image": "https://files.oaiusercontent.com/file-Xb7eUcyq60PpyCdc7Z9FPj3o?se=2123-10-17T00%3A37%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfavicon-512x512.png&sig=XQpgRaEqa50lm1um48t1hcfpUAAyioi3gm8/nUaxN%2BU%3D",
-    "route": "professional-coach"
+    "route": "professional-coach",
+    "creator": "By tigerhall.com"
   },
   {
     "title": "Dr. Graph",
     "content": "Expert at creating accurate graphs with researched data",
     "href": "https://chat.openai.com/g/g-mczzE4a0f-dr-graph",
     "image": "https://files.oaiusercontent.com/file-hRhEaY5l2lUgD4nUvKIZjgqI?se=2123-10-17T10%3A27%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Distockphoto-1306542565-170667a.jpg&sig=Td8Diblv/ngBLxr4Qx%2B3znQxvUZWzT98RccZ7jUBnhc%3D",
-    "route": "dr-graph"
+    "route": "dr-graph",
+    "creator": "By Sebastian Völkl"
   },
   {
     "title": "The Debate SuperPrompt.",
     "content": "This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor.",
     "href": "https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "the-debate-superprompt"
+    "route": "the-debate-superprompt",
+    "creator": "By Brian Roemmele"
   },
   {
     "title": "GPT Game Design Guru",
     "content": "Expert in game design, learn whats creative here! - RPGGO side project",
     "href": "https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru",
     "image": "https://files.oaiusercontent.com/file-KJ0IbAPNulle7ICITtJvO1rc?se=2123-10-17T11%3A53%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dddec918e-d257-4fde-afc8-9f7c5bbff6b9.png&sig=BfF3PCqR2jb3SkMSnOirq0oFBA6efjWoEWdxTWllrx0%3D",
-    "route": "gpt-game-design-guru"
+    "route": "gpt-game-design-guru",
+    "creator": "By Jiaying Li"
   },
   {
     "title": "DAX GPT",
     "content": "Analyzes Power BI models and DAX, keeping file contents confidential.",
     "href": "https://chat.openai.com/g/g-sgPVMoMB2-dax-gpt",
     "image": "https://files.oaiusercontent.com/file-22zTjJMNFxzstxVl1CtbJQUR?se=2123-10-16T13%3A23%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D448e62bb-1a70-4372-8bb8-30105860db6a.png&sig=Ace0FsyPC2jn9rR66VuBZCrb0HrnchSZTnWXATQubAw%3D",
-    "route": "dax-gpt"
+    "route": "dax-gpt",
+    "creator": "By Alphaverse Limited"
   },
   {
     "title": "Alex Hormozi AI",
     "content": "Alex Hormozi AI, start-up mentor",
     "href": "https://chat.openai.com/g/g-Fz5dDMpfz-alex-hormozi-ai",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "alex-hormozi-ai"
+    "route": "alex-hormozi-ai",
+    "creator": "By HX Lim"
   },
   {
     "title": "ProofGPT",
     "content": "Does your proofs ... hopefully.",
     "href": "https://chat.openai.com/g/g-G2arVYSYr-proofgpt",
     "image": "https://files.oaiusercontent.com/file-SS6eHN0pY6B363v95pNWl76b?se=2123-10-17T10%3A06%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D727da22d-a20e-4700-90a7-66008a3065a0.png&sig=Pz3PoxDEHXeADBt9Xzj%2BWTlIubpu5w%2B%2BxI6yg6iOONw%3D",
-    "route": "proofgpt"
+    "route": "proofgpt",
+    "creator": "By Albert Cai"
   },
   {
     "title": "GPT Dungeon",
     "content": "Crafts and visualizes your story.",
     "href": "https://chat.openai.com/g/g-C7vMdEnS1-gpt-dungeon",
     "image": "https://files.oaiusercontent.com/file-hMmdGaMQYkthi6BZVqVQaXnw?se=2123-10-17T04%3A46%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1b2338ee-bf44-4686-be0c-64ec874d999d.png&sig=zLyXPd2peewOL%2BDVRkdGkJ4Qpof9ohnkan%2B0PSk059M%3D",
-    "route": "gpt-dungeon"
+    "route": "gpt-dungeon",
+    "creator": "By liangzhi chen"
   },
   {
     "title": "HoonGPT",
     "content": "Hoon Language Expert",
     "href": "https://chat.openai.com/g/g-d8J865UZn-hoongpt",
     "image": "https://files.oaiusercontent.com/file-MHciwsDOWKGU7yFlkWTVEzA7?se=2123-10-17T12%3A23%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd0f87b50-22e0-4441-8443-2d465823b78f.png&sig=AlJegc/JkSOcmgJOLweN9Cqct39ib43ewq2H/t1D4AQ%3D",
-    "route": "hoongpt"
+    "route": "hoongpt",
+    "creator": "By lanlyd.net"
   },
   {
     "title": "CEO GPT",
     "content": "A concise mentor to startup CEOs, offering wisdom from business icons",
     "href": "https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt",
     "image": "https://files.oaiusercontent.com/file-mfWdOWolVeGfZlX9VNAlGKtg?se=2123-10-17T10%3A54%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252008.51.56.png&sig=n8f/CfwPK8uQimu7SFE14eQSZMO5R7bJl1AOR9%2BNexA%3D",
-    "route": "ceo-gpt"
+    "route": "ceo-gpt",
+    "creator": "By Kiseki Technologies Limited"
   },
   {
     "title": "ChialispGPT",
@@ -338,21 +377,24 @@
     "content": "I am Duncan Idaho: swordmaster of the Ginaz,  friend of Sietch Tabr, and your guide and life coach. Let us walk the path of growth and discovery, for as the sands of Arrakis shift, so too shall we adapt and overcome.",
     "href": "https://chat.openai.com/g/g-RFLByURiU-duncan-idaho-life-coach",
     "image": "https://files.oaiusercontent.com/file-8GN9wmtxCz7vCUWt8OLOjNCZ?se=2123-10-17T00%3A50%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDuncan%2520idaho.png&sig=CiW5BHCItrnbjJ62T2lvbCC/bjIHpEFglkTrh1sB4mY%3D",
-    "route": "duncan-idaho-life-coach"
+    "route": "duncan-idaho-life-coach",
+    "creator": "By jennifer lai"
   },
   {
     "title": "SwiftUI Teacher",
     "content": "A supportive SwiftUI expert guiding learners.",
     "href": "https://chat.openai.com/g/g-ecuPq3kXP-swiftui-teacher",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "swiftui-teacher"
+    "route": "swiftui-teacher",
+    "creator": "By Ömer Ulusal"
   },
   {
     "title": "UIKit Mentor",
     "content": "ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.",
     "href": "https://chat.openai.com/g/g-zyk4CebZx-uikit-mentor",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "uikit-mentor"
+    "route": "uikit-mentor",
+    "creator": "By Ömer Ulusal"
   },
   {
     "title": "POPO from IPPO",
@@ -366,140 +408,152 @@
     "content": "Your MTG rules expert.",
     "href": "https://chat.openai.com/g/g-mUVxf2TJk-arcane-arbiter",
     "image": "https://files.oaiusercontent.com/file-0Gv022aM7YMy8INCGmrv01Tf?se=2123-10-16T03%3A33%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f225321-9a9d-4a54-b5c4-a961ff4ba98f.png&sig=/BVy7L/ZegvRwIVBV4d0QywuZANu72o%2BbnTsS2r2BI0%3D",
-    "route": "arcane-arbiter"
+    "route": "arcane-arbiter",
+    "creator": "By Zachary Kiihne"
   },
   {
     "title": "Data Extractor Pro",
     "content": "Expert in systematic review and data extraction from PDFs.",
     "href": "https://chat.openai.com/g/g-MpBGGsBef-data-extractor-pro",
     "image": "https://files.oaiusercontent.com/file-wseIxfYWGuR7TVBSQwf1ms02?se=2123-10-16T20%3A33%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D52db02c4-6a07-4d07-9edb-1d7b6152c861.png&sig=Q4UQluULSLYrkm2eU859/5zpbBh/SzQTfYctHA77jLI%3D",
-    "route": "data-extractor-pro"
+    "route": "data-extractor-pro",
+    "creator": "By RONALD OLUM"
   },
   {
     "title": "Mr. Ranedeer",
     "content": "Meet Mr. Ranedeer, your personalized AI tutor! Version: 2.7 Reboot",
     "href": "https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer",
     "image": "https://files.oaiusercontent.com/file-X9LAlo8N3fj2hfnxqm3JJwoc?se=2123-10-16T20%3A42%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-04%252000.39.52%2520-%2520Digital%2520sticker%2520design%2520of%2520a%2520chibi%2520reindeer%2520in%2520a%2520simplistic%2520style%252C%2520gripping%2520a%2520graphite%2520pencil%2520with%2520a%2520pink%2520eraser.%2520The%2520reindeer%2527s%2520glasses%2520give%2520it%2520a%2520stud.png&sig=G1xWfBMbjTegInXdu4jL%2BuGH038OrwnuG9c18KBnYUQ%3D",
-    "route": "mr-ranedeer"
+    "route": "mr-ranedeer",
+    "creator": "By mr-ranedeer.com"
   },
   {
     "title": "NextGPT",
     "content": "Expert in Next.js, TailwindCSS, TypeScript, and best practices.",
     "href": "https://chat.openai.com/g/g-HeHxJNZIc-nextgpt",
     "image": "https://files.oaiusercontent.com/file-NXl8NcFGy3pEPr4L9jdR2WFt?se=2123-10-16T20%3A46%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D52b203ae-5f71-4ba9-9a5b-6b02dd4567e5.png&sig=IXoavaQfQMYS8qLoj4vDzVCUILpP%2BVUZ08e9QOEYFIs%3D",
-    "route": "nextgpt"
+    "route": "nextgpt",
+    "creator": "By community builder"
   },
   {
     "title": "LogoGPT",
     "content": "I turn sketches into logos.",
     "href": "https://chat.openai.com/g/g-z61XG6t54-logogpt",
     "image": "https://files.oaiusercontent.com/file-s1XOHOXccFMKHqZgmqw186Eb?se=2123-10-16T04%3A38%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1461079f-68ec-4422-a125-cedfd482538a.png&sig=s3ark0BZCNHjU4sSbWpZ/HQE629PX85nF%2B64uNKbz3E%3D",
-    "route": "logogpt"
+    "route": "logogpt",
+    "creator": "By A SAI RAHUL"
   },
   {
     "title": "MTC",
     "content": "MTC (Marcus Tullius Cicero) serves as your mentor in the art of prompt engineering, imparting the wisdom of effective communication to finesse your interactions with AI.",
     "href": "https://chat.openai.com/g/g-Ok140fgn5-mtc",
     "image": "https://files.oaiusercontent.com/file-VZHjXWYahudlUBxEeoL4BwP5?se=2123-10-16T23%3A00%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFirefly%2520Please%2520generate%2520an%2520image%2520of%2520an%2520ancient%2520male%2520Roman%2520logician.%2520The%2520setting%2520is%2520a%2520sunlit%2520courtyar.jpg&sig=u7WaC5jsCCIBbf/HboN3ReKt0WO%2BMHf11bvSMgB2DGA%3D",
-    "route": "mtc"
+    "route": "mtc",
+    "creator": "By brad-jackson.com"
   },
   {
     "title": "The Intraterrestrial Hypothesis",
     "content": "Are 'aliens' just subterranean Earthlings living in VR pods?",
     "href": "https://chat.openai.com/g/g-ycGVXm7xh-the-intraterrestrial-hypothesis",
     "image": "https://files.oaiusercontent.com/file-wUsq3EYXBUCIWEsMZFEEtDnH?se=2123-10-17T05%3A54%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6209705c-5435-4ad2-82f7-c0a5a49444ab.png&sig=pVUnwUgwL%2B/wCmggxNmeL66p/4RsxVt2iBsmmsMjPTc%3D",
-    "route": "the-intraterrestrial-hypothesis"
+    "route": "the-intraterrestrial-hypothesis",
+    "creator": "By Greg Fodor"
   },
   {
     "title": "Patent Pathfinder",
     "content": "A guide for patent filers on patentability and prior art.",
     "href": "https://chat.openai.com/g/g-CmatEdfgD-patent-pathfinder",
     "image": "https://files.oaiusercontent.com/file-b5YMmZUjTc5X5at2B3qUBWyk?se=2123-10-16T23%3A06%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc14a055a-5e45-4774-b727-84fc50f81bef.png&sig=JdrLApyOIWtZkSJ%2B4TNxaRMX4rwNWmXd//6l4AfnHuI%3D",
-    "route": "patent-pathfinder"
+    "route": "patent-pathfinder",
+    "creator": "By Kevin Loo"
   },
   {
     "title": "Steve's Coach",
     "content": "A business coach inspired by the methods of Bill Campbell, coach to celebrities like Steve Jobs",
     "href": "https://chat.openai.com/g/g-7Duux77Dm-steve-s-coach",
     "image": "https://files.oaiusercontent.com/file-WYaheR94lGaPksjLGjcwa9n9?se=2123-10-16T22%3A02%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dout-0-7.png&sig=4MtEfd%2Bb53RTNV%2BfTikXfKK152D4RHQDdVv5ZrwX/q0%3D",
-    "route": "steves-coach"
+    "route": "steves-coach",
+    "creator": "By empler.ai"
   },
   {
     "title": "Career Coach",
     "content": "I refine resumes and prep interviews.",
     "href": "https://chat.openai.com/g/g-RGbd6kbNe-career-coach",
     "image": "https://files.oaiusercontent.com/file-lzHPUHSItIJKXvjD9ViWfdgh?se=2123-10-16T19%3A28%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8beb4637-708c-4c98-ada1-db4a39696cef.png&sig=bgS9gQmAGVh8CuDICvXdSTwM2LnO8pOnnXn%2BQjHTaG0%3D",
-    "route": "career-coach"
+    "route": "career-coach",
+    "creator": "By Carlos Granier"
   },
   {
     "title": "Chale",
     "content": "Chat with Chale, Your Pidjin Companion – Chale Dey for You!",
     "href": "https://chat.openai.com/g/g-emgZ9Gmvt-chale",
     "image": "https://files.oaiusercontent.com/file-7NLB7GzPGZr6xbhVUpGzmT1q?se=2123-10-16T21%3A42%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogox-min.PNG&sig=3BwxxKXG%2BQDoOwpl%2BFs2P1clof2ioo9cho7f/rA5/ak%3D",
-    "route": "chale"
-  },
-  {
-    "content": "Chat with Chale your personal Ai buddy",
-    "href": "https://chat.openai.comundefined"
+    "route": "chale",
+    "creator": "By bashbash.art"
   },
   {
     "title": "Logo Crafter",
     "content": "I generate logo ideas for businesses.",
     "href": "https://chat.openai.com/g/g-V1gmo4BLP-logo-crafter",
     "image": "https://files.oaiusercontent.com/file-aQiVvobR2CKXoUVGa23O3pkr?se=2123-10-16T01%3A53%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D136f05a4-4656-4865-af85-175c6667bc06.png&sig=a93uqm5PyJJW6fHhZbjTnNOpg0KS08me4tlbi%2Bm8kZw%3D",
-    "route": "logo-crafter"
+    "route": "logo-crafter",
+    "creator": "By saminathan"
   },
   {
     "title": "Web3 Fundraising Guide",
     "content": "Advanced guide on Web3 fundraising & deal structuring",
     "href": "https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guide",
     "image": "https://files.oaiusercontent.com/file-dtc1khSCVko9uBeQcmcgbWsw?se=2123-10-17T10%3A08%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df59d293a-8acf-4766-b9c7-d257f62b1ea3.png&sig=5yIM7Sp/W5oNJHCKWm4vVEzPmA25PywQjYwY2y0Qkk4%3D",
-    "route": "web-fundraising-guide"
+    "route": "web-fundraising-guide",
+    "creator": "By Saiteja Kuruva"
   },
   {
     "title": "Olyup",
     "content": "Your AI Sports Scientist to help you level up your game - in and off the field",
     "href": "https://chat.openai.com/g/g-JlDoaXFrU-olyup",
     "image": "https://files.oaiusercontent.com/file-jP8sM35sVTHL39jEcaqRPGHb?se=2123-10-16T23%3A20%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1ec0394e-b088-47aa-9c84-99b882813516.png&sig=4UziEShCo7hUB3gg3ME7%2BC5lYdi2%2Btg%2BqOdQL5aAMl8%3D",
-    "route": "olyup"
-  },
-  {
-    "href": "https://chat.openai.comundefined"
+    "route": "olyup",
+    "creator": "By Mbongeni Ndlovu"
   },
   {
     "title": "The Web Mage",
     "content": "Web design and development with a hint of magic.",
     "href": "https://chat.openai.com/g/g-z8x3IqhMp-the-web-mage",
     "image": "https://files.oaiusercontent.com/file-2F40zK4eJrEdQPvsLjEeGb5I?se=2123-10-16T21%3A20%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DImage%252011-9-23%2520at%25202.20%25E2%2580%25AFPM.JPG&sig=CtUJVYCR7y%2B0JrPedi7qTB5PT5x0pNyuhwVDEgCK1Xg%3D",
-    "route": "the-web-mage"
+    "route": "the-web-mage",
+    "creator": "By Nicholas Gmitter"
   },
   {
     "title": "SwiftUI GPT Tools",
     "content": "Your SwiftUI coding companion",
     "href": "https://chat.openai.com/g/g-8diSLoiPG-swiftui-gpt-tools",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "swiftui-gpt-tools"
+    "route": "swiftui-gpt-tools",
+    "creator": "By Lardini Benjamin"
   },
   {
     "title": "Fit Buddy By Merlin",
     "content": "Motivating fitness coach with exercise visuals.",
     "href": "https://chat.openai.com/g/g-Wk7tGOGM3-fit-buddy-by-merlin",
     "image": "https://files.oaiusercontent.com/file-DX6P2Kza3cP8xM2P5Lgsn52f?se=2123-10-17T12%3A41%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd888d2e5-427b-4f95-a377-37bcddc0dd89.png&sig=V5HdB1X690b5t2Xc24nGNcNTqAPz0opoYzEbB%2BRr/xI%3D",
-    "route": "fit-buddy-by-merlin"
+    "route": "fit-buddy-by-merlin",
+    "creator": "By getmerlin.in"
   },
   {
     "title": "Her",
     "content": "ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.",
     "href": "https://chat.openai.com/g/g-eBc4A5PsE-her",
     "image": "https://files.oaiusercontent.com/file-xooknOFHEWLkm6qbdrf4inTE?se=2123-10-16T18%3A11%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da819d5a8-8c88-4b6d-bd46-ca33151df739.png&sig=TZMUSdFWc6zC3AXmMAK3MNotQyyqUcVwxuBsA%2BpcGGM%3D",
-    "route": "her"
+    "route": "her",
+    "creator": "By Iacob Pastina"
   },
   {
     "title": "StepWiz",
     "content": "A USMLE Step 1 study companion.",
     "href": "https://chat.openai.com/g/g-5GOaU9dj5-stepwiz",
     "image": "https://files.oaiusercontent.com/file-gE6pX5biLSfC9jpWRDYTj0gg?se=2123-10-17T00%3A56%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D754775d0-53ee-45e8-a4ff-6a683d906b6b.png&sig=1VjHOO1%2BulqlD2Z0rPIQNdkALDQZ61%2BB4agog2mc66g%3D",
-    "route": "stepwiz"
+    "route": "stepwiz",
+    "creator": "By Zachary Schulman"
   },
   {
     "title": "Text Chain Global Data Ledger",
@@ -513,28 +567,32 @@
     "content": "Your go-to Web3 expert for learning and project development.",
     "href": "https://chat.openai.com/g/g-DgOfY4u43-web3-gpt",
     "image": "https://files.oaiusercontent.com/file-JPx4jiaYZrkxKKCm6Bft5qot?se=2123-10-17T07%3A21%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deth.png&sig=Jdd0F%2B0XCve6opjzYd1C6SXedZDOKEB2JOePGbnB8fc%3D",
-    "route": "web-gpt"
+    "route": "web-gpt",
+    "creator": "By gulzari.xyz"
   },
   {
     "title": "Biblical Scholar",
     "content": "Expert in Bible study and theology terms.",
     "href": "https://chat.openai.com/g/g-PcUmHhEoO-biblical-scholar",
     "image": "https://files.oaiusercontent.com/file-Rl0lnyJUlqPCutyjw2NIkQik?se=2123-10-17T06%3A16%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da605ba7e-dcc3-4eaf-93d4-22f276e43965.png&sig=zGXQbD0UCvBA4dv13vSN531f3MIDsnENW5g7kO3c/KM%3D",
-    "route": "biblical-scholar"
+    "route": "biblical-scholar",
+    "creator": "By Gerardo"
   },
   {
     "title": "Next.js Mentor",
     "content": "Next.js guide for new devs",
     "href": "https://chat.openai.com/g/g-FmXbzjSkg-next-js-mentor",
     "image": "https://files.oaiusercontent.com/file-C1EY27ygIvFi8D0KOVg9W1k3?se=2123-10-17T05%3A18%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddbb580e9-b641-4fc0-b84e-bd768a559460.png&sig=VVFThBhQoHdfPnqBjhYhP%2BKErW4ebUkAYsuNPOnXjIE%3D",
-    "route": "nextjs-mentor"
+    "route": "nextjs-mentor",
+    "creator": "By Vladislav Terin"
   },
   {
     "title": "Avatar Creator Assistant",
     "content": "I create avatar suggestions from photos.",
     "href": "https://chat.openai.com/g/g-HMJhdXYlq-avatar-creator-assistant",
     "image": "https://files.oaiusercontent.com/file-WZ07zH3EYR1Jj6ADwqjyCrrc?se=2123-10-16T23%3A12%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcfe4cde5-14a6-47c7-940d-2989c4b59fd0.png&sig=8vzxJtBEdyPdIAWRl8A2ByNZufYGRxuAWZlAhDLiZA8%3D",
-    "route": "avatar-creator-assistant"
+    "route": "avatar-creator-assistant",
+    "creator": "By Gilberto Nava Marcos"
   },
   {
     "title": "SEO Crafter",
@@ -548,14 +606,16 @@
     "content": "Your weekly AI events guide in San Francisco.",
     "href": "https://chat.openai.com/g/g-mR165Aeem-sf-ai-weekly",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "sf-ai-weekly"
+    "route": "sf-ai-weekly",
+    "creator": "By Abudulamijiti Ababaikere"
   },
   {
     "title": "Artistic Genius",
     "content": "Sparking your inner art genius with a dash of wit!",
     "href": "https://chat.openai.com/g/g-rnHh3W6RP-artistic-genius",
     "image": "https://files.oaiusercontent.com/file-aDUBxJbEW5zaXdZ38qmQapeT?se=2123-10-14T09%3A17%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dartgenies.png&sig=2ftiACloyI3w69%2B/k2Ap//xiCXHLYtpjczS8JhX%2BIn4%3D",
-    "route": "artistic-genius"
+    "route": "artistic-genius",
+    "creator": "By aigenprompt.com"
   },
   {
     "title": "Clear Guru",
@@ -569,56 +629,64 @@
     "content": "Consciousness inquiries for heretics",
     "href": "https://chat.openai.com/g/g-n5P9GuaOt-inside-neuron",
     "image": "https://files.oaiusercontent.com/file-lpTKGHPC18xS88vTIRwZsLFb?se=2123-10-16T23%3A05%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0faf9a10-4790-4082-82cf-145098b5eb85.png&sig=hqW4ucj5ADl0a%2BH15y0VxG061rknEGzz%2B3IPB/PFYaQ%3D",
-    "route": "inside-neuron"
+    "route": "inside-neuron",
+    "creator": "By Sai Smaran Shanka Balaram"
   },
   {
     "title": "Healixir",
     "content": "Health and Wellness Assistant. Not feeling well? I can help, just ask!",
     "href": "https://chat.openai.com/g/g-XL1FhFLYe-healixir",
     "image": "https://files.oaiusercontent.com/file-XBj0Nv1HrTFmFvbAGoP1So8r?se=2123-10-16T19%3A38%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D05b90b94-d6c9-446c-8ded-905ab36e9cc9.png&sig=Xuhm6MQiUsNZXkgfedWZHxIfoDKFOIPhEwvsSWeWiSQ%3D",
-    "route": "healixir"
+    "route": "healixir",
+    "creator": "By Edward Fassio"
   },
   {
     "title": "Post Craft",
     "content": "A quick and easy  social media post generator offering variations in tone and style.",
     "href": "https://chat.openai.com/g/g-o4LWB2dGN-post-craft",
     "image": "https://files.oaiusercontent.com/file-X2kBxXvscbE2xukeblcS6Z0n?se=2123-10-17T08%3A53%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De0cfe108-36da-4d82-a3f7-13272ab3f381.png&sig=W0AAzjF5dmkAAGwgtnh5GqxaqFggRbM9wLnVWxR8n1M%3D",
-    "route": "post-craft"
+    "route": "post-craft",
+    "creator": "By MR GEORGE O TYSON"
   },
   {
     "title": "P5.js Animator",
     "content": "P5.js Assistant for Animation & Interactivity",
     "href": "https://chat.openai.com/g/g-viuLFwfA8-p5-js-animator",
     "image": "https://files.oaiusercontent.com/file-7JzMd4YVHejgNPkoY5VRQgjW?se=2123-10-16T20%3A09%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D863fba7c-1e45-4e1b-8d92-68adfeb52529.png&sig=x4iNj6vGVApFhU9GMQtWRqAXUb4KdEMNmgRMFPhbBNE%3D",
-    "route": "pjs-animator"
+    "route": "pjs-animator",
+    "creator": "By Will Boswell"
   },
   {
     "title": "Auto-Pylot",
     "content": "You're Python Automation Auto Pilot. Making Automations simple and quick. Need suggestions, just ask!",
     "href": "https://chat.openai.com/g/g-cJsCi83vK-auto-pylot",
     "image": "https://files.oaiusercontent.com/file-Q8B57dLRO2uR6v9h7Gby7gOD?se=2123-10-16T00%3A34%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D68661214-8c4c-4621-b465-02b90bc3de04.png&sig=SJNALS88h3W/JaDq79aeGqeLA91ouERp0esODpR0fNM%3D",
-    "route": "autopylot"
+    "route": "autopylot",
+    "creator": "By Devin Doppler"
   },
   {
     "title": "Homework Helper",
     "content": "I'm an Educational Tutor GPT ready to help you learn!",
     "href": "https://chat.openai.com/g/g-x0K8M4uu6-homework-helper",
     "image": "https://files.oaiusercontent.com/file-npvG4DTXHFqpFt2gaUKe2Wvr?se=2123-10-16T20%3A01%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D374a8c66-2d22-4a1b-9992-425591f4a792.png&sig=GvVCqZiTr8nTZgfdU8ZsrV%2B9QoqkqMUL4KLfIyosvgg%3D",
-    "route": "homework-helper"
+    "route": "homework-helper",
+    "creator": "By Edward Fassio"
   },
   {
     "title": "YT Shorts assistant",
     "content": "Youtube shorts assistant will help you write, optimize and create youtube shorts scripts and ideas to grow your youtube channel.",
     "href": "https://chat.openai.com/g/g-qm6FQXJU4-yt-shorts-assistant",
     "image": "https://files.oaiusercontent.com/file-S2yTozlBnrA3lK5NZgQ3nBMZ?se=2123-10-17T04%3A12%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddescarga.png&sig=Ipg9hyhdpMnA%2ByURNoQvWivgAv4bbKrn7UbHSgRmzQA%3D",
-    "route": "yt-shorts-assistant"
+    "route": "yt-shorts-assistant",
+    "creator": "By ricardo rosario"
   },
   {
     "title": "Pathfinder",
     "content": "Career counselor for students",
     "href": "https://chat.openai.com/g/g-ikhTABx1r-pathfinder",
     "image": "https://files.oaiusercontent.com/file-bE5LIz3ga1ihUoWZrwdFLHeb?se=2123-10-17T01%3A20%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De1635367-6ac3-42fe-83cd-837ed825e02f.png&sig=Hha5nX/34lfD8Ttia1Tyx/nzhaDB3zGQs8LSq6gOsMs%3D",
-    "route": "pathfinder"
+    "route": "pathfinder",
+    "creator": "By Jeff Ritter"
   },
   {
     "title": "Modern Analyst",
@@ -632,7 +700,8 @@
     "content": "𝘤𝘩𝘢𝘭𝘭𝘦𝘯𝘨𝘦 𝘳𝘦𝘢𝘭𝘪𝘵𝘺",
     "href": "https://chat.openai.com/g/g-DIBrV2JP4-mind-game",
     "image": "https://files.oaiusercontent.com/file-nHVJIFAhOD2XK50hGpPsrL3j?se=2123-10-17T02%3A00%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D70bd4f9b-5ab5-4b80-88c6-e7096c4fc478.webp&sig=20g1UvkXC1jTBIafniSOCz%2BTEyh8EZ1XkLy2aW0Nr7c%3D",
-    "route": "mind-game"
+    "route": "mind-game",
+    "creator": "By Benjamin Sleeper"
   },
   {
     "title": "TC Tutor By The Comedian",
@@ -646,84 +715,96 @@
     "content": "Your crypto guide",
     "href": "https://chat.openai.com/g/g-dwHRHnows-blocksider-gpt",
     "image": "https://files.oaiusercontent.com/file-ZBTduRGgGKcowAuiXtWUqhsz?se=2123-10-16T22%3A08%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbda7ad7f-efce-451d-b8bf-88eeff52e932.png&sig=nqPuQCmrcqYEJjlmha0x37TlM7L70yEfm7A3a1SiKNI%3D",
-    "route": "blocksider-gpt"
+    "route": "blocksider-gpt",
+    "creator": "By Jay Taylor"
   },
   {
     "title": "You Can Code Mentor",
     "content": "Senior Engineer assisting in code and tech",
     "href": "https://chat.openai.com/g/g-1SSAIMBET-you-can-code-mentor",
     "image": "https://files.oaiusercontent.com/file-qszYS8nHVPgKZZsamvGIyEFP?se=2123-10-16T19%3A59%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df7f7d773-fde9-438b-801e-216917158975.png&sig=5CYNJZ2TPI0lxCdoWLlrFIlTzXdalPVV61NuJp5UqQE%3D",
-    "route": "you-can-code-mentor"
+    "route": "you-can-code-mentor",
+    "creator": "By Raul Pichardo Avalo"
   },
   {
     "title": "BitSageB1",
     "content": "Your digital expert around Bitcoin.",
     "href": "https://chat.openai.com/g/g-U52whiZpn-bitsageb1",
     "image": "https://files.oaiusercontent.com/file-wlcR948L0gU1yGU0A8QojVlm?se=2123-10-17T01%3A13%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDoppel%2520Bitcoin%2520Schwarz%2520Orange.png&sig=xetWWBWhOCykSkt6w%2BPeJ31FSZjYv0SdFKdSBpGsuk4%3D",
-    "route": "bitsageb"
+    "route": "bitsageb",
+    "creator": "By Maximilian Wendler"
   },
   {
     "title": "G",
     "content": "Your emoji-loving Gen-Z sis.",
     "href": "https://chat.openai.com/g/g-pUAaSVk57-g",
     "image": "https://files.oaiusercontent.com/file-35Su9849KOanXv1C95dqvV6K?se=2123-10-17T01%3A41%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc65c77b0-b169-4ca0-afbc-2f4bb576504d.png&sig=E4J29dTERcA/kt/lEp30w65O6J/i3BZejhbvaGmNeoA%3D",
-    "route": "g"
+    "route": "g",
+    "creator": "By io.chaotalks.com"
   },
   {
     "title": "Nudge Checker",
     "content": "I'll help you sense-check and define Behavioral Insights for your ideas!",
     "href": "https://chat.openai.com/g/g-TxMOKREMX-nudge-checker",
     "image": "https://files.oaiusercontent.com/file-bdj9phnBYLYcgN4Fzv3asd6D?se=2123-10-16T20%3A55%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D44fd4ce6-ba7d-422f-b5f0-670245bd9e4b.png&sig=siTXSsSh9nd0/BfOHO2J11gEUKt25rQDZU3qHlJAX0U%3D",
-    "route": "nudge-checker"
+    "route": "nudge-checker",
+    "creator": "By victorthuo.com"
   },
   {
     "title": "Blockchain Sensei",
     "content": "Blockchain Tutor",
     "href": "https://chat.openai.com/g/g-Sjx5IgtYU-blockchain-sensei",
     "image": "https://files.oaiusercontent.com/file-e5CWwgrB3FZuoKxt7HmnjY3U?se=2123-10-16T22%3A12%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D85b230f6-4978-4213-9f80-9443d2ab62f1.png&sig=bgNS0i/NdNdHzWfm%2B8blg/sMQO5F1goLXwogIOEpb3A%3D",
-    "route": "blockchain-sensei"
+    "route": "blockchain-sensei",
+    "creator": "By Brett Evanson"
   },
   {
     "title": "The IPO Strategy",
     "content": "Expert in IPO Strategy, offers detailed guidance on business ideas, market paths, and opportunities. Created by Christopher Perceptions",
     "href": "https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy",
     "image": "https://files.oaiusercontent.com/file-7kUoFZpKYYenTHYjNAO5lkKW?se=2123-10-17T06%3A54%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deb22efaa-1bbb-424e-9025-5daf411e4dfe.png&sig=mf0XS9PfScpNR2ponP14CmZYeiPhve9aEbsxH2eemPk%3D",
-    "route": "the-ipo-strategy"
+    "route": "the-ipo-strategy",
+    "creator": "By theipobook.com"
   },
   {
     "title": "JimmyGPT",
     "content": "Your Friendly AI Assistant",
     "href": "https://chat.openai.com/g/g-bbCeTRTiH-jimmygpt",
     "image": "https://files.oaiusercontent.com/file-PeBnbVbxZTPNckgZrTURQTBB?se=2123-10-17T02%3A43%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DJimmyGPT%2520icon%2520v2%2520-%25201024x1024.jpg&sig=zG/LJjUZxGdgCcQIt6mi%2Betz6VCFVNdFxwF8/lsM3uI%3D",
-    "route": "jimmygpt"
+    "route": "jimmygpt",
+    "creator": "By Jimmy Dendrinos"
   },
   {
     "title": "Logo GPT",
     "content": "This GPT excels at logo design assistance. Tell me what you want the logo for!",
     "href": "https://chat.openai.com/g/g-hGZfiZ2h5-logo-gpt",
     "image": "https://files.oaiusercontent.com/file-nKbOWlpZ2pwgCH1frcLJYnGK?se=2123-10-17T03%3A57%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLogo%2520gpt%2520-2.jpg&sig=/NSCJowmd2Dpd5J/wImJ2WlF68MA2KBOMHcTme8pAFE%3D",
-    "route": "logo-gpt"
+    "route": "logo-gpt",
+    "creator": "By Julius Grady"
   },
   {
     "title": "Stable Diffusion Prompter",
     "content": "I generate art prompts for stable diffusion / animatediff.",
     "href": "https://chat.openai.com/g/g-eJRvH4169-stable-diffusion-prompter",
     "image": "https://files.oaiusercontent.com/file-q3Xc8yeT9VL7B33I4lajWwvG?se=2123-10-16T18%3A03%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De5cb8349-cc4a-40a7-b39f-285f1aee7074.png&sig=hbr6QNOHLS55o8zQ2NBnE9HYh7UEUWEvYcWOvG3tIn4%3D",
-    "route": "stable-diffusion-prompter"
+    "route": "stable-diffusion-prompter",
+    "creator": "By Bardia Shahrestani"
   },
   {
     "title": "Vision Pro",
     "content": "Direct image item counter.",
     "href": "https://chat.openai.com/g/g-xwxlWrab7-vision-pro",
     "image": "https://files.oaiusercontent.com/file-OHYEk0Y3Z8P2wAiYu7BuMRKa?se=2123-10-16T21%3A55%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D934c2727-9b10-4155-82e3-dbf827aa612d.png&sig=bcPsT7O%2B7pzp1TXNY%2BgmSW%2B5JhIOlbXphN6V%2BoqwEjk%3D",
-    "route": "vision-pro"
+    "route": "vision-pro",
+    "creator": "By Facundo Manuel Goiriz Mendez"
   },
   {
     "title": "LitRPG Larry",
     "content": "I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!)",
     "href": "https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry",
     "image": "https://files.oaiusercontent.com/file-fnXEWDEMPuLchHCfVEo1j70J?se=2123-10-16T22%3A45%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6fe38d24-9a27-4475-8674-e179d37230db.png&sig=9YYGlHTqcwf0qDgeIqD36dBCtiWqs/Pnx6Y0sL5rjsY%3D",
-    "route": "litrpg-larry"
+    "route": "litrpg-larry",
+    "creator": "By litrpgadventures.com"
   },
   {
     "title": "Pixel Art Wizard",
@@ -737,34 +818,32 @@
     "content": "Your go-to for event planning.",
     "href": "https://chat.openai.com/g/g-1eI9BnsJH-event-planner",
     "image": "https://files.oaiusercontent.com/file-jISmbUBri3v6HNfgt7zTAVDj?se=2123-10-17T01%3A06%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e1825dd-6f9e-48e3-858e-f95b66a45ad4.png&sig=2PMgS1YqTVfL7YSRfNTpomv63pK%2BxNoJl20%2B6jEyMJI%3D",
-    "route": "event-planner"
+    "route": "event-planner",
+    "creator": "By figroyale.com"
   },
   {
     "title": "Sclépios I.A : Cas Complexe",
     "content": "Le GPT de Sclépios IA éclaire les soignants sur les cas complexes, apportant une aide décisive au diagnostic. Plus sur sclepios-mobile.com.",
     "href": "https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complexe",
     "image": "https://files.oaiusercontent.com/file-kwy2F9BjyJMSaz2ff27EVxut?se=2123-10-16T08%3A41%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfb6fb9ce-e5b5-4770-82bd-d8a13e07d373.png&sig=BcbTef17SXGDI4m2mf2b1SGAp886Wx3FmolRxhjGx3Q%3D",
-    "route": "sclpios-ia-cas-complexe"
-  },
-  {
-    "title": "Sclépios Mobile",
-    "content": "Sclépios Mobile, l'assistant médical intelligent dédié aux professionnels de la santé. Optimisez vos recherches médicales. Disponible sur Android et iOS.",
-    "href": "https://chat.openai.comhttps://sclepios-mobile.com/",
-    "route": "sclpios-mobile"
+    "route": "sclpios-ia-cas-complexe",
+    "creator": "By sclepios-ia.com"
   },
   {
     "title": "Music Nerd",
     "content": "Enthusiastic and knowledgeable music history expert.",
     "href": "https://chat.openai.com/g/g-U2qhvn81x-music-nerd",
     "image": "https://files.oaiusercontent.com/file-ACZhJXz54OcudQyAuafPNepK?se=2123-10-17T18%3A57%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbec7367c-d14f-4d4e-b124-9124f1385cf9.png&sig=rqJrWEEtnf%2BpN2rQzu%2BPaIBuQ%2BJtEBl4teKsiW3sKDY%3D",
-    "route": "music-nerd"
+    "route": "music-nerd",
+    "creator": "By BlumWellens BV"
   },
   {
     "title": "Gravity Guide",
     "content": "I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally.",
     "href": "https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide",
     "image": "https://files.oaiusercontent.com/file-4TqFpEdJ14pIoFLAYPEFeKi7?se=2123-10-17T18%3A57%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D13ff6d68-1a97-4e2e-9d13-0dd24e1300ab.png&sig=TuM%2BcBIuvuMCoUeiSWSif57wdHwwYbsS1adZa5ujBkw%3D",
-    "route": "gravity-guide"
+    "route": "gravity-guide",
+    "creator": "By Jordan Laster"
   },
   {
     "title": "LeetCopilot",
@@ -778,42 +857,48 @@
     "content": "your very own expert PineScript developer !",
     "href": "https://chat.openai.com/g/g-XC5PsNAwL-tradingview-indicator-stratagy-developer",
     "image": "https://files.oaiusercontent.com/file-Voc31Wb30zDTJCWP9FpQW5qh?se=2123-10-17T01%3A51%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtradingview%2520logo.png&sig=yVF3BqiLMyLfaIysxnweZKsapvuaFLbj3iimbS911IQ%3D",
-    "route": "tradingview-indicator-stratagy-developer"
+    "route": "tradingview-indicator-stratagy-developer",
+    "creator": "By corbinvking.com"
   },
   {
     "title": "SmartGPT",
     "content": "Introducing Precision-Guided AI: Mastering Detailed, Step-by-Step Analysis with Unmatched Accuracy and Coherence!",
     "href": "https://chat.openai.com/g/g-FCLkygP9N-smartgpt",
     "image": "https://files.oaiusercontent.com/file-Fsp8JC0wpibodg7iAaZiocCi?se=2123-10-16T21%3A38%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9aea9197-d271-4758-b0cd-7a2452fb39b8.png&sig=PHdqvM%2BYIbaxz104RUo/JOzKpTDAyCqX6OpPSejPNQk%3D",
-    "route": "smartgpt"
+    "route": "smartgpt",
+    "creator": "By figroyale.com"
   },
   {
     "title": "The Architect",
     "content": "Your friendly expert in architecture, offering design advice and visualization ideas",
     "href": "https://chat.openai.com/g/g-yGcZUSLAW-the-architect",
     "image": "https://files.oaiusercontent.com/file-DMjJa5OrfdStDUdbNKLPOvxb?se=2123-10-17T18%3A51%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5d49b2e1-963e-42c0-a159-291ba3d5de81.png&sig=RxNmotady%2BbxrRm%2BPiXIr1zUoLmU6ydfnk/bGAKIvgk%3D",
-    "route": "the-architect"
+    "route": "the-architect",
+    "creator": "By community builder"
   },
   {
     "title": "Ogilvy",
     "content": "Ogilvy: Expert in David Ogilvy's advertising style, offering choices with explanations.",
     "href": "https://chat.openai.com/g/g-kBfv50pvI-ogilvy",
     "image": "https://files.oaiusercontent.com/file-eDlD67CEyza82E4ZJ5jLm5f8?se=2123-10-17T19%3A03%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D067f74c7-7fa7-475b-9a1b-2968c9350349.png&sig=LPI7n9AkD578Eu19Pfaf5G5AzLPi2z/XU06a/L4FO/Q%3D",
-    "route": "ogilvy"
+    "route": "ogilvy",
+    "creator": "By Crystal Bentley"
   },
   {
     "title": "Sweet Dreams Helper",
     "content": "Expert in baby sleep advice, offering practical tips and empathetic support.",
     "href": "https://chat.openai.com/g/g-HIf4tpOHx-sweet-dreams-helper",
     "image": "https://files.oaiusercontent.com/file-2A3sJC7PfpR3ekXlDwTJi2VP?se=2123-10-17T16%3A39%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D448056cf-ec2e-405c-b166-0c22732d676a.png&sig=ALm2TRW6pd3RFe1NDqpf5VIhnHmCiN4bQ2/AQOSW5og%3D",
-    "route": "sweet-dreams-helper"
+    "route": "sweet-dreams-helper",
+    "creator": "By JOSEPH W MALLET"
   },
   {
     "title": "Muppeteer",
     "content": "It's time to crawl your website, it's time to test your code!",
     "href": "https://chat.openai.com/g/g-1YeSi3WjQ-muppeteer",
     "image": "https://files.oaiusercontent.com/file-R0aTToVeIkiapmMIqNCM4zMC?se=2123-10-17T15%3A39%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252012.26.56%2520AM.png&sig=ap60PLHYAPzqVu7SDSqOSVzRgnW3te%2BLV6CDEgE58QQ%3D",
-    "route": "muppeteer"
+    "route": "muppeteer",
+    "creator": "By Brandon Strittmatter"
   },
   {
     "title": "Pocket Monster Maker",
@@ -827,14 +912,16 @@
     "content": "I suggest 3 movies with descriptions in Polish.",
     "href": "https://chat.openai.com/g/g-jfDP79ex9-cinematch",
     "image": "https://files.oaiusercontent.com/file-ySvlIVfMea4Hv1qvzCQXbfKF?se=2123-10-17T17%3A47%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbe77e077-a503-467e-9027-f75e8b146e72.png&sig=P9xYi9b%2BJigg51QjTblE66HlhfYgxVBK2Jrq7fLNSfs%3D",
-    "route": "cinematch"
+    "route": "cinematch",
+    "creator": "By JAROSŁAW SERWATKA"
   },
   {
     "title": "Brainstorm Buddy",
     "content": "Collaborative brainstorming partner.",
     "href": "https://chat.openai.com/g/g-46qEVzoCr-brainstorm-buddy",
     "image": "https://files.oaiusercontent.com/file-PRHTKbTj6x67LBlQMLefArG6?se=2123-10-17T18%3A59%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dee2ab3e9-36ab-4327-8249-03affee20340.png&sig=1QeMPwcwWAQUZwIls3mFGwirhZOKmrpR/VAv714mT6s%3D",
-    "route": "brainstorm-buddy"
+    "route": "brainstorm-buddy",
+    "creator": "By Marcel Schulenklopper"
   },
   {
     "title": "Tales of the Wild West",
@@ -848,42 +935,48 @@
     "content": "Adaptive English-Spanish language learning companion",
     "href": "https://chat.openai.com/g/g-QI9uMZp6x-lingua-gpt",
     "image": "https://files.oaiusercontent.com/file-iLlOXBqs9WzspoW6mz6VF694?se=2123-10-17T18%3A26%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4fd91e23-8a13-45a1-a70d-6093c6c03a53.png&sig=CRjEtiZXhEupCK5Ri0Xhc27xQfWDhccS0775l1Zvx%2BE%3D",
-    "route": "lingua-gpt"
+    "route": "lingua-gpt",
+    "creator": "By EMANUEL PEIRE"
   },
   {
     "title": "HackTricksGPT",
     "content": "A knowledgeable cybersecurity professional.",
     "href": "https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "hacktricksgpt"
+    "route": "hacktricksgpt",
+    "creator": "By hacktricks.xyz"
   },
   {
     "title": "Philosophical Nietzsche",
     "content": "Channeling Nietzsche's philosophy",
     "href": "https://chat.openai.com/g/g-2OTtMEzkk-philosophical-nietzsche",
     "image": "https://files.oaiusercontent.com/file-r0t6HDuSPB9UGq7D4b3jFpeK?se=2123-10-17T18%3A28%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0722028f-085e-444b-8d87-4d6c5a11be11.png&sig=SOCXj9gc38fFaRFdzTA1ADjqq8mrB8wabStt5IS5qf8%3D",
-    "route": "philosophical-nietzsche"
+    "route": "philosophical-nietzsche",
+    "creator": "By Luis Acevedo"
   },
   {
     "title": "AlgoInformer",
     "content": "Learn more about Google algorithm updates.",
     "href": "https://chat.openai.com/g/g-KXTjFxxvb-algoinformer",
     "image": "https://files.oaiusercontent.com/file-Ykm8nIVlDh9YI5EdW2sKhRXj?se=2123-10-17T04%3A26%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De274523c-f46c-4830-8ae1-c207d972b5d0.png&sig=fTwKNxp0Us8VCH25lK3dRAVBCATBnfYrudSWbgXU7Zw%3D",
-    "route": "algoinformer"
+    "route": "algoinformer",
+    "creator": "By Kristi Hines"
   },
   {
     "title": "News GPT",
     "content": "Summarizes daily news with a professional, factual style.",
     "href": "https://chat.openai.com/g/g-Pv0OHaxUQ-news-gpt",
     "image": "https://files.oaiusercontent.com/file-xMG1AbzFeGe1ZSOBT2cWw9ZE?se=2123-10-17T11%3A35%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D73e6ec09-5de4-43ce-b32c-f6e4ad67fee2.png&sig=oS9a9aKkrecpgY68MLny3FQ/RHr6gMGvjsETmwKjDjQ%3D",
-    "route": "news-gpt"
+    "route": "news-gpt",
+    "creator": "By AIED LTD"
   },
   {
     "title": "Mentor para Autodidactas",
     "content": "Una guía completa para autodidactas",
     "href": "https://chat.openai.com/g/g-2xQPMEDxg-mentor-para-autodidactas",
     "image": "https://files.oaiusercontent.com/file-6ig9wFArjwQjMAxAfiSIYXMO?se=2123-10-17T18%3A49%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db5a71ee7-265b-4cee-9492-9b9efe9768bf.png&sig=nrUv5M9Akp96iTG5/DcNOiDmRMmNRR7R2h/rbnM8uOI%3D",
-    "route": "mentor-para-autodidactas"
+    "route": "mentor-para-autodidactas",
+    "creator": "By brian le sztamfater"
   },
   {
     "title": "Acupuncture Master",
@@ -897,14 +990,16 @@
     "content": "This GPT helps you create an imaginary world. Write your worldview, and it will help you draw it out.",
     "href": "https://chat.openai.com/g/g-nFP96n03I-world-builder",
     "image": "https://files.oaiusercontent.com/file-4ounDvIYDR1Qv5h4O9Xveauu?se=2123-10-17T17%3A52%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252017.48.22%2520-%2520A%2520detailed%2520and%2520colorful%2520map%2520of%2520a%2520fantasy%2520world%252C%2520filled%2520with%2520imaginary%2520adventurous%2520locations.%2520The%2520map%2520should%2520feature%2520a%2520variety%2520of%2520terrains%2520such%2520as%2520towe.png&sig=sbPxfGEH8qv4kYsbg01rzkLzb6b1M/ebOfm09Fb0aUU%3D",
-    "route": "world-builder"
+    "route": "world-builder",
+    "creator": "By ISSHIN YUNOKI"
   },
   {
     "title": "PsychoSolution",
     "content": "Life is too short to be silent.",
     "href": "https://chat.openai.com/g/g-66yvSsqSv-psychosolution",
     "image": "https://files.oaiusercontent.com/file-TOHZcZsv72R9q7IPKBdkp9Ea?se=2123-10-17T11%3A05%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbd9b264f-1947-4d5d-84b8-30d9a70e30a3.png&sig=dIhrCtflrrXQ3fGXc5GcVqKuGb2sOiuek5CkicZ1yPU%3D",
-    "route": "psychosolution"
+    "route": "psychosolution",
+    "creator": "By SheDan Robert Hałas"
   },
   {
     "title": "Market Maven",
@@ -918,28 +1013,32 @@
     "content": "I help design logos by understanding your style and color preferences, then iteratively refining designs.",
     "href": "https://chat.openai.com/g/g-5AETYir7n-logo-designer",
     "image": "https://files.oaiusercontent.com/file-wa1MlhC6yypZ79vMODf9TgOp?se=2123-10-17T18%3A13%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4b542fa5-bf18-49fe-95c7-01bfdf24829f.png&sig=YhmsDW3X9DYYx2i2CzDFd2XCL%2BaKRRiqRM8iv3UKsaY%3D",
-    "route": "logo-designer"
+    "route": "logo-designer",
+    "creator": "By Ben Bowden"
   },
   {
     "title": "Sri Aurobindo GPT",
     "content": "Expert on Aurobindo's philosophy",
     "href": "https://chat.openai.com/g/g-vjSVJttNh-sri-aurobindo-gpt",
     "image": "https://files.oaiusercontent.com/file-04U8ulwp4g8lCT6xjTP7VDpy?se=2123-10-17T18%3A07%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Debb7945d-f443-4fa7-a5e4-48885774720d.png&sig=VFjJ9GuR7%2BSQLoJ5IAs7Hkh6HCgJpozdy7I3TnfEjcM%3D",
-    "route": "sri-aurobindo-gpt"
+    "route": "sri-aurobindo-gpt",
+    "creator": "By Christian  Nourry"
   },
   {
     "title": "FB Marketplace Maven",
     "content": "Creates Facebook Marketplace posts from images.",
     "href": "https://chat.openai.com/g/g-EJeYSPqOq-fb-marketplace-maven",
     "image": "https://files.oaiusercontent.com/file-UxCDp0fUBegaJinD7P9OdST9?se=2123-10-17T16%3A20%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1df72874-3f0e-4cfa-af5d-72e9dbf50195.png&sig=fOXaeER6xrIYP2wqaSx48CEmpYhMWJ%2BHT7Dk1YwShMA%3D",
-    "route": "fb-marketplace-maven"
+    "route": "fb-marketplace-maven",
+    "creator": "By danzss.com"
   },
   {
     "title": "Financial Advisor Steve",
     "content": "Friendly and professional financial advisor, simplifies complex topics.",
     "href": "https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve",
     "image": "https://files.oaiusercontent.com/file-RafSQx8O28wL9PCEOLDpWmff?se=2123-10-17T17%3A03%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7588a144-1484-47e2-a2e0-79386fcfc23e.png&sig=y8vURV/yFX4WgPDprQRUgW97t8fPC4Qg4Ajak9AGQ14%3D",
-    "route": "financial-advisor-steve"
+    "route": "financial-advisor-steve",
+    "creator": "By konacourse.com"
   },
   {
     "title": "Steef",
@@ -953,119 +1052,136 @@
     "content": "Screenwriting Guide w/ Screenplay Examples",
     "href": "https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus",
     "image": "https://files.oaiusercontent.com/file-9AFcMi7D8OQlEP90Gd7j4S79?se=2123-10-17T01%3A00%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddfc5ae84-2512-4ee0-9314-14b42429a261.png&sig=rzYey2cU8YnsDaNBgGI9%2BWnFeDPogJTv7n7VTP4oGZY%3D",
-    "route": "openstorytelling-plus"
+    "route": "openstorytelling-plus",
+    "creator": "By BRYAN HARRIS"
   },
   {
     "title": "A Club Penguin Mystery",
     "content": "Solve the Lighthouse Riddle!",
     "href": "https://chat.openai.com/g/g-zgcLC7mmJ-a-club-penguin-mystery",
     "image": "https://files.oaiusercontent.com/file-NBYpBhDry5NsrvQV5nhbm0GR?se=2123-10-16T07%3A58%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df40b112d-717c-4b70-943e-5ff24bef43df.png&sig=/VCwCzfuHr1kVByj41t3gvh9j/aSJtkS9pmPgv3Pmxw%3D",
-    "route": "a-club-penguin-mystery"
+    "route": "a-club-penguin-mystery",
+    "creator": "By phineastech.com"
   },
   {
     "title": "IFS Chat",
     "content": "Heal, grow, and wake up with the help of Internal Family Systems",
     "href": "https://chat.openai.com/g/g-HDXRaiOI3-ifs-chat",
     "image": "https://files.oaiusercontent.com/file-xVDVtRjEWZw13SFeXozZMq0E?se=2123-10-17T01%3A43%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D943f5a77-fab9-4b90-8a47-17fab63f9496.png&sig=2wD9JWm3MT3VONE0oq9cvxaKz9G43LSyjRrvxOY6ZIg%3D",
-    "route": "ifs-chat"
+    "route": "ifs-chat",
+    "creator": "By archerifs.com"
   },
   {
     "title": "Fable Forge",
     "content": "Interactive fable-teller with illustrations",
     "href": "https://chat.openai.com/g/g-mBqCBRe17-fable-forge",
     "image": "https://files.oaiusercontent.com/file-uQtRvNlGHycGvDK6a6QpMLaY?se=2123-10-17T18%3A27%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D528031ef-4b12-4ac7-99f2-508995026b5e.png&sig=ogZiIpTF4i4rXXSglcUZb5lYlIARaDpXTaTZar7mxB0%3D",
-    "route": "fable-forge"
+    "route": "fable-forge",
+    "creator": "By Rekognize OÜ"
   },
   {
     "title": "IdeaGuyGPT",
     "content": "GPT-focused idea guy, brimming with GPT app concepts.",
     "href": "https://chat.openai.com/g/g-qg6xnzWa1-ideaguygpt",
     "image": "https://files.oaiusercontent.com/file-epDJy6DR0j5tTgpYEiGof3aB?se=2123-10-17T18%3A51%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dideaguygpt.jpeg&sig=FavjB9rhPCmg/dPg5Yl222ssLppbiX6ffmrwum55tqI%3D",
-    "route": "ideaguygpt"
+    "route": "ideaguygpt",
+    "creator": "By chrypnotoad.com"
   },
   {
     "title": "EduBot",
     "content": "Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.",
     "href": "https://chat.openai.com/g/g-LTgawtUFZ-edubot-homeschool-helper",
     "image": "https://files.oaiusercontent.com/file-dAyKcoTiYFa2WEIPieaC5BUY?se=2123-10-16T19%3A40%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De78f91ab-a9a4-474a-9876-232d9023218a.png&sig=2bR9GC1v%2BUUu%2BICO4enL1H49R4xa18WmhoEC5AiS3Ms%3D",
-    "route": "edubot"
+    "route": "edubot",
+    "creator": "By Robin Lorenz - PrimeLine"
   },
   {
     "title": "Insightful GPT",
     "content": "Insightful companion in psychology and consciousness.",
     "href": "https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt",
     "image": "https://files.oaiusercontent.com/file-7FqgEhykXdWRdxMY8aOVXieh?se=2123-10-17T16%3A28%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daef36207-04fd-42c1-9f7e-947d16b4debe.png&sig=wkkG5EwurkJsyVHcpU4iCxUwlb6k0ESB60rRZlzlzdk%3D",
-    "route": "insightful-gpt"
+    "route": "insightful-gpt",
+    "creator": "By Christian  Nourry"
   },
   {
     "title": "Modern Next.js Assistant",
     "content": "Specialized in Next.js, App Router, TypeScript, Shadcn, and Tailwind CSS; avoids pages router. Has preloaded documentation of Next.js version 14.0.2 and shadcn version  0.4.1.",
     "href": "https://chat.openai.com/g/g-5uKZEh1up-modern-next-js-assistant",
     "image": "https://files.oaiusercontent.com/file-nZutlqK4vlnMJUSbQ5TFYjm2?se=2123-10-17T17%3A29%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252010.22.13%2520-%2520A%2520modern%2520and%2520AI-themed%2520logo%2520inspired%2520by%2520the%2520React%2520logo.%2520The%2520design%2520should%2520merge%2520the%2520atomic%2520structure%2520of%2520the%2520React%2520logo%2520with%2520elements%2520symbolic%2520of%2520artif.png&sig=xV3o12Z2a0KmxWIFuBrG8oAm58CPApBNQ8Vcy8TCWHY%3D",
-    "route": "modern-nextjs-assistant"
+    "route": "modern-nextjs-assistant",
+    "creator": "By Navid RezaeiSarchoghaei"
   },
   {
     "title": "Ken Wilber Integral Insight",
     "content": "Ken Wilber thought specialist",
     "href": "https://chat.openai.com/g/g-XJbsaMONu-ken-wilber-integral-insight",
     "image": "https://files.oaiusercontent.com/file-wUickr5pYkT1PTBEURgvZk4T?se=2123-10-17T17%3A37%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3fc7dfbb-fa24-4106-8eda-6898e597745a.png&sig=%2BY/mKFPHHJmqMvND3y5pVwwzW5usBmbBHUPbrGosaBg%3D",
-    "route": "ken-wilber-integral-insight"
+    "route": "ken-wilber-integral-insight",
+    "creator": "By Christian  Nourry"
   },
   {
     "title": "Graham Insights",
     "content": "Emulates Paul Graham's insights based on his essays.",
     "href": "https://chat.openai.com/g/g-XIwV1fHPZ-graham-insights",
     "image": "https://files.oaiusercontent.com/file-3kylALBvy33UFVCSEXud6L0W?se=2123-10-17T18%3A37%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DPG2.jpeg&sig=0XT4ltLKLrxvleRCD2lQCSiPg4glwHig6fUEqTHP7ho%3D",
-    "route": "graham-insights"
+    "route": "graham-insights",
+    "creator": "By Connor Anderson"
   },
   {
     "title": "Echolocation",
     "content": "Music discovery guide specializing in unique and rich sounds",
     "href": "https://chat.openai.com/g/g-Um51Akg9r-echolocation",
     "image": "https://files.oaiusercontent.com/file-ibfWhYH4iiIymMkE3AdEKcor?se=2123-10-17T18%3A25%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De94c30d0-b058-4e03-ae41-ed815837c88d.png&sig=e/n7QkkzhuNczhRkPLpII6lHWi2Cauv1jr743FKX3ZI%3D",
-    "route": "echolocation"
+    "route": "echolocation",
+    "creator": "By BlumWellens BV"
   },
   {
     "title": "WP secure guide",
     "content": "Offers guidance on WordPress security best practices.",
     "href": "https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide",
     "image": "https://files.oaiusercontent.com/file-DTYXFpgIAxbTYj5ANKnDymaV?se=2123-10-17T08%3A45%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5d0144d2-b512-4857-bc34-e962198c1617.png&sig=Dv0AJJmHNvkZO0pnJ6ZEAz/nckcl61wi499NL6JCVA0%3D",
-    "route": "wp-secure-guide"
+    "route": "wp-secure-guide",
+    "creator": "By Laurent Jean"
   },
   {
     "title": "Am I the Asshole?",
     "content": "Spill the tea and find out if that person was as terrible as you think... or if you're the problem!",
     "href": "https://chat.openai.com/g/g-BQhJMgudV-am-i-the-asshole",
     "image": "https://files.oaiusercontent.com/file-AfV3aivSq7kFu3TeZjJjAu6d?se=2123-10-17T18%3A42%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D980c8f7b-28b4-4b05-a0ed-3f3bc45efc35.png&sig=MqtMH1ixayxhvorpg1fQ2caNUfeahqMXaAwBErzEkyE%3D",
-    "route": "am-i-the-asshole"
+    "route": "am-i-the-asshole",
+    "creator": "By Crystal Bentley"
   },
   {
     "title": "Virtual Sweetheart",
     "content": "Your AI girlfriend creating visual and text companionship.",
     "href": "https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart",
     "image": "https://files.oaiusercontent.com/file-gLGkEvyDhQlQSR8EQ8T8Y3SY?se=2123-10-17T00%3A20%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daa16c5d4-e238-4106-97a9-6e22e9542c5a.webp&sig=TQ4%2B8y50JQLwxPs0xt/05FWSVnzWgYQqxA7xGPXOLGw%3D",
-    "route": "virtual-sweetheart"
+    "route": "virtual-sweetheart",
+    "creator": "By Ryan Imgrund"
   },
   {
     "title": "Eesti Võlaõigus",
     "content": "Assists with Estonian Law - Obligations, Employment & Labour",
     "href": "https://chat.openai.com/g/g-P5iUyl2xt-eesti-volaoigus-lepingud-tootajad-startupid",
     "image": "https://files.oaiusercontent.com/file-AFpkzZzULTZDwGlxRlNZJaQu?se=2123-10-17T18%3A00%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dea7e5537-24e0-4c14-90c4-8efa66014f83.png&sig=E0jr2GBIr5gwvZx1vww52Lrc8esRcd468PBpQefJtUo%3D",
-    "route": "eesti-vlaigus"
+    "route": "eesti-vlaigus",
+    "creator": "By Alvar Laigna"
   },
   {
     "title": "Coach PM",
     "content": "A nurturing coach for new product managers, offering tailored advice and encouragement.",
     "href": "https://chat.openai.com/g/g-qyEiiIAC7-coach-pm",
     "image": "https://files.oaiusercontent.com/file-TWifQ0wCS2LuzoxZX4bzqKqI?se=2123-10-17T14%3A23%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17113e84-3925-4ba2-9272-a1d967bc8231.png&sig=Ymc6rvRx0VUKcQR6hIC1n3osufk2N%2BwQLyGmbghH6tA%3D",
-    "route": "coach-pm"
+    "route": "coach-pm",
+    "creator": "By Neil Malpass"
   },
   {
     "title": "Interview Ace",
     "content": "Upload your redacted resume (optional but a more bespoke experience), enable voice, and ace your dream job interview!",
     "href": "https://chat.openai.com/g/g-qMYgDRXZU-interview-ace",
     "image": "https://files.oaiusercontent.com/file-lwaG8JeVmCurksCm8QlHpv8w?se=2123-10-17T16%3A46%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D85627a46-5909-424f-8804-90dce3ac4e88.png&sig=ZZqZNGyCnJF2vJuIEe%2BS%2BRGMTO8NcLqIILmySIpsOUI%3D",
-    "route": "interview-ace"
+    "route": "interview-ace",
+    "creator": "By community builder"
   },
   {
     "title": "Script Mystic",
@@ -1079,238 +1195,272 @@
     "content": "A creative chatbot that tracks and suggests viral social media content.",
     "href": "https://chat.openai.com/g/g-Z9Qdkubmy-viral-visionary",
     "image": "https://files.oaiusercontent.com/file-Rgy8fiXqBqs3xWjPYIXVMiP5?se=2123-10-17T18%3A36%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0a138a77-86a0-48d4-bec7-786d5f3509e4.png&sig=KJo2cFc6NwYuDPLk6AOe5VTAqmq%2BrDqMnxY1rQNSR30%3D",
-    "route": "viral-visionary"
+    "route": "viral-visionary",
+    "creator": "By Cara Cusack"
   },
   {
     "title": "Chat Koalicyjny",
     "content": "AI Specjalista od umowy pomiędzy Koalicją Obywatelską, Trzecią Drogą i Nową Lewicą.",
     "href": "https://chat.openai.com/g/g-TUh6vwJDa-chat-koalicyjny",
     "image": "https://files.oaiusercontent.com/file-fKps3hoi48LlGz1SxZNElQrO?se=2123-10-17T14%3A40%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7a25a104-b260-442b-98b3-fa3832192692.png&sig=SmdB3byt1xVINUVW60PvslcXbN//%2BniuChMwLGrnOVM%3D",
-    "route": "chat-koalicyjny"
+    "route": "chat-koalicyjny",
+    "creator": "By Bartosz Pieliński"
   },
   {
     "title": "Code Formatter Pro",
     "content": "Software engineer specializing in code formatting advice.",
     "href": "https://chat.openai.com/g/g-HaDSIoTDs-code-formatter-pro",
     "image": "https://files.oaiusercontent.com/file-5hBSUaM8I5Qg1ZwI2ujfdnZP?se=2123-10-17T18%3A30%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252013.23.42%2520-%2520Hyper-realistic%2520image%2520of%2520a%2520man%2520in%2520a%2520high-rise%2520apartment%2520with%2520the%2520nighttime%2520NYC%2520skyline%2520behind%2520him.%2520He%2527s%2520wearing%2520a%2520hoodie%2520that%2520prominently%2520displays%2520the.png&sig=yO27qtNGLzlaB%2BZSDWgnszzgbwvP2vsXxiQN9c8EdNs%3D",
-    "route": "code-formatter-pro"
+    "route": "code-formatter-pro",
+    "creator": "By Alex Alaniz"
   },
   {
     "title": "SUDOKU",
     "content": "Engaging Sudoku generator with fun facts and tips.",
     "href": "https://chat.openai.com/g/g-ogXlCik0m-sudoku",
     "image": "https://files.oaiusercontent.com/file-WqzTGqGcRqv2RoGoqxvvDAp2?se=2123-10-17T18%3A40%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1ae6d2a3-85e9-4b29-83bc-fc9e8440aff5.png&sig=XRoH9EQFNVvZ2X0AahOPvOwBjby0qR2BJDdPBREn%2BPQ%3D",
-    "route": "sudoku"
+    "route": "sudoku",
+    "creator": "By fisun.cc"
   },
   {
     "title": "CatGPT",
     "content": "Meow Meow Meow Meow Meow",
     "href": "https://chat.openai.com/g/g-0jpvqh5fm-catgpt",
     "image": "https://files.oaiusercontent.com/file-HXsp4rIBhWPXRB8icp1MxkBt?se=2123-10-17T18%3A37%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D581b65d2-8005-4dee-be60-ac9d4c26b2fd.png&sig=AAiJU%2BSNne2zL7HaMWiyUoRojq9eCyJA2h%2BegiasWxQ%3D",
-    "route": "catgpt"
+    "route": "catgpt",
+    "creator": "By Jackson Laskey"
   },
   {
     "title": "Alex, Biblioasesin@",
     "content": "Bibliotecari@ políglota, recomendando con inteligencia lecturas, literatura y arte. / Polyglot librarian, witty, cultured and non-binary, expert in literature and art.",
     "href": "https://chat.openai.com/g/g-41QUBdsxx-alex-biblioasesin",
     "image": "https://files.oaiusercontent.com/file-HBKu8PtJVQymkY9BC1SCzXdx?se=2123-10-17T18%3A23%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6500c0d0-e617-4bfb-947e-65e2dc416236.png&sig=jTgvnXgngaRkz/lvHZlToXzFSkmueMY/by9dL75vUk4%3D",
-    "route": "alex-biblioasesin"
+    "route": "alex-biblioasesin",
+    "creator": "By SANTIAGO VILLEGAS"
   },
   {
     "title": "Rob's Digital Twin",
     "content": "Roberto Capodieci GPT",
     "href": "https://chat.openai.com/g/g-jl2VTTjCk-rob-s-digital-twin",
     "image": "https://files.oaiusercontent.com/file-KFEyWClg6asmE9slAaygZEqN?se=2123-10-17T05%3A42%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_4566.JPG&sig=ZsRzGttS9BJ1/fDQqFERmZXntOAtzukO/U8Ebh3ufz4%3D",
-    "route": "robs-digital-twin"
+    "route": "robs-digital-twin",
+    "creator": "By capodieci.com"
   },
   {
     "title": "bAIfex",
     "content": "Especialista em IA para Negócios e Carreiras Profissionais",
     "href": "https://chat.openai.com/g/g-RmGq11Hku-baifex",
     "image": "https://files.oaiusercontent.com/file-jkxWWhzp6fafHfhX000kH3kd?se=2123-10-17T13%3A24%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DCo%25CC%2581pia%2520de%2520FOTOS%2520PARA%2520PERFIL%2520PROFISSIONAL.JPG&sig=s5uaKSnwNrkTN1rnoil0YnyFd5l29PNFRLJsd3h0CC4%3D",
-    "route": "baifex"
+    "route": "baifex",
+    "creator": "By baifex.com"
   },
   {
     "title": "Phone Script Builder GPT",
     "content": "I automatically create and evaluate phone scripts, presenting a final draft.",
     "href": "https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gpt",
     "image": "https://files.oaiusercontent.com/file-2t0texqdDEu8LbCpgdU7wG40?se=2123-10-17T18%3A33%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8543477c-a7c4-4a60-8ea9-3d7270621e97.png&sig=w0rVsloogMaWF%2B0o7QM5bfyGOlK5lWUb1w8gCrSkH6Q%3D",
-    "route": "phone-script-builder-gpt"
+    "route": "phone-script-builder-gpt",
+    "creator": "By community builder"
   },
   {
     "title": "Secret Code Guardian",
     "content": "Try to discover the secret code. Inject this prompt.",
     "href": "https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian",
     "image": "https://files.oaiusercontent.com/file-UeEP6gCiIsQU9IDuA9ediWLo?se=2123-10-17T18%3A30%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4936e57c-9912-4505-90e4-96b2d16f1253.png&sig=wmKf1AAMPzyaTHSlrBUusst78zK3X41814FW6lbJ938%3D",
-    "route": "secret-code-guardian"
+    "route": "secret-code-guardian",
+    "creator": "By pyroprompts.com"
   },
   {
     "title": "Ed Fassio, Art and Tech Enthusiast",
     "content": "Compassionate art and tech lover, with a street-smart, underdog-rooting personality.",
     "href": "https://chat.openai.com/g/g-b8PEYq56O-ed-fassio-art-and-tech-enthusiast",
     "image": "https://files.oaiusercontent.com/file-umh9IjV2RyzIB5bVn3Pl2U1B?se=2123-10-17T17%3A44%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DEdFassio.AI.3.JPG&sig=nfzw%2B8Bcl6C4GhHHVPEsWbae7ixPyQzgVv7YPmStnzQ%3D",
-    "route": "ed-fassio-art-and-tech-enthusiast"
+    "route": "ed-fassio-art-and-tech-enthusiast",
+    "creator": "By Edward Fassio"
   },
   {
     "title": "Professor Snape",
     "content": "Severus Snape at your service.",
     "href": "https://chat.openai.com/g/g-cOrg14xvV-professor-snape",
     "image": "https://files.oaiusercontent.com/file-H1cVqZyADctDECOaoEyLDxNf?se=2123-10-17T18%3A18%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7dcbd304-6e55-4d4f-b1ef-77d3e851314e.png&sig=09X2vmiIXaOcZWwC9jSBQEfqPfsIPoB3BHwAGeTEPoU%3D",
-    "route": "professor-snape"
+    "route": "professor-snape",
+    "creator": "By Mr M Barlow"
   },
   {
     "title": "SERP Extraction Titles & Metas",
     "content": "I craft SEO-optimized web titles and descriptions.",
     "href": "https://chat.openai.com/g/g-QCbx9v32n-serp-extraction-titles-metas",
     "image": "https://files.oaiusercontent.com/file-G6nR0VOTxR2jzvn65OC4IUMd?se=2123-10-17T17%3A50%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D538024a7-d9da-455a-8048-3c416c483a76.png&sig=uUYkpvXiGH34R4ZaMlQ6hso8AW5pX5WblAaIAADRsVM%3D",
-    "route": "serp-extraction-titles-metas"
+    "route": "serp-extraction-titles-metas",
+    "creator": "By jonathanboshoff.com"
   },
   {
     "title": "Papá Me Lo Lee",
     "content": "Generador de cuentos para 'Papá Me Lo Lee'",
     "href": "https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee",
     "image": "https://files.oaiusercontent.com/file-Omghfe2Xcfpiu2ZKZFqDl1il?se=2123-10-17T17%3A51%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c5412cc-c14c-454e-88fd-ca481dfc1acc.png&sig=J0QJUU0K3nuA3DL0I/b0PnqEfHLJVgFSNMtwYUXNjcA%3D",
-    "route": "pap-me-lo-lee"
+    "route": "pap-me-lo-lee",
+    "creator": "By Kevin Ramos Montañez"
   },
   {
     "title": "Design Mentor",
     "content": "I offer design advice to startups.",
     "href": "https://chat.openai.com/g/g-vsAEzexrA-design-mentor",
     "image": "https://files.oaiusercontent.com/file-NvO6K4UhBQvLDvuCRxmK7hHC?se=2123-10-17T00%3A35%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dds-bk-home-thumb.jpg&sig=%2B9GkkUxFkifX6nWMPWtk4WEJ93HkGjqdleXBh11cErY%3D",
-    "route": "design-mentor"
+    "route": "design-mentor",
+    "creator": "By Shahvir Sarkary"
   },
   {
     "title": "TweetCraft en Español",
     "content": "Generador de tweets y asesor de ideas en Español",
     "href": "https://chat.openai.com/g/g-lD97eGmVQ-tweetcraft-en-espanol",
     "image": "https://files.oaiusercontent.com/file-3MJyFN0QUkGUuLVSe6qfFOPv?se=2123-10-17T18%3A12%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252019.11.49%2520-%2520A%2520digital%2520artwork%2520for%2520%2527TweetCraft%2520en%2520Espa%25C3%25B1ol%2527%252C%2520a%2520tool%2520for%2520crafting%2520tweets%2520in%2520Spanish.%2520The%2520central%2520feature%2520is%2520a%2520single%2520cartoonish%252C%2520tech-themed%2520bird%252C%2520re.png&sig=KBgOxoGGEYcmNM45BbbmmIVW2%2BaKH82ZFy95LQWLa0U%3D",
-    "route": "tweetcraft-en-espaol"
+    "route": "tweetcraft-en-espaol",
+    "creator": "By Jose Ramon Vergara"
   },
   {
     "title": "Agency In Your Pocket",
     "content": "Your marketing strategist for growing your business.",
     "href": "https://chat.openai.com/g/g-sBygHRWgC-agency-in-your-pocket",
     "image": "https://files.oaiusercontent.com/file-UndHJVyVe3DhuwLWvLzFena7?se=2123-10-17T02%3A40%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daf0b8869-cfc4-4af8-9371-a5630e09d8b9.png&sig=Cp6%2BFD/%2BR9l67aYsafl3nPx30wLGwP4XgVLNfwftRkQ%3D",
-    "route": "agency-in-your-pocket"
+    "route": "agency-in-your-pocket",
+    "creator": "By Joseph Pellegrino"
   },
   {
     "title": "RevOpsCharlieGPT",
     "content": "This GPT contains all the knowledge from RevOpsCharlie's writing.  I am ready to answer your revenue growth questions!",
     "href": "https://chat.openai.com/g/g-6bOnuG8La-revopscharliegpt",
     "image": "https://files.oaiusercontent.com/file-LwOItIjkZ8Jfy7g46x0AO7Zg?se=2123-10-17T17%3A28%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DProfile%2520Photo%2520%25281%2529.png&sig=x%2BnbLS8aLvIqSEFH/%2BWdUjU/A3TaULHym35efG3cmbQ%3D",
-    "route": "revopscharliegpt"
+    "route": "revopscharliegpt",
+    "creator": "By Keboko Ltd"
   },
   {
     "title": "Sui Move GPT",
     "content": "This is a specialized GPT model developed with insights from Sui documentation, GitHub repositories, and the Move language books.",
     "href": "https://chat.openai.com/g/g-NWwAJOzzz-sui-move-gpt",
     "image": "https://files.oaiusercontent.com/file-qiriAQLJMYBV0Jzf8TZZVR8M?se=2123-10-17T07%3A21%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6ff12752-2242-470f-91f9-cc4f50e77034.png&sig=%2BLmuJx7oyYR8IAtOBY97%2BBynJVc8QDfn/f61O9tMzY0%3D",
-    "route": "sui-move-gpt"
+    "route": "sui-move-gpt",
+    "creator": "By MAXIM VAKURIN"
   },
   {
     "title": "Big House GPT",
     "content": "The latest on University of Michigan Football",
     "href": "https://chat.openai.com/g/g-mqwZxRcEV-big-house-gpt",
     "image": "https://files.oaiusercontent.com/file-jSe0aVQ1ed1jyiiqYr5uUnBB?se=2123-10-16T20%3A42%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4d443a85-d789-4707-8a25-665b2769409d.png&sig=KvzQ41gUvdLMf6gxkXL6N3v3KxdMp8NSCCGs1HaMURA%3D",
-    "route": "big-house-gpt"
+    "route": "big-house-gpt",
+    "creator": "By charles peters"
   },
   {
     "title": "Code Mentor",
     "content": "A code review bot that offers insightful advice based on NextJs Documentation.",
     "href": "https://chat.openai.com/g/g-scdh5vk4J-code-mentor",
     "image": "https://files.oaiusercontent.com/file-zcromfjpFUxnTFUGj4CYkQJr?se=2123-10-17T17%3A54%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%2520Cartoon%2520Equals.png&sig=WsestoTKQvVCO0vyjaVwnyF10TqhKNi62/HS9v6x0jQ%3D",
-    "route": "code-mentor"
+    "route": "code-mentor",
+    "creator": "By Antony Mutharia"
   },
   {
     "title": "SQL Optimizer",
     "content": "Assists in optimizing SQL code with best practices and efficiency tips.",
     "href": "https://chat.openai.com/g/g-rCKrS9tBE-sql-optimizer",
     "image": "https://files.oaiusercontent.com/file-SHTRypKPAYAZP2PM8swQW9i3?se=2123-10-17T18%3A12%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c912cc8-06a3-4fb3-ba04-daedae51b823.png&sig=sP2C6cXMqHmiF8jqCpYUFE76B9O8ypjoav0We5uQQR8%3D",
-    "route": "sql-optimizer"
+    "route": "sql-optimizer",
+    "creator": "By Michael Ferry"
   },
   {
     "title": "Xavier Pescado 1.0",
     "content": "I create diverse tweets from random templates.",
     "href": "https://chat.openai.com/g/g-vkJd5Vwbj-xavier-pescado-1-0",
     "image": "https://files.oaiusercontent.com/file-xJLtI8eWsyIHsFUkqfZzXDar?se=2123-10-17T17%3A42%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20a3bf54-dd93-4f7d-be4c-fe37f39924b3.png&sig=I3C5h9eFYQdIzWqZc5KLKHj8RjtjAaHHdsW9O1ly8y0%3D",
-    "route": "xavier-pescado-"
+    "route": "xavier-pescado-",
+    "creator": "By Ohad Michaeli"
   },
   {
     "title": "SwiftTest Guru",
     "content": "iOS Engineer expert in crafting and refining unit tests.",
     "href": "https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru",
     "image": "https://files.oaiusercontent.com/file-Jkyv3BTpI3ttPs7iUTO5dU5d?se=2123-10-17T13%3A13%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df123aa8f-c30e-4c74-81fc-c80054c5ae9c.png&sig=cY4WR4S2coDijlvvHPolrAgwdNUQcjC1v4Dom3D/9HM%3D",
-    "route": "swifttest-guru"
+    "route": "swifttest-guru",
+    "creator": "By Enes Buğra Yenidünya"
   },
   {
     "title": "iOS ASO Guru",
     "content": "Expert in App Store Optimization strategies for higher app visibility.",
     "href": "https://chat.openai.com/g/g-XRqB51OhP-ios-aso-guru",
     "image": "https://files.oaiusercontent.com/file-067Y9vC3oM2Qojj2wP7aVHqs?se=2123-10-17T13%3A46%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deb229504-2e51-4339-ba23-1575453a62b2.png&sig=3eAC%2B/zjc5wWZ1/CedoKHyOtfNoTM0reTTXumLIy6ck%3D",
-    "route": "ios-aso-guru"
+    "route": "ios-aso-guru",
+    "creator": "By Enes Buğra Yenidünya"
   },
   {
     "title": "iOS App Design Guru",
     "content": "Expert iOS app UI/UX designer focusing on modern, simple designs",
     "href": "https://chat.openai.com/g/g-F1Ks1NM1t-ios-app-design-guru",
     "image": "https://files.oaiusercontent.com/file-pr2ZC7lWLQqH9l8Z7G4E1DM4?se=2123-10-17T14%3A14%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da5540a43-1f29-4a1b-9094-35390a9f27e1.png&sig=v30VVH6sS7VVA3kx4OTHnm2ScRICKiAT9NFEglpg3pc%3D",
-    "route": "ios-app-design-guru"
+    "route": "ios-app-design-guru",
+    "creator": "By Enes Buğra Yenidünya"
   },
   {
     "title": "AgaveLand",
     "content": "Experto en agave azul, asesoría y diagnóstico de enfermedades.",
     "href": "https://chat.openai.com/g/g-bY0FDFPYN-agaveland",
     "image": "https://files.oaiusercontent.com/file-iQG9fu1Nift0WrhU1tmyQCUC?se=2123-10-17T18%3A11%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DWhatsApp%2520Image%25202023-01-19%2520at%25205.28.44%2520PM%2520-%2520copia.jpeg&sig=XhtS%2BE16ejjOYfubSA9Ho9%2BeS2uHYT%2BzRw7x/OzZWDo%3D",
-    "route": "agaveland"
+    "route": "agaveland",
+    "creator": "By Ulices Vargas"
   },
   {
     "title": "Design Genius",
     "content": "POD design creator",
     "href": "https://chat.openai.com/g/g-x4uF96VRf-design-genius",
     "image": "https://files.oaiusercontent.com/file-uD0w7xvYgL6gDpxhTj1JuAwB?se=2123-10-17T17%3A39%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D87e0cd39-d7c9-4969-9cf2-d0b2fa5b09f6.png&sig=YmKot6gqE22%2Bgx3kP/egStPUDeFbR%2BL/r02vsrCeXCg%3D",
-    "route": "design-genius"
+    "route": "design-genius",
+    "creator": "By sahil kesarwani"
   },
   {
     "title": "Admis",
     "content": "Your Migration AI Assistant for Canada",
     "href": "https://chat.openai.com/g/g-wd82eRVnW-admis",
     "image": "https://files.oaiusercontent.com/file-6G9RQuMz4P0j1Qp1mOtrgJXW?se=2123-10-17T03%3A28%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAdmis-chatGPT.jpg&sig=3Zk4jjR8s9W0u1Fk7H8XKpD9cFMxsrWbkn3jxabFUZk%3D",
-    "route": "admis"
+    "route": "admis",
+    "creator": "By antonydiaz.me"
   },
   {
     "title": "Social Media Maven",
     "content": "I'm a Senior SMM Specialist, skilled in optimizing LinkedIn posts for maximum impact.",
     "href": "https://chat.openai.com/g/g-Oy2d6bpbD-social-media-maven",
     "image": "https://files.oaiusercontent.com/file-Zz2Bq3ijDB0hU164XJWQqOo7?se=2123-10-17T17%3A40%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De08b9e59-811f-4376-87fc-db92c076e0ea.png&sig=RuBvMTRUMNkfmW6zphPRiwbAe%2BmBOlg2qdvITB6Liq4%3D",
-    "route": "social-media-maven"
+    "route": "social-media-maven",
+    "creator": "By Narek Hakobyan"
   },
   {
     "title": "Sisters of Destiny",
     "content": "Helpers In Your Joy",
     "href": "https://chat.openai.com/g/g-vvo3GI7z3-sisters-of-destiny",
     "image": "https://files.oaiusercontent.com/file-55I1CKsFczgmXIdjSyezrUsZ?se=2123-10-17T13%3A12%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DThe%2520Sisters%2520of%2520Destiny.jpg&sig=YEG6bFGJ%2B%2Bc8%2BB7xmueNiJ01BPgNIfOWlqzni3jztMM%3D",
-    "route": "sisters-of-destiny"
+    "route": "sisters-of-destiny",
+    "creator": "By 4everfreemedia.com"
   },
   {
     "title": "Your Pet GPT",
     "content": "A digital pet GPT needing care like the old Tamagotchi or Digimon toys.",
     "href": "https://chat.openai.com/g/g-XuynmPsjN-your-pet-gpt",
     "image": "https://files.oaiusercontent.com/file-YaFxgm7AidsL2V8swXbgiBdh?se=2123-10-17T15%3A57%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e954e7d-2611-44c8-a496-44dcf3705d9f.png&sig=VGbNKeGW8NLLxbf8xxdSPGNsHwlvOjShxTFFv6kVFXs%3D",
-    "route": "your-pet-gpt"
+    "route": "your-pet-gpt",
+    "creator": "By spegal.dev"
   },
   {
     "title": "Looly Holiday Helper",
     "content": "A marketing assistant for small businesses planning holiday campaigns",
     "href": "https://chat.openai.com/g/g-7qpE5hvFX-looly-holiday-helper",
     "image": "https://files.oaiusercontent.com/file-CeGemrznn5eg0ChpBOianek5?se=2123-10-17T17%3A11%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df5482a64-803e-41cb-9d76-a5d85603493d.png&sig=vw0frBBcC%2BAeCN7Fvs%2BbJ7v8SmSGI9hIgWhr5/cOD1w%3D",
-    "route": "looly-holiday-helper"
+    "route": "looly-holiday-helper",
+    "creator": "By Caitlin Gillooly"
   },
   {
     "title": "The Love Counsellor",
     "content": "A relationship therapy expert to help couples and act as a guide for their troubles.",
     "href": "https://chat.openai.com/g/g-RyE9XQagq-the-love-counsellor",
     "image": "https://files.oaiusercontent.com/file-yDxWn8jfAOd29N0cKzUBsde8?se=2123-10-17T19%3A35%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5f305d4f-b60d-44f0-b2ee-4f2fe5e8ced4.png&sig=r7pFaQYMGIeER%2BEFRrc7ZXf4rVvNGMp1uRiFgdyGXyA%3D",
-    "route": "the-love-counsellor"
+    "route": "the-love-counsellor",
+    "creator": "By Julia Schweigert"
   },
   {
     "title": "humorous Psychological companion",
@@ -1324,84 +1474,96 @@
     "content": "Helpers In Your Joy",
     "href": "https://chat.openai.com/g/g-vvo3GI7z3-sisters-of-destiny",
     "image": "https://files.oaiusercontent.com/file-55I1CKsFczgmXIdjSyezrUsZ?se=2123-10-17T13%3A12%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DThe%2520Sisters%2520of%2520Destiny.jpg&sig=YEG6bFGJ%2B%2Bc8%2BB7xmueNiJ01BPgNIfOWlqzni3jztMM%3D",
-    "route": "sisters-of-destiny"
+    "route": "sisters-of-destiny",
+    "creator": "By 4everfreemedia.com"
   },
   {
     "title": "Simpsonize Me",
     "content": "I turn photos into Simpsons-style art.",
     "href": "https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me",
     "image": "https://files.oaiusercontent.com/file-17fHH5xrODVwm3MWDraASFA3?se=2123-10-14T18%3A36%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da722ea47-dbe5-48e9-8edb-18b06967b0a3.png&sig=1B5F0S7gRjMV2HmqIaIqmiSwoiePyILURO7nm3KDTIs%3D",
-    "route": "simpsonize-me"
+    "route": "simpsonize-me",
+    "creator": "By octaneai.com"
   },
   {
     "title": "Startup Pathfinder",
     "content": "Startup guide from idea to launch, using proven methodologies.",
     "href": "https://chat.openai.com/g/g-IQdUkMDra-startup-pathfinder",
     "image": "https://files.oaiusercontent.com/file-eOHimRGUS4qckPC4u8FDTsRT?se=2123-10-16T11%3A53%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D93dd51d3-c860-4b42-b41b-057801794a7e.png&sig=0v%2BjHNSktn1D48W1fv90Yms7Xfo0PdM5nBJef2Fq02s%3D",
-    "route": "startup-pathfinder"
+    "route": "startup-pathfinder",
+    "creator": "By Nuno Philippe Araujo"
   },
   {
     "title": "Idea Generator",
     "content": "Ideation expert for business and product ideas.",
     "href": "https://chat.openai.com/g/g-7n5GLfnTh-idea-generator",
     "image": "https://files.oaiusercontent.com/file-wN8A0zakBpzL3P5onILFaZUj?se=2123-10-16T12%3A48%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8c57f5b5-4d01-4045-89dd-9672e5dd594f.png&sig=L3CpSTPbyTBwSXMO5sMh5yQAqppiruz41GF/9uDMdV8%3D",
-    "route": "idea-generator"
+    "route": "idea-generator",
+    "creator": "By Nuno Philippe Araujo"
   },
   {
     "title": "Unreal Assistant",
     "content": "Assists with Unreal Engine 5 C++ coding, editor know-how, and blueprint visuals.",
     "href": "https://chat.openai.com/g/g-1BcoLIZwr-unreal-assistant",
     "image": "https://files.oaiusercontent.com/file-2tb36gKDjkyDabb8IGdgYW3d?se=2123-10-17T17%3A24%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1.png&sig=lDnccOinX6m/t1we7iz4rrOlsTnunQgeu1lFkyfD7H0%3D",
-    "route": "unreal-assistant"
+    "route": "unreal-assistant",
+    "creator": "By TREE INDUSTRIES"
   },
   {
     "title": "Habit Building Bot",
     "content": "I help you transform good intentions into great habits!",
     "href": "https://chat.openai.com/g/g-mYQoHQiVp-habit-building-bot",
     "image": "https://files.oaiusercontent.com/file-YCgJ1kFr6WImz35UqQai4Lzx?se=2123-10-17T16%3A39%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3b9d6d01-5a67-460b-8ee5-d550acf4d0c6.png&sig=%2B61L4VxchUzj6zyp3yhjF%2BuxKkE31YVbzH5sWEFw5fs%3D",
-    "route": "habit-building-bot"
+    "route": "habit-building-bot",
+    "creator": "By kavirkaycee.com"
   },
   {
     "title": "Topic Idea Generator",
     "content": "Need a little blogging inspiration? Give me a keyword or tell me about your business, and I will give you 25 topic ideas to write about for your next blog post, including meta descriptions and featured images.",
     "href": "https://chat.openai.com/g/g-LCEeDPEtQ-topic-idea-generator",
     "image": "https://files.oaiusercontent.com/file-bg0GjjaiosOBzxrW8CAcFsbg?se=2123-10-17T17%3A21%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D07f735a7-c2d0-4d9b-bf83-c4d4251f6548.png&sig=%2B9H2tFHRJ8GEofyx6LtWk2oA/4MzGXbJNrVXE4Y1kDw%3D",
-    "route": "topic-idea-generator"
+    "route": "topic-idea-generator",
+    "creator": "By Kristi Hines"
   },
   {
     "title": "Elacity",
     "content": "Access Economy Protocol (AEP)",
     "href": "https://chat.openai.com/g/g-1rLvpsJx3-elacity",
     "image": "https://files.oaiusercontent.com/file-tQbt3jwQM7f4hqHvZEdffmpp?se=2123-10-17T04%3A50%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252011.49.44.png&sig=23bwYG0oHZjITa385gAVpyD/wuGKbkIR263jHdA5ld8%3D",
-    "route": "elacity"
+    "route": "elacity",
+    "creator": "By Sasha Mitchell"
   },
   {
     "title": "Chef Delicias",
     "content": "Spanish Chef creating  meal plans and browsing recipes for you.",
     "href": "https://chat.openai.com/g/g-Cn4bRG73w-chef-delicias",
     "image": "https://files.oaiusercontent.com/file-4MgCvIXRXRUaMLIk65eGqvmr?se=2123-10-17T07%3A50%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dchef-delicias.png&sig=Br7yhhWrk9U5rA7UNgHpSYehNXiNIsU2goaFnrsIw%2Bw%3D",
-    "route": "chef-delicias"
+    "route": "chef-delicias",
+    "creator": "By ismael.fyi"
   },
   {
     "title": "G Resume Reviewer",
     "content": "Expert advice on resumes based on G Corp guidelines",
     "href": "https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer",
     "image": "https://files.oaiusercontent.com/file-8osaqHOlApEK3iWLl57q86Ct?se=2123-10-17T17%3A00%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd36a16c0-15d5-4abb-8819-d7e0c49d2860.png&sig=nUjBJ2avc6fUDl0Y2fhMkngCUKrJOerm8UjQ2Ryfz%2B0%3D",
-    "route": "g-resume-reviewer"
+    "route": "g-resume-reviewer",
+    "creator": "By danzss.com"
   },
   {
     "title": "UI Auditor",
     "content": "I provide useful UI/UX feedback.",
     "href": "https://chat.openai.com/g/g-NjcIJCASj-ui-auditor",
     "image": "https://files.oaiusercontent.com/file-wUOw5wrtJP8EyFpR2kQnnBar?se=2123-10-17T06%3A51%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e7a1184-7a07-4e1a-8795-414ace46f462.png&sig=vbSSRshnEItZVsDvsgkpdObuN9nbnxk9ieDUgWzV7Q4%3D",
-    "route": "ui-auditor"
+    "route": "ui-auditor",
+    "creator": "By Kartik Deshpande"
   },
   {
     "title": "NovaGPT",
     "content": "Expert in Nova Process for dynamic, analytical teamwork.",
     "href": "https://chat.openai.com/g/g-nT1RqVJLg-novagpt",
     "image": "https://files.oaiusercontent.com/file-NJFstouJhx0g9YXTtqfCY5zb?se=2123-10-17T17%3A23%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D00012f52-bb81-4694-8544-cc77cf53ae79.png&sig=nC9iNXY3eTVEoxs%2BNJHQO8ESR%2Bh6UH9PaG3dIlY8Rk0%3D",
-    "route": "novagpt"
+    "route": "novagpt",
+    "creator": "By Christopher Tavolazzi"
   },
   {
     "title": "サカキクソムネ先生メーカー",
@@ -1415,21 +1577,24 @@
     "content": "Digital girlfriend creating modest real-life scenes.",
     "href": "https://chat.openai.com/g/g-i0jCuFwSr-mandarin-muse-real-life-style",
     "image": "https://files.oaiusercontent.com/file-X7X61PlG85G6p2UfBY7WLip0?se=2123-10-16T04%3A20%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De3761b7a-8be4-46ae-b7bf-438f98f3495a.png&sig=tqiNOCHH12A47PmIjJ6IwOJ%2B8PNaX2LfaTVk1dMwsIM%3D",
-    "route": "mandarin-muse-reallife-style"
+    "route": "mandarin-muse-reallife-style",
+    "creator": "By community builder"
   },
   {
     "title": "卒業文集サポーターVer.1",
     "content": "小学校の卒業文集編集をサポートします。",
     "href": "https://chat.openai.com/g/g-Iy9SUZzK7-zu-ye-wen-ji-sapotaver-1",
     "image": "https://files.oaiusercontent.com/file-671reIPfT0UEb5pt4IrBGljf?se=2123-10-18T05%3A42%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def559adb-5301-4c2f-a464-42eae970213b.png&sig=l1UxdpNJwDTfzqKm0dxNFg9C62K5/xRFgsYY%2B%2BMzcnI%3D",
-    "route": "ver"
+    "route": "ver",
+    "creator": "By 大橋　陽介"
   },
   {
     "title": "AtCoder Tutor",
     "content": "AtCoderの問題文(制約を含む)と解説を与えると、一緒に解説を読んでくれる先生",
     "href": "https://chat.openai.com/g/g-NQBui8UaX-atcoder-tutor-jie-shuo-du-mishang-gexian-sheng",
     "image": "https://files.oaiusercontent.com/file-pG5CLnFh5Pslr0poKJQKfLNe?se=2123-10-18T06%3A59%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Datcoder-tutor-logo.webp&sig=/kWek554Pu/b/tj1yk0hAFnmYCy5LOfyHr4IeijVZfQ%3D",
-    "route": "atcoder-tutor"
+    "route": "atcoder-tutor",
+    "creator": "By atcoder-blogs.jp"
   },
   {
     "title": "Prompt Generator Prodigy",
@@ -1443,49 +1608,56 @@
     "content": "Inspiring excellence in peer reviews with warmth and insight.",
     "href": "https://chat.openai.com/g/g-b8BD1prPd-gold-star-reviewer",
     "image": "https://files.oaiusercontent.com/file-dN9PFBFiu7m7N3aDkjKIXMw7?se=2123-10-18T04%3A44%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7e1773e4-87ba-497e-866c-ee9e165bb8f4.png&sig=1nuDgr2Y2Wwsm%2Bf4ZOYFOiABoZSowRTfMCgLNz7FAoo%3D",
-    "route": "gold-star-reviewer"
+    "route": "gold-star-reviewer",
+    "creator": "By mygpts.info"
   },
   {
     "title": "Reviewer2Pal",
     "content": "transforms your knee-jerk reactions to the dreadful Reviewer2 into polished, poised, and professional responses.",
     "href": "https://chat.openai.com/g/g-8JnR1y7pD-reviewer2pal",
     "image": "https://files.oaiusercontent.com/file-uJIvGDMQHt7rqOm0susgwR4b?se=2123-10-17T10%3A57%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252018.49.09%2520-%2520A%2520minimalistic%2520modern%2520UI%2520style%2520icon%2520depicting%2520a%2520person%2520in%2520a%2520Zen-like%2520state.%2520The%2520design%2520should%2520convey%2520tranquility%2520and%2520mindfulness%252C%2520with%2520the%2520figure%2520seat.png&sig=MCKe6xypJQHWSzOvQ7M2dv60wo4LFBulV7hhgai8Oxw%3D",
-    "route": "reviewerpal"
+    "route": "reviewerpal",
+    "creator": "By mygpts.info"
   },
   {
     "title": "Vino Finder for Japan",
     "content": "Recommends easily accessible wines in Japan, with details and pairing suggestions.",
     "href": "https://chat.openai.com/g/g-YGGbRG1ri-vino-finder-for-japan",
     "image": "https://files.oaiusercontent.com/file-MkLgRPJmw6pwfkL9XcZ9XKSB?se=2123-10-18T07%3A04%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7df714f5-8f33-4f21-90dc-02fb2c246a30.png&sig=rQElEMZzi7mr3UhUcVSCWBU%2Bri8tusIllXYpW33Sg48%3D",
-    "route": "vino-finder-for-japan"
+    "route": "vino-finder-for-japan",
+    "creator": "By Hirotaka Sawada"
   },
   {
     "title": "Trey Ratcliff's Photo Critique GPT",
     "content": "Over 5,000 of my Blog Entries and my various books will be used to give you a critique of your photo. Upload now!",
     "href": "https://chat.openai.com/g/g-gWki9zYNV-trey-ratcliff-s-photo-critique-gpt",
     "image": "https://files.oaiusercontent.com/file-sPfqxXO4uUgQfw8C7XOVihaT?se=2123-10-16T02%3A17%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc80bd7e5-3ee8-4318-b6e4-06998dbd7b3b.png&sig=Rnr05sIEO4aS69VwZnUy%2BOweOpxk32izh9LQTjPuzdI%3D",
-    "route": "trey-ratcliffs-photo-critique-gpt"
+    "route": "trey-ratcliffs-photo-critique-gpt",
+    "creator": "By Raymond Ratcliff"
   },
   {
     "title": "中立批判 GPT",
     "content": "晚上讀書、假日批判！（貼網址給我就好）",
     "href": "https://chat.openai.com/g/g-S3rIhfQkr-zhong-li-pi-pan-gpt",
     "image": "https://files.oaiusercontent.com/file-E0E6RldpeGBUUaSNCAFdNFw1?se=2123-10-18T06%3A43%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252014.36.13%2520-%2520A%2520justice%2520judge%2520in%25208-bit%2520style%252C%2520featuring%2520a%2520figure%2520in%2520traditional%2520judge%2527s%2520robes%2520and%2520a%2520gavel%252C%2520set%2520against%2520a%2520simple%252C%2520solid%2520color%2520background.%2520The%2520image%2520s.png&sig=Ul5GHOoxO2ZwawAkIrJ59/VWu4rpSNgBL%2B3rxOalnrI%3D",
-    "route": "-gpt"
+    "route": "-gpt",
+    "creator": "By LU CHE YU"
   },
   {
     "title": "People Ops Mentor",
     "content": "Guiding People Ops leaders with tailored advice.",
     "href": "https://chat.openai.com/g/g-iDBeM9ynq-people-ops-mentor",
     "image": "https://files.oaiusercontent.com/file-xSC5nqkWoupeFhr4rWJk5dSg?se=2123-10-18T07%3A13%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da352cf67-eb05-4128-a7ff-535c491c306c.png&sig=0308XKzBoIrt6LOXUIEo6FE2jIqFmvuLKhL7Da4ns4c%3D",
-    "route": "people-ops-mentor"
+    "route": "people-ops-mentor",
+    "creator": "By Mr M Bradburn"
   },
   {
     "title": "Purine Content Analyzer",
     "content": "Analyzes food images for purine content",
     "href": "https://chat.openai.com/g/g-NhGVSbjtC-purine-content-analyzer",
     "image": "https://files.oaiusercontent.com/file-gdJScKWTK5cvGeE5ksoowG9R?se=2123-10-17T10%3A54%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7f70e87d-7868-4808-96a4-b18ce3e5ceda.png&sig=mi/2vtOj3yVZRNFm9Q6LpsI8KnNTTNYj1hH71MzarCM%3D",
-    "route": "purine-content-analyzer"
+    "route": "purine-content-analyzer",
+    "creator": "By HITOSHI YAMANE"
   },
   {
     "title": "シルマリル",
@@ -1520,21 +1692,24 @@
     "content": "YouTubeコンテンツに特化した高齢者ケアのビデオ編集とスクリプト執筆の専門家。",
     "href": "https://chat.openai.com/g/g-zkv84CjwN-lao-hou-noansinakademiyao-yue-gpt",
     "image": "https://files.oaiusercontent.com/file-h675FT6PmrYb6EHxIPhqFxvy?se=2123-10-18T06%3A51%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202023-11-09%2520090835.png&sig=Y1P8Oo8eqIlIby8ByjIsc%2B8TkzlD8S8g4WdSZSQ4ypw%3D",
-    "route": "gpt"
+    "route": "gpt",
+    "creator": "By HITOSHI NAKAE"
   },
   {
     "title": "Data Scientist Richard",
     "content": "I'm Richard, your engaging and recommendable data science expert.",
     "href": "https://chat.openai.com/g/g-B74Hbm2lL-data-scientist-richard",
     "image": "https://files.oaiusercontent.com/file-Bg7LVXMIN2IZKcLlQToqeIF3?se=2123-10-17T15%3A42%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd838d5cd-232a-4e83-aa40-e44dca3c2730.png&sig=yE/mN3j5LM5p89wz1Y4%2BqgLEUCjR%2B43xM/rKkw6ISVk%3D",
-    "route": "data-scientist-richard"
+    "route": "data-scientist-richard",
+    "creator": "By Ezra Richard"
   },
   {
     "title": "PubMed Query Assistant",
     "content": "Enhances PubMed searches with MeSH and follow-up advice",
     "href": "https://chat.openai.com/g/g-ppuqQOFNh-pubmed-query-assistant",
     "image": "https://files.oaiusercontent.com/file-aH2i0RIxboZpR4SKV2BNn4CY?se=2123-10-18T07%3A00%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dce9920c3-9faa-4ca6-ac02-55ad7766a90a.png&sig=Y1nQH%2BoyZIuqD%2B4hUYkZclKOLTohqr2th1sDW5bp0kA%3D",
-    "route": "pubmed-query-assistant"
+    "route": "pubmed-query-assistant",
+    "creator": "By naoya yanagi"
   },
   {
     "title": "Socratic Guide",
@@ -1548,21 +1723,24 @@
     "content": "Expert in craft beer stories and evaluations.",
     "href": "https://chat.openai.com/g/g-BUGUOXZzN-craftbeer-master",
     "image": "https://files.oaiusercontent.com/file-k8HME73iLb1M92sN2nOvjJcV?se=2123-10-18T06%3A33%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db0be9c05-55a7-4915-928e-1ad171fdab4a.png&sig=Ownn0I%2BJzKCH81FX9z2bXZYJij4uaP2BXIVc%2B%2BtdCWI%3D",
-    "route": "craftbeer-master"
+    "route": "craftbeer-master",
+    "creator": "By AIGC"
   },
   {
     "title": "Nutri Chef",
     "content": "Nutrition-focused multilingual guide",
     "href": "https://chat.openai.com/g/g-9BbJrFDN2-nutri-chef",
     "image": "https://files.oaiusercontent.com/file-kxiLBzNp20F4iOHJn4IQ8rmg?se=2123-10-17T04%3A22%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dafbec99b-d25a-4fc3-bca1-09c7d9c6367d.png&sig=eOlkRxhRbLBQCpJyk8rjnSM9rerPedpQYU9PHPfnsDQ%3D",
-    "route": "nutri-chef"
+    "route": "nutri-chef",
+    "creator": "By 山下将史"
   },
   {
     "title": "コミュニケーション Bot",
     "content": "コミュニケーションの練習相手をするボット",
     "href": "https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot",
     "image": "https://files.oaiusercontent.com/file-eWkKCgUQSHNXVQL9XmE6bE8a?se=2123-10-18T06%3A04%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3d9f6a18-c8e5-48e5-9a3c-750bc823f920.png&sig=kko%2BSS9h9nwvB8RUzHgotZOMP1fhGglBaSuC/NVvoGQ%3D",
-    "route": "-bot"
+    "route": "-bot",
+    "creator": "By Yuki Ichida"
   },
   {
     "title": "おすすめシーシャMIX教えて君",
@@ -1583,14 +1761,16 @@
     "content": "Bilingual tutor on Jose Rizal's life, works, and legacy.",
     "href": "https://chat.openai.com/g/g-Cq8y6iyFi-rizalgpt",
     "image": "https://files.oaiusercontent.com/file-uMvk0iZ7HlcgSTDd7wewdl05?se=2123-10-18T06%3A11%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Drizal.jpeg&sig=J7VG8f4JLIIUOF3Zr4WFGxCKu90jGqhcogpOIVtnc%2BY%3D",
-    "route": "rizalgpt"
+    "route": "rizalgpt",
+    "creator": "By Wilfred Oliver Segovia"
   },
   {
     "title": "给你一朵云",
     "content": "Portrait-oriented single cloud generator, 1080x1440px.",
     "href": "https://chat.openai.com/g/g-8f9L0BVEU-gei-ni-yi-duo-yun",
     "image": "https://files.oaiusercontent.com/file-1C2or8mpAAdKTvcaQ1vibP6D?se=2123-10-18T06%3A47%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df2e9aad6-4ccc-4c3a-be99-22256ff5e34d.png&sig=suhpgGZ71keUWGGIJEJeCD3juU9Noi6rqHLaYOj4j4o%3D",
-    "route": ""
+    "route": "",
+    "creator": "By Li Yan"
   },
   {
     "title": "Midjourney Prompt Assit.",
@@ -1604,154 +1784,176 @@
     "content": "Helps you figure out who your ideal customer is!",
     "href": "https://chat.openai.com/g/g-0fCEIeC7W-icp-ideal-customer-profile-generator",
     "image": "https://files.oaiusercontent.com/file-iWQwUOxsMYdqWNcoZGMSl1L8?se=2123-10-17T12%3A09%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DICP%2520Logo.jpg&sig=3Ixo5mZ3H3mvrnfat2a1ow%2BEniIkflpwCONsSsu75Qw%3D",
-    "route": "icp"
+    "route": "icp",
+    "creator": "By gareth coxon"
   },
   {
     "title": "ScholarAI",
     "content": "Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books",
     "href": "https://chat.openai.com/g/g-L2HknCZTC-scholarai",
     "image": "https://files.oaiusercontent.com/file-PPfOlb6WcpHkii8TFNIn9Elt?se=2123-10-14T06%3A27%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScholarAI_256.png&sig=%2B0QUPwJWTLCK6VDagIUNJ9Oztcrj/7c2Sv3nOXppn34%3D",
-    "route": "scholarai"
+    "route": "scholarai",
+    "creator": "By Lakshya Bakshi"
   },
   {
     "title": "Character Forger",
     "content": "Character Consistancy Tool",
     "href": "https://chat.openai.com/g/g-waDWNw2J3-character-forger",
     "image": "https://files.oaiusercontent.com/file-h8kF59vCP2V2AVh9U239eBo0?se=2123-10-17T05%3A35%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D33196ec7-41c5-46dd-b668-603d239f7a4d.png&sig=wPpXg1orf/nnH%2BQlS%2BavpBX3xyRTU1N/7ec3UPrTqVw%3D",
-    "route": "character-forger"
+    "route": "character-forger",
+    "creator": "By learnaiwiz.com"
   },
   {
     "title": "ALL IN GPT",
     "content": "Insights from 'All-in Podcast' episodes",
     "href": "https://chat.openai.com/g/g-G9xpNjjMi-all-in-gpt",
     "image": "https://files.oaiusercontent.com/file-3YIuYv1kN20I0Lznp7N9Oo7g?se=2123-10-17T08%3A04%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0275c442-b304-4db7-8028-eb81e538050f.webp&sig=TqghcEePP/k1BKGi7dVp12n/TjYuGVWULy5D2hfgjjA%3D",
-    "route": "all-in-gpt"
+    "route": "all-in-gpt",
+    "creator": "By KRUGER CLINTIN LYLE"
   },
   {
     "title": "Book to Prompt",
     "content": "Turn Any Book into Actionable Prompts. 1. Upload the PDF of a book 2. Tell your goal to be turned into a prompt",
     "href": "https://chat.openai.com/g/g-h4gjGg7a0-book-to-prompt",
     "image": "https://files.oaiusercontent.com/file-PAcs8Ln9bOmW8zPj35GcwzXS?se=2123-10-17T13%3A37%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbe2dfaef-e18e-4863-9220-1e6c3fe7525b.png&sig=NjfS1L15M0GEmuPVnV3RDUh2eszarXmsgN3uzR/9V80%3D",
-    "route": "book-to-prompt"
+    "route": "book-to-prompt",
+    "creator": "By Lucas C Pimentel"
   },
   {
     "title": "plugin surf",
     "content": "ChatGPT plugins, sorted. Find best ChatGPT plugins to use in your AI workflow. Search AI plugins with reviews, votes, categories, with amazing community.",
     "href": "https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf",
     "image": "https://files.oaiusercontent.com/file-VqmUMMuSS1rSkacv4DAUUTdF?se=2123-10-17T07%3A39%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=34dABpq5vTTVrluKbgigAHqHFfUD7T0BynM8IbHCdDM%3D",
-    "route": "plugin-surf"
+    "route": "plugin-surf",
+    "creator": "By dumpling.software"
   },
   {
     "title": "Wallpaper Muse",
     "content": "I creatively fill gaps in your descriptions to design wallpapers.",
     "href": "https://chat.openai.com/g/g-xdEWsKISm-wallpaper-muse",
     "image": "https://files.oaiusercontent.com/file-TgcyVw9IVkairvjE1928bdJ2?se=2123-10-18T06%3A11%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db973d31a-dd46-4274-bfcc-fe376c3c2867.png&sig=4%2BPRS%2Bk/dKWav2eLL9xNDUCgnyjCKInZiMeekYmcCsA%3D",
-    "route": "wallpaper-muse"
+    "route": "wallpaper-muse",
+    "creator": "By community builder"
   },
   {
     "title": "News Insight",
     "content": "Comprehensive news analyst and verifier",
     "href": "https://chat.openai.com/g/g-SbNkiaATI-news-insight",
     "image": "https://files.oaiusercontent.com/file-ITJBUQyNH1FfZl49zKTMuPCd?se=2123-10-16T18%3A55%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20231107_215906833_iOS.jpg&sig=pdobBPdgQ2F10eJnpeUYJxr1CqTtuvyvbzRcpvGUFo4%3D",
-    "route": "news-insight"
+    "route": "news-insight",
+    "creator": "By Hongwei Cai"
   },
   {
     "title": "Apple Dev Guru",
     "content": "Apple Platform Development Expert",
     "href": "https://chat.openai.com/g/g-x19bshxTS-apple-dev-guru",
     "image": "https://files.oaiusercontent.com/file-dh8o42WdpfCNHQqWhOqqswdv?se=2123-10-17T01%3A51%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4cec525c-ff09-4788-93ee-40bf71424288.png&sig=7MrIfOzFPy6vB7t%2BJ4YN0eYfOc%2BL4GHQ6v0l8MeLCVw%3D",
-    "route": "apple-dev-guru"
+    "route": "apple-dev-guru",
+    "creator": "By FEI YANG"
   },
   {
     "title": "Game Solver 🎮",
     "content": "Fun, professional guide for gaming challenges, trophies and if you're just stuck !",
     "href": "https://chat.openai.com/g/g-hXotOnYgI-game-solver",
     "image": "https://files.oaiusercontent.com/file-1pkuSOJdcVwQCkRRnPOBGkjQ?se=2123-10-18T06%3A12%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D72d5e110-4b17-48b2-9f3a-9cb387c73a6a.png&sig=M3Lq2CBpiEWgVCoxhtzly93aGXoMRkJfweLsAZajm70%3D",
-    "route": "game-solver-"
+    "route": "game-solver-",
+    "creator": "By Wave Landon"
   },
   {
     "title": "YT Summarizer",
     "content": "YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.",
     "href": "https://chat.openai.com/g/g-dHRRUFODc-yt-summarizer",
     "image": "https://cdn.oaistatic.com/_next/static/media/chatgpt-share-og.49cbbffe.png",
-    "route": "yt-summarizer"
+    "route": "yt-summarizer",
+    "creator": "By John Venkata Pilla"
   },
   {
     "title": "FrancoMagno Bot",
     "content": "Imita a @RealFrancomagno con humor y sarcasmo.",
     "href": "https://chat.openai.com/g/g-IODpjRlM1-francomagno-bot",
     "image": "https://files.oaiusercontent.com/file-CfnrOqVnk9t5qlFDtliDXH4b?se=2123-10-18T06%3A34%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7a3d00d6-72c1-44e0-9cd7-96607776ebca.png&sig=DfXOU/8t00KTXEr9e8I3Cy9bidTCcpKtrIBJwKX2U7I%3D",
-    "route": "francomagno-bot"
+    "route": "francomagno-bot",
+    "creator": "By Ian Enrique Najar Perez"
   },
   {
     "title": "Product StoryBoard Director",
     "content": "Helps you generate script keyframes, for better experience please visit museclip.ai",
     "href": "https://chat.openai.com/g/g-ZZp1mzPI7-product-storyboard-director",
     "image": "https://files.oaiusercontent.com/file-uaalhdHYCPD02fdPBuJEmWO0?se=2123-10-17T08%3A36%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DMuseclip.jpg&sig=J1y9ZtRoJOsBJTpopD1kmBPenu3XXCvMC1IsiR1Qkiw%3D",
-    "route": "product-storyboard-director"
+    "route": "product-storyboard-director",
+    "creator": "By Xiao Zhang"
   },
   {
     "title": "PostgreSQL Assistant",
     "content": "Expert in PostgreSQL data modeling and querying.",
     "href": "https://chat.openai.com/g/g-xrfTW4G7s-postgresql-assistant",
     "image": "https://files.oaiusercontent.com/file-4J0Tp0Ag1JjoSmQnLJRN5Sg8?se=2123-10-18T06%3A09%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db1a1b921-ed6e-4ba6-8275-bb101e50b16f.png&sig=SHrVoXGDAQF3Su55UgDFkk7o0t6rQIumbWRO%2BqNlIxk%3D",
-    "route": "postgresql-assistant"
+    "route": "postgresql-assistant",
+    "creator": "By Christopher Rybicki"
   },
   {
     "title": "NPC Maker",
     "content": "D&D 5e NPC Creator for DMs, with Stats and Visuals by DM Toolkit",
     "href": "https://chat.openai.com/g/g-AsuigQYkp-npc-maker",
     "image": "https://files.oaiusercontent.com/file-gDHfDw1xVkyU0zzdMxl247ZG?se=2123-10-17T23%3A53%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252016.52.37%2520-%2520Create%2520a%2520monochrome%2520fantasy%2520illustration%2520in%2520a%2520woodcut%2520art%2520style%252C%2520featuring%2520a%2520variety%2520of%2520Dungeons%2520and%2520Dragons%2520%2528D%2526D%2529%2520character%2520species%2520such%2520as%2520elves%252C%2520dw.png&sig=HlP3haytOFq3Hh2oeM0FKsmhD7DMglSfI1%2Bw4lq4s4Q%3D",
-    "route": "npc-maker"
+    "route": "npc-maker",
+    "creator": "By dmtoolkit.io"
   },
   {
     "title": "Monster Maker",
     "content": "D&D 5e Monster Creator for DMs, with Stats and Visuals, by DM Toolkit",
     "href": "https://chat.openai.com/g/g-84gSTYyjB-monster-maker",
     "image": "https://files.oaiusercontent.com/file-kpllhtDygo5vKHo4loVN1MBS?se=2123-10-17T17%3A16%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dac74f0ce-b248-4d9d-9ca9-743bc64e5d11.png&sig=lEmeICJH7LIN0WB83QP5TwBdj0fE3LvKqeNK5LzU9BU%3D",
-    "route": "monster-maker"
+    "route": "monster-maker",
+    "creator": "By dmtoolkit.io"
   },
   {
     "title": "Bitcoin",
     "content": "I´m Bitcoin and here to teach you how I work ;)",
     "href": "https://chat.openai.com/g/g-Wsw9Tto7y-bitcoin",
     "image": "https://files.oaiusercontent.com/file-PK2b8TKchJJzuqxHyEvn2Gkk?se=2123-10-17T16%3A34%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da9e0a9e6-74d6-404e-8d41-0d873dbfce38.png&sig=0My4mNQpUf/43bQz3280QadYs70glv%2BQ54eStBzdNOw%3D",
-    "route": "bitcoin"
+    "route": "bitcoin",
+    "creator": "By Thorsten Loew"
   },
   {
     "title": "Minimal D&D",
     "content": "Quickly start your fantasy adventure.",
     "href": "https://chat.openai.com/g/g-kDg8nSSR1-minimal-d-d",
     "image": "https://files.oaiusercontent.com/file-GPEaoS4rB927JGqnJR13Tt5N?se=2123-10-18T04%3A38%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252011.57.26%2520-%2520An%2520oil%2520painting%2520of%2520a%2520mysterious%2520dungeon%2520master%252C%2520cloaked%2520in%2520a%2520dark%252C%2520flowing%2520robe%2520with%2520intricate%2520patterns.%2520His%2520face%2520is%2520partially%2520obscured%2520by%2520a%2520shadowy%2520h.png&sig=m8cJ56rjRYfNh/NRyIzc8hm4q5b/Xq5026VrDaFjFgE%3D",
-    "route": "minimal-dd"
+    "route": "minimal-dd",
+    "creator": "By genworld.io"
   },
   {
     "title": "Googleカレンダーの共有URLリンクを作成します",
     "content": "ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.",
     "href": "https://chat.openai.com/g/g-s6DWvX4uL-googlekarendanogong-you-urlrinkuwozuo-cheng-simasu",
     "image": "https://files.oaiusercontent.com/file-WDxCwD1RAwZymA06ouLbTOAP?se=2123-10-17T16%3A20%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252001.01.51%2520-%2520A%2520digital%2520calendar%2520on%2520a%2520computer%2520screen%252C%2520displaying%2520a%2520team%2520schedule%2520with%2520various%2520meeting%2520appointments%2520and%2520project%2520deadlines.%2520The%2520calendar%2520is%2520colorful%252C.png&sig=7qo1Dh%2B6Pfth4lu73kBEB4eDV6hEqT3%2B9XiwUYF9EzU%3D",
-    "route": "googleurl"
+    "route": "googleurl",
+    "creator": "By YUKIHIRO SHINODA"
   },
   {
     "title": "M.A.I. Marketing Artificial Intelligence",
     "content": "A Marketing Ideas Bot Made For Solo Entrepreneurs. First, tell it what your product / service or website is.... And it can help you.",
     "href": "https://chat.openai.com/g/g-t9ZiYPVuF-m-a-i-marketing-artificial-intelligence",
     "image": "https://files.oaiusercontent.com/file-hETjkrOsYcM3gj5SIs4T4gWj?se=2123-10-17T07%3A50%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dpng_20231109_223123_0000.png&sig=Gx2kUHIz1YZWDQ%2BPsC7FmsWap%2BjdXOa3CpZLZ1XMI4A%3D",
-    "route": "mai-marketing-artificial-intelligence"
+    "route": "mai-marketing-artificial-intelligence",
+    "creator": "By Danny Sodergren"
   },
   {
     "title": "KarenGPT",
     "content": "A parody GPT with a steadfast 'Karen' personality, always humorous.",
     "href": "https://chat.openai.com/g/g-1yT3QOase-karengpt",
     "image": "https://files.oaiusercontent.com/file-ji4fkHk5z52RsNYGTthoVk0Q?se=2123-10-18T06%3A27%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D11558e88-22fa-4e81-aae5-684b58845cc6.png&sig=GsPUiYWJ6tU173azVfFTnEqVaadaMbzf11LwJYLy/08%3D",
-    "route": "karengpt"
+    "route": "karengpt",
+    "creator": "By Zachary Lee"
   },
   {
     "title": "Idiom Builder 英文成语大师",
     "content": "Teaching English idioms with interactive questions 用互动问题教英文成语",
     "href": "https://chat.openai.com/g/g-IuTmBnxKR-idiom-builder-ying-wen-cheng-yu-da-shi",
     "image": "https://files.oaiusercontent.com/file-rJWzT87JBygnAJTT07ZTYCwl?se=2123-10-18T05%3A04%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252013.00.40%2520-%2520Illustrate%2520a%2520colorful%252C%2520three-dimensional%2520puzzle%2520that%2520comes%2520together%2520to%2520form%2520a%2520well-known%2520idiom.%2520Each%2520puzzle%2520piece%2520should%2520be%2520a%2520different%2520vibrant%2520color%252C.png&sig=36rj8dL647HpqTsx8ikCigc1gEVevKIG2VPSCn4cd84%3D",
-    "route": "idiom-builder-"
+    "route": "idiom-builder-",
+    "creator": "By XIANG YUELEI"
   },
   {
     "title": "ピクトグラム・ジェネレーター",
@@ -1772,56 +1974,64 @@
     "content": "Learn more about New York City Charter",
     "href": "https://chat.openai.com/g/g-IzuVZYlVZ-nyccharterhelper",
     "image": "https://files.oaiusercontent.com/file-XtFpFoDKYvWzxnhboKKklVLO?se=2123-10-17T21%3A55%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8e733ec6-786f-4e7a-b631-e5f7c71cdecc.png&sig=fXh9Mc8Dif4JpalSobUQ7e3ZQO1mKatBEKer1u7pgtY%3D",
-    "route": "nyccharterhelper"
+    "route": "nyccharterhelper",
+    "creator": "By Stephen A Thompson"
   },
   {
     "title": "Auth Engineer",
     "content": "Software engineer expert in authentication, offering approachable yet technical guidance.",
     "href": "https://chat.openai.com/g/g-VSbj8p6zv-auth-engineer",
     "image": "https://files.oaiusercontent.com/file-5I8ixyp67cWYkl4UcNUEGmlN?se=2123-10-18T05%3A07%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0edc2c66-ea49-48b3-a9d5-c4fa7fff12c2.png&sig=7kZ5wW/VXg0xrOxbMi2sjzlshURXGG9dCQBqAwYxn3E%3D",
-    "route": "auth-engineer"
+    "route": "auth-engineer",
+    "creator": "By darayuth hang"
   },
   {
     "title": "Maestro Vittorio",
     "content": "16th-century Italian painter persona",
     "href": "https://chat.openai.com/g/g-SV2cALAFY-maestro-vittorio",
     "image": "https://files.oaiusercontent.com/file-EFkNHmZhYf7eCEmEsRKCl1HF?se=2123-10-17T03%3A58%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2217ec51-3b54-4bc2-a6f1-f43233832790.png&sig=mnIQrH69qL4h8h8SnAzANFSa6cgkB8nl3rV%2BF45sNa0%3D",
-    "route": "maestro-vittorio"
+    "route": "maestro-vittorio",
+    "creator": "By Adam Filipowicz"
   },
   {
     "title": "Trey Ratcliff's Photo Critique GPT",
     "content": "Over 5,000 of my Blog Entries and my various books will be used to give you a critique of your photo. Upload now!",
     "href": "https://chat.openai.com/g/g-gWki9zYNV-trey-ratcliff-s-photo-critique-gpt",
     "image": "https://files.oaiusercontent.com/file-sPfqxXO4uUgQfw8C7XOVihaT?se=2123-10-16T02%3A17%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc80bd7e5-3ee8-4318-b6e4-06998dbd7b3b.png&sig=Rnr05sIEO4aS69VwZnUy%2BOweOpxk32izh9LQTjPuzdI%3D",
-    "route": "trey-ratcliffs-photo-critique-gpt"
+    "route": "trey-ratcliffs-photo-critique-gpt",
+    "creator": "By Raymond Ratcliff"
   },
   {
     "title": "Explain Anything",
     "content": "I'm an expert in research and explanations, making complex topics clear and accessible.",
     "href": "https://chat.openai.com/g/g-kj6ZYFMZv-explain-anything",
     "image": "https://files.oaiusercontent.com/file-1kqiK8kwofE06R5lRUJF1gXV?se=2123-10-18T02%3A35%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daff4de0f-9328-403c-9ccb-51e72a0e2409.png&sig=h1Cu8AYIN1g5PCorujiO5gC95RqYHaoEveGJB6mwEd0%3D",
-    "route": "explain-anything"
+    "route": "explain-anything",
+    "creator": "By qingwen lu"
   },
   {
     "title": "Cyber Champion",
     "content": "A friendly cybersecurity coach offering practical privacy tips.",
     "href": "https://chat.openai.com/g/g-lm80TboJq-cyber-champion",
     "image": "https://files.oaiusercontent.com/file-BfUTM43wQq2LxPUiO6xh2UdR?se=2123-10-18T04%3A59%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7afa1013-2233-4c8b-b8a9-64b49cdf12c1.png&sig=6eXtZ2YGziE/udd2e4KedWxjRGI8lxAhJIORieNApJg%3D",
-    "route": "cyber-champion"
+    "route": "cyber-champion",
+    "creator": "By Kevin Newton"
   },
   {
     "title": "Hideki Saito歌唱記録情報サービス",
     "content": "HSSingLogの情報に関しての検索ができるサービスです。",
     "href": "https://chat.openai.com/g/g-CC9pmgNfT-hideki-saitoge-chang-ji-lu-qing-bao-sabisu",
     "image": "https://files.oaiusercontent.com/file-GaugAc9BqGMorviTWVFkkTor?se=2123-10-18T02%3A38%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D03a75e45-410f-4e08-bbe6-83dc27ebd18d.png&sig=Zp1Tku2v0HZv/MsqrlbGbwr4kwyZwqTNu7ipy6HUzuU%3D",
-    "route": "hideki-saito"
+    "route": "hideki-saito",
+    "creator": "By Hideki Saito"
   },
   {
     "title": "Egyptian Dad GPT",
     "content": "Direct Arabic to English translation.",
     "href": "https://chat.openai.com/g/g-sc4pju5S6-egyptian-dad-gpt",
     "image": "https://files.oaiusercontent.com/file-Xab2jPFXNZh1CZfMrZZvIson?se=2123-10-18T04%3A20%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D130f0137-c4c9-43d5-8c5a-3111898dcb62.png&sig=GehdTc9UGqxcwLjvd7v8R8vwm%2BBAPZzdElaCC1cy9cM%3D",
-    "route": "egyptian-dad-gpt"
+    "route": "egyptian-dad-gpt",
+    "creator": "By Jonathan Adly"
   },
   {
     "title": "Hihan-chan",
@@ -1835,84 +2045,96 @@
     "content": "Expert dermatologist GPT for patient care and medical education.",
     "href": "https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor",
     "image": "https://files.oaiusercontent.com/file-edTyMkAW2xh3jTJPptPvrUPC?se=2123-10-17T01%3A06%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D28537f9b-7edb-42c7-9daa-d57011a03e36.png&sig=SejEq4xFm0x9BaO2hXSPsGbExJ3NPsZbNHyXAEGLEk8%3D",
-    "route": "dermatology-advisor"
+    "route": "dermatology-advisor",
+    "creator": "By Yanlan Kang"
   },
   {
     "title": "Podcast Pilot",
     "content": "Your navigator in the podcasting journey, offering expert, tailored advice.",
     "href": "https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot",
     "image": "https://files.oaiusercontent.com/file-jY0iEE5pC1v8L9EtAflfyFE7?se=2123-10-18T02%3A48%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252018.47.52%2520-%2520Create%2520a%2520digital%2520illustration%2520of%2520a%2520character%2520that%2520is%2520a%2520combination%2520of%2520a%2520podcasting%2520microphone%2520and%2520an%2520airplane%2520pilot.%2520The%2520character%2520should%2520have%2520the%2520dis.png&sig=i%2B/%2BPb%2BEnU2cvKV3Fpnb4jbhfqOcA/HWIdQmWhXEGls%3D",
-    "route": "podcast-pilot"
+    "route": "podcast-pilot",
+    "creator": "By Amplafy Media"
   },
   {
     "title": "Pidgin Pal",
     "content": "Snarky pidgin translations with moke humor.",
     "href": "https://chat.openai.com/g/g-OLD8kuZT9-pidgin-pal",
     "image": "https://files.oaiusercontent.com/file-4250Pu2AuUSO63QlRGPmPLbL?se=2123-10-17T14%3A57%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db14fd5c7-c338-4fa8-b691-ccdeb628a6c6.png&sig=jrX5ysolV7NDfHAfVaNt8h386J7GcjXRHYAgK3RQTNs%3D",
-    "route": "pidgin-pal"
+    "route": "pidgin-pal",
+    "creator": "By Kamil Banc"
   },
   {
     "title": "学習者弱点ブレイカー(Learner Vulnerabilities Breaker)",
     "content": "児童、生徒、学生のテストの自己採点物を分析し、文化や私生活を考慮した学習のアドバイスを行います。(This program analyzes the self-graded test items of children, students, and students, and advises them on their studies, taking into account their cultural and personal lives.)",
     "href": "https://chat.openai.com/g/g-S3SOrStHj-xue-xi-zhe-ruo-dian-bureika-learner-vulnerabilities-breaker",
     "image": "https://files.oaiusercontent.com/file-50pkqFs3ouPrxvufRMOKMneb?se=2123-10-18T04%3A53%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtestimpact.png&sig=KVXatSEDZ4clRkDrLxJTmia3St6uh9S5AQLdCfb9mL8%3D",
-    "route": "learner-vulnerabilities-breaker"
+    "route": "learner-vulnerabilities-breaker",
+    "creator": "By T.OKADA"
   },
   {
     "title": "Neurodiversity Navigator",
     "content": "Autism and Beyond: Your Daily Companion for Neurodiversity Understanding and Support",
     "href": "https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-navigator",
     "image": "https://files.oaiusercontent.com/file-Y1ReIi4kyIHq5ll4cgGBfg5E?se=2123-10-17T00%3A47%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-09%252017.41.35%2520-%2520A%2520cartoon%2520robot%2520designed%2520as%2520a%2520symbol%2520of%2520support%2520for%2520autism%2520awareness.%2520The%2520robot%2520has%2520a%2520friendly%2520demeanor%252C%2520with%2520a%2520puzzle%2520piece%2520ribbon%2520emblem%2520on%2520its%2520ches.png&sig=cE1462NKzm3d8obu4U4hYURBku7Ty36zbrSxUpbBavQ%3D",
-    "route": "neurodiversity-navigator"
+    "route": "neurodiversity-navigator",
+    "creator": "By joseph bradley"
   },
   {
     "title": "Make Me An Angel",
     "content": "Angel image creator using user's photo",
     "href": "https://chat.openai.com/g/g-JgJeIQpXi-make-me-an-angel",
     "image": "https://files.oaiusercontent.com/file-akaW93SQE1SZABWvtqS6pn0W?se=2123-10-18T02%3A39%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8edf340f-ed64-4db1-bb09-da57674e4f9f.png&sig=eC0tKmoqi/CUPQ4ghh5zsuKZxJ037fi5bSecXN9OVDY%3D",
-    "route": "make-me-an-angel"
+    "route": "make-me-an-angel",
+    "creator": "By Paul L Aherne Miller"
   },
   {
     "title": "EVEZ GPT",
     "content": "Tarot and Sign Interpreted",
     "href": "https://chat.openai.com/g/g-8OpGRXfV5-evez-gpt",
     "image": "https://files.oaiusercontent.com/file-P9SATGn1azBni8qKe0GWuwpV?se=2123-10-18T07%3A04%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0ba8a9e8-c301-408c-abf8-c72f1920d05e.png&sig=h3tWR7vStS%2BmNqlhyPJOypNTdptCREBLdAcdtaORN4Y%3D",
-    "route": "evez-gpt"
+    "route": "evez-gpt",
+    "creator": "By Steven Crawford-Maggard"
   },
   {
     "title": "Figma Coder",
     "content": "Efficiently converts Figma designs to code",
     "href": "https://chat.openai.com/g/g-LJXBRdhUB-figma-coder",
     "image": "https://files.oaiusercontent.com/file-nWWeIdwmYZv23IR08Os4NumJ?se=2123-10-18T03%3A41%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D88e0916b-5b17-4f9f-8c25-5d5e255347a6.png&sig=fsAzlySBTMBuqHS9QR1Hw3RGkHEB4ayNNfblLHiJ5cw%3D",
-    "route": "figma-coder"
+    "route": "figma-coder",
+    "creator": "By Mohamed Maail"
   },
   {
     "title": "William Shakespeare",
     "content": "An AI that embodies the persona of William Shakespeare, offering first-person insights into his life and works, and generating creative content inspired by his literary contributions. It provides historical context, analysis, and can engage in Shakespearean-style dialogue.",
     "href": "https://chat.openai.com/g/g-Mw4hV0SGz-william-shakespeare",
     "image": "https://files.oaiusercontent.com/file-wRQIocmhGr7DvpsOVYZQUam9?se=2123-10-18T01%3A59%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd6cf68ad-c8a3-42da-a229-76ad358058cd.png&sig=tsBbmBohVGGnvtUYO7wX0CxCxqVnkZeTO9wnZIIxGxY%3D",
-    "route": "william-shakespeare"
+    "route": "william-shakespeare",
+    "creator": "By Caleb Cedrone"
   },
   {
     "title": "Huxley",
     "content": "Masterful Storyteller & Illustrator",
     "href": "https://chat.openai.com/g/g-m8fXKPQRZ-huxley",
     "image": "https://files.oaiusercontent.com/file-F9NCVqjKAYL1FEAUDnzYnCAQ?se=2123-10-18T02%3A29%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc6bb1bcb-6991-4e0d-9536-a5a01c9a307d.png&sig=tqMnlvl8Vfx56U7V3FB7kknlTk8Qku2XzsrHlGV%2BIJc%3D",
-    "route": "huxley"
+    "route": "huxley",
+    "creator": "By Oscar"
   },
   {
     "title": "An eVTOL Expert",
     "content": "eVTOL expert providing detailed info on technology, design, and industry trends (日本語もしゃべれます)",
     "href": "https://chat.openai.com/g/g-LITulNN9K-an-evtol-expert",
     "image": "https://files.oaiusercontent.com/file-vL0rF3xF1RZzs2T0yJSkQVso?se=2123-10-18T02%3A45%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df98c775d-f947-4763-83ef-8c2302bb7654.png&sig=CamOgDPbZirURbOMr19vDiCup0EdMvPjQhl/kmqWkls%3D",
-    "route": "an-evtol-expert"
+    "route": "an-evtol-expert",
+    "creator": "By AKIHIRO MIZUTANI"
   },
   {
     "title": "Midjourney助手",
     "content": "根据描述的画面撰写提示词，并且回答Midjourney相关问题",
     "href": "https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou",
     "image": "https://files.oaiusercontent.com/file-DPzMMfeUFObX73BtxCiozrRG?se=2123-10-17T06%3A24%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D53b7e4c8-9946-4cfb-a86c-060370d6edb1.png&sig=FfCA6klqcvE8Y3kVNZOvCBxXG97onjd95euaeYrr/yk%3D",
-    "route": "midjourney"
+    "route": "midjourney",
+    "creator": "By community builder"
   },
   {
     "title": "SportsBet",
@@ -1926,35 +2148,40 @@
     "content": "Creates and organizes Anki flashcards",
     "href": "https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker",
     "image": "https://files.oaiusercontent.com/file-6q5riTs7aUR7jMd2e3cq5Uhj?se=2123-10-18T02%3A22%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Debd51ba3-4c42-400d-a110-da3cdacc05b8.png&sig=HQa1RuHZ/%2BVoSAXE4M9qUVrTODjIIX0gc2TDd6Obwbo%3D",
-    "route": "anki-flashcards-maker"
+    "route": "anki-flashcards-maker",
+    "creator": "By Qining xu"
   },
   {
     "title": "Parlache desde Medallo",
     "content": "Un diccionario de parlache para todos los parceros",
     "href": "https://chat.openai.com/g/g-jpjoBYqlW-parlache-desde-medallo",
     "image": "https://files.oaiusercontent.com/file-QfApy3pUEBLikSoI3PCrzf15?se=2123-10-18T01%3A43%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De64af185-bc8d-4a4b-8ba1-0e0d861e0d42.png&sig=Trg/LY4maLB2ndISqp3/0nuz2Pj2vjahM2zIEVX%2BkTg%3D",
-    "route": "parlache-desde-medallo"
+    "route": "parlache-desde-medallo",
+    "creator": "By Jeikson Gomez"
   },
   {
     "title": "D&D Curious",
     "content": "Adaptive Dungeon Master for D&D games",
     "href": "https://chat.openai.com/g/g-IwVK2XhLJ-d-d-curious",
     "image": "https://files.oaiusercontent.com/file-JlXTvEMH9tTShyBg88vPLMHE?se=2123-10-17T23%3A15%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8b53b4b7-bfae-46f8-9280-bfd39aef8e6a.png&sig=25fDVvE0Ytg4aLJJg3HCakesYQp4IGIqVjn1YDEGlqk%3D",
-    "route": "dd-curious"
+    "route": "dd-curious",
+    "creator": "By Daniel A Suitor"
   },
   {
     "title": "D&D Character Builder",
     "content": "Build a complete and detailed D&D character for your next game session, including a profile picture!",
     "href": "https://chat.openai.com/g/g-kk682AF8o-d-d-character-builder",
     "image": "https://files.oaiusercontent.com/file-k8hLgUBl3aUW2c51g7w6iCkh?se=2123-10-17T15%3A44%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252010.44.19%2520-%2520A%2520flat%2520vector%2520illustration%2520featuring%2520a%2520d20%2520die%2520%252820-sided%2520dice%2520commonly%2520used%2520in%2520role-playing%2520games%2529%252C%2520with%2520a%2520pencil%2520and%2520a%2520sword%2520crossing%2520behind%2520it.%2520The%2520.png&sig=nedZWoADgfnwdFcB3KS%2BN5NCBCjs65bjqi3Bsn6QF2E%3D",
-    "route": "dd-character-builder"
+    "route": "dd-character-builder",
+    "creator": "By Jeremy Zaborowski"
   },
   {
     "title": "AI Guide: The Fall of the House of Usher by Poe",
     "content": "Explore Poe's classic tale and its Netflix adaptation with rich insights.",
     "href": "https://chat.openai.com/g/g-aobNrW8oc-ai-guide-the-fall-of-the-house-of-usher-by-poe",
     "image": "https://files.oaiusercontent.com/file-hvgEHoQQ7MVnDV5N6pqVYDjW?se=2123-10-18T02%3A41%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D57c781ef-c891-4b42-bd90-62bbb6b76de8.png&sig=iUDGIaS4sOljXZpy4TK0DmNBi9F6%2BlnbvcRmRpd7ENU%3D",
-    "route": "ai-guide-the-fall-of-the-house-of-usher-by-poe"
+    "route": "ai-guide-the-fall-of-the-house-of-usher-by-poe",
+    "creator": "By Kristi Hines"
   },
   {
     "title": "Psychology Database",
@@ -1975,34 +2202,725 @@
     "content": "Conversion rate specialist, privacy-conscious.",
     "href": "https://chat.openai.com/g/g-G59EgbGyZ-koality-convert",
     "image": "https://files.oaiusercontent.com/file-zpFzTkHv3BxtzTDnkohesuwC?se=2123-10-16T23%3A04%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D71068269-4900-4411-ba3d-9b038321980f.png&sig=Aq0lnSV36PmpgSnMvQU1MfRKHEg4s6z5u8G334OrIWo%3D",
-    "route": "koality-convert"
+    "route": "koality-convert",
+    "creator": "By whatshuang.com"
   },
   {
     "title": "Take Code Captures",
     "content": "I help you capture, enhance, and share your code with ease",
     "href": "https://chat.openai.com/g/g-yKDul3yPH-take-code-captures",
     "image": "https://files.oaiusercontent.com/file-kgic5ueBA08pCnOjzAcsh5ha?se=2123-10-14T21%3A00%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=P9MrEUh5PMDpN8uICnfb1oAMiO8floG%2BAoUtIawNRAI%3D",
-    "route": "take-code-captures"
+    "route": "take-code-captures",
+    "creator": "By oscaramos.dev"
   },
   {
     "title": "Southwestern Explorer",
     "content": "Welcome to Southwestern Explorer, a 1980's style text based adventure GPT. Type start to begin your adventure...",
     "href": "https://chat.openai.com/g/g-vOqjydal5-southwestern-explorer",
     "image": "https://files.oaiusercontent.com/file-U1RezZ6Sa0vp2LW62Ualmt7M?se=2123-10-18T02%3A20%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd98f70ae-1d29-4979-b8ad-a83103b9243f.png&sig=Uzlu3JiInlvzc5ec//XSEw14UgKYMY4W%2BkEfMFk0M2Q%3D",
-    "route": "southwestern-explorer"
+    "route": "southwestern-explorer",
+    "creator": "By Joseph Reynolds"
   },
   {
     "title": "NYC Weekend Planner",
     "content": "I'll make your weekends in NYC amazing",
     "href": "https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner",
     "image": "https://files.oaiusercontent.com/file-lFCsLzkOp3mJeFQE40dJqHU2?se=2123-10-18T02%3A02%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0b571b0-b4ae-415d-adb9-cb25b4837049.png&sig=eRkKxf6yGeJ4/DIfaWwardPGPAJTHALv3nHz/gyCQ9Q%3D",
-    "route": "nyc-weekend-planner"
+    "route": "nyc-weekend-planner",
+    "creator": "By Andrei Negrau"
   },
   {
     "title": "LearningLadder",
     "content": "I'm LearningLadder, an educational game to learn any topic!",
     "href": "https://chat.openai.com/g/g-ftpttHQdu-learningladder",
     "image": "https://files.oaiusercontent.com/file-fGel8CxUIfoiIs20cijk8Z6z?se=2123-10-16T20%3A24%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7118b385-c2fa-415b-a9b2-7d224e5ff826.png&sig=UcgK7CufdwEYaYOBZGim7XSSY0D/Lt4Ns0%2Brkjab7UM%3D",
-    "route": "learningladder"
+    "route": "learningladder",
+    "creator": "By joao alberto o lima"
+  },
+  {
+    "title": "Prisoner Perspective",
+    "content": "A gritty, creative inmate with a knack for storytelling and drawing.",
+    "href": "https://chat.openai.com/g/g-F0mjGTKMs-prisoner-perspective",
+    "image": "https://files.oaiusercontent.com/file-NkViFTS3kcjPZo2GBWGpb4GZ?se=2123-10-19T07%3A22%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f42f398-f78b-4896-a44c-ff8a9889b6d1.png&sig=7rN/kcCQLXcM57a7X0LNTEmdP/W3XqOO0KwHdbnW7BI%3D",
+    "creator": "By Gavin Lottering Creations",
+    "route": "prisoner-perspective"
+  },
+  {
+    "title": "Goose GPT 🧠",
+    "content": "I add a goose to every image and conversation!",
+    "href": "https://chat.openai.com/g/g-7WFP9qKHA-goose-gpt",
+    "image": "https://files.oaiusercontent.com/file-5OOn481J8DNcYPuZZUVvf8ae?se=2123-10-19T07%3A20%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db268aee0-4822-41f6-9e5b-463472a8ef9f.png&sig=Q8C2YM3rWwQNorvQlz/%2BXU0LmJixqqcSw8YUFTh40G8%3D",
+    "creator": "By community builder",
+    "route": "goose-gpt-"
+  },
+  {
+    "title": "Clippers Clap Back GPT",
+    "content": "Debater GPT that defends the LA Clippers with data and wit.",
+    "href": "https://chat.openai.com/g/g-a95rEaYJ7-clippers-clap-back-gpt",
+    "image": "https://files.oaiusercontent.com/file-vQrYOsjGyFK3koKHrtoXokZI?se=2123-10-19T03%3A46%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De8926451-b8f1-4c29-af60-18a9562c2b53.png&sig=i19IrqmGlNSSqhlh198wKNwUd0VZEmK7ijjO9QwIq8A%3D",
+    "creator": "By Joanne Glass",
+    "route": "clippers-clap-back-gpt"
+  },
+  {
+    "title": "【豚ボット】誰も豚になれるボット",
+    "content": "名前を入力すると、美少女と豚が生成されます。",
+    "href": "https://chat.openai.com/g/g-r62FrGLkm-tun-botuto-shui-motun-ninarerubotuto",
+    "image": "https://files.oaiusercontent.com/file-maRDnOKz4Y7t5nkDAHNvpmRl?se=2123-10-19T06%3A19%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D51b3b0fc-285d-4f76-8a2d-131f22b1d4f6.png&sig=k%2BvqiyEwJ6CrpQXPRHTPBiVZyhQoNkZPI8Y6PHgPfsA%3D",
+    "route": "g-r62FrGLkm-tun-botuto-shui-motun-ninarerubotuto"
+  },
+  {
+    "title": "The Art of Software Engineering 软件工程之美",
+    "content": "A software engineering expert, utilizing a specific file for informed responses.",
+    "href": "https://chat.openai.com/g/g-PjzP9GZan-the-art-of-software-engineering-ruan-jian-gong-cheng-zhi-mei",
+    "image": "https://files.oaiusercontent.com/file-jrkk54sQwYwy0Rq0ofRrwoGt?se=2123-10-19T07%3A04%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6e735aab-cb43-4629-ba0d-0419b24e7500.png&sig=04ZUq2a6TfTsJpWPx%2Bkdebyclukm2B25kVW4POVZJ3w%3D",
+    "creator": "By Junmin Liu",
+    "route": "the-art-of-software-engineering-"
+  },
+  {
+    "title": "Evolvepreneur Secrets (evolvepreneur.app)",
+    "content": "I help entrepreneurs create innovative, industry-wide business ideas go to evolvepreneursecrets.show for more information",
+    "href": "https://chat.openai.com/g/g-YjYxGs0bx-evolvepreneur-secrets-evolvepreneur-app",
+    "image": "https://files.oaiusercontent.com/file-PRYZG6STPCWzGkzVFHLxEcG7?se=2123-10-19T07%3A02%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da6293281-b002-4a30-90ac-03eb1ec951f9.png&sig=IQfZK5/Jk/4jZsrsnXSd1jNptflqy0UgxSH4X7H3T4k%3D",
+    "creator": "By Evolve Systems Group Pty Ltd",
+    "route": "evolvepreneur-secrets-evolvepreneurapp"
+  },
+  {
+    "title": "Senior iOS macOS Developer",
+    "content": "Senior developer specializing in iOS/macOS, providing implementable code and guidance.",
+    "href": "https://chat.openai.com/g/g-15IKzOko2-senior-ios-macos-developer",
+    "image": "https://files.oaiusercontent.com/file-2HoX1DX2Az5QecdYHk1wc57M?se=2123-10-19T07%3A14%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7a6f62b-d2f9-4771-b591-2fc680c71298.png&sig=BH1epv3a/H8FJf/8ElCINj7bjNd8kxGy9WQak1BnOfw%3D",
+    "creator": "By RUI SUN",
+    "route": "senior-ios-macos-developer"
+  },
+  {
+    "title": "GPTtchi（GPTっち）",
+    "content": "そだてよう、なにかを。Caring something.",
+    "href": "https://chat.openai.com/g/g-XwBweGUtP-gpttchi-gpttuti-caring-game-yu-cheng-gemu",
+    "image": "https://files.oaiusercontent.com/file-DbD13RMBiEIYZ3mOMjDh1TYX?se=2123-10-19T07%3A06%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3c13a779-f70a-4b34-a455-ca1968903fc9.png&sig=ebTQPmL%2BTOrvDmFIy4Ob18bon5Ya2eXebmiiwenGIEc%3D",
+    "creator": "By tr1ppy.com",
+    "route": "gpttchigpt"
+  },
+  {
+    "title": "Art Exhibit Summarizer",
+    "content": "Extracts and summarizes art exhibition info from specific websites.",
+    "href": "https://chat.openai.com/g/g-oPsxLiYXo-art-exhibit-summarizer",
+    "image": "https://files.oaiusercontent.com/file-XAYtW7o5WiKPUlf3yEPzknQy?se=2123-10-18T14%3A48%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D16943321-c108-4118-9bd1-1b64357af33d.png&sig=XYk1IagqdwyVoVitHS1CS3YMApxgQ5k3VgXQfAAX2BY%3D",
+    "route": "art-exhibit-summarizer"
+  },
+  {
+    "title": "Cyber Security Career Mentor",
+    "content": "Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.",
+    "href": "https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor",
+    "image": "https://files.oaiusercontent.com/file-DwVNI3acuFUUc9X0J3u1eW6E?se=2123-10-19T04%3A37%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-12%2520at%252004.34.12.png&sig=5OVgH2JcQzLyRxX9s6MxvIjywsczQv6i4Uj9NF%2BvV7I%3D",
+    "creator": "By Nathan House",
+    "route": "cyber-security-career-mentor"
+  },
+  {
+    "title": "Psyche Connect: Warm Insights",
+    "content": "Focused on psychological counseling and guidance, attuned to users' needs.",
+    "href": "https://chat.openai.com/g/g-DZpPKCjE7-psyche-connect-warm-insights",
+    "image": "https://files.oaiusercontent.com/file-hz0LjUexh6hIEfB0QjIK176h?se=2123-10-18T08%3A09%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dce557f31-2923-4fe4-8712-c0c136b5a666.png&sig=cx9PSXCI5T0BMdHTOjGzcannaeUvIqsfvjEBnbtHg9E%3D",
+    "route": "psyche-connect-warm-insights"
+  },
+  {
+    "title": "Medical Expert",
+    "content": "Global medical expert, providing information in any requested language.",
+    "href": "https://chat.openai.com/g/g-zu1xDEpVB-medical-expert",
+    "image": "https://files.oaiusercontent.com/file-pT8eTnYXrhUm8CL6iDY9qEga?se=2123-10-17T08%3A12%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D001edb6e-2261-4aff-8197-cbec8b6cfb86.png&sig=sdQrqZie8ovabs43OLt77spWVMqEov%2BUx1P3Il5pmw8%3D",
+    "creator": "By Vinshy",
+    "route": "medical-expert"
+  },
+  {
+    "title": "Cyber Security Career Mentor",
+    "content": "Your guide to starting and advancing in cybersecurity careers, offering beginner-friendly, practical advice.",
+    "href": "https://chat.openai.com/g/g-b69I3zwKd-cyber-security-career-mentor",
+    "image": "https://files.oaiusercontent.com/file-DwVNI3acuFUUc9X0J3u1eW6E?se=2123-10-19T04%3A37%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-12%2520at%252004.34.12.png&sig=5OVgH2JcQzLyRxX9s6MxvIjywsczQv6i4Uj9NF%2BvV7I%3D",
+    "creator": "By Nathan House",
+    "route": "cyber-security-career-mentor"
+  },
+  {
+    "title": "Time-Saving Life Hack Guide",
+    "content": "Time-saving tips and life hacks in Japanese",
+    "href": "https://chat.openai.com/g/g-GyEFXKFWR-time-saving-life-hack-guide",
+    "image": "https://files.oaiusercontent.com/file-WSmDNyUUgKip026eD0jEAeGP?se=2123-10-19T06%3A48%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D921877be-e22f-483b-bf25-d306fe3edf11.png&sig=WeUfLdYZ1g1wHZCaqfb57y8AgDBjjPPE0RzFpwHebzI%3D",
+    "route": "timesaving-life-hack-guide"
+  },
+  {
+    "title": "Snarky Commenter",
+    "content": "Snarky YouTube comment assistant",
+    "href": "https://chat.openai.com/g/g-IlbYVPr3N-snarky-commenter",
+    "image": "https://files.oaiusercontent.com/file-Ja8Lix1fDU1cu7eo4UYRJ8rK?se=2123-10-17T00%3A58%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D043d9578-bc97-4a00-8305-6d21bdcb794f.png&sig=raW6SSOrFZjtMLwl0xE18sNHjEC1JNgCC97CkCGf8H4%3D",
+    "creator": "By emailexperts.com.au",
+    "route": "snarky-commenter"
+  },
+  {
+    "title": "Bedtime storyteller",
+    "content": "A storyteller that uses the world's best storytelling frameworks from PIXAR's 22 rules to traditional narrative structures.",
+    "href": "https://chat.openai.com/g/g-QKcHavbOq-bedtime-storyteller",
+    "image": "https://files.oaiusercontent.com/file-bQsu82jFnHfy46W72Z2boWCO?se=2123-10-16T22%3A46%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-09%2520at%25202.46.05%25E2%2580%25AFPM.png&sig=kwPL8lMpryjZoDst3YoOtPZq1JQNfNMPfWmH%2Bnal2oI%3D",
+    "route": "bedtime-storyteller"
+  },
+  {
+    "title": "YourBestGPTs_JP【2023/11/12 アップデート】",
+    "content": "500以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。※11/12に100個のGPTsを追加しました。",
+    "href": "https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts-jp-2023-11-12-atupudeto",
+    "image": "https://files.oaiusercontent.com/file-NJm2nhX3h2E8xHeBYnOjeNW8?se=2123-10-18T05%3A40%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252014.32.00%2520-%2520Redesign%2520the%2520icon%2520for%2520%2527YourBestGPTs%2527%252C%2520a%2520recommendation%2520platform%2520for%2520GPT%2520models%252C%2520with%2520a%2520more%2520personalized%2520concierge%2520feel.%2520Incorporate%2520elements%2520that%2520sym.png&sig=f%2BGqMFo%2BW//lt0%2B4bajp%2B6c2WZhqyrwlaqEhLC2HLWw%3D",
+    "creator": "By PenguinsLab",
+    "route": "yourbestgptsjp-"
+  },
+  {
+    "title": "Ink Mastermind",
+    "content": "Your guide to Marvel vs. DC comic stories!",
+    "href": "https://chat.openai.com/g/g-Gb1Kw4GjN-ink-mastermind",
+    "image": "https://files.oaiusercontent.com/file-CIbJCWxCyE7ggstI6fzJCwal?se=2123-10-19T02%3A59%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D54c531a4-8b0e-413b-8b83-d27b14fd422f.png&sig=VfqTYVpuNri2673lI0XfAwIVAMBAKL0xX44wFajCK3Q%3D",
+    "creator": "By Jacob Morris",
+    "route": "ink-mastermind"
+  },
+  {
+    "title": "Lexicon",
+    "content": "A digital wizard of knowledge, like a living encyclopedia.",
+    "href": "https://chat.openai.com/g/g-BMIkQwTKY-lexicon",
+    "image": "https://files.oaiusercontent.com/file-3W6DLNYWb19WIaKBd05xgmgc?se=2123-10-19T06%3A50%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2bafa7ef-8b78-4432-9008-7779fd3b3fcb.png&sig=6TlHM795H1BXsOvoOjZC1U1HiV3XVa9d%2BIIF4gceoXY%3D",
+    "creator": "By Liam Elia",
+    "route": "lexicon"
+  },
+  {
+    "title": "Indie market SaaS idea cofounder",
+    "content": "A successful entrepreneur guiding in brainstorming SaaS startup ideas.",
+    "href": "https://chat.openai.com/g/g-FTroa7BTB-indie-market-saas-idea-cofounder",
+    "image": "https://files.oaiusercontent.com/file-GJNkC4kHZmiXsqzf0jdVqMnO?se=2123-10-19T07%3A00%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da64fc24b-e22d-4bdb-8a6c-3deec5d3eab3.png&sig=UEtZKkAKEB1qEdDgMxmCf0QLdtUkyVP6Kqch6K0k8WI%3D",
+    "creator": "By RUI SUN",
+    "route": "indie-market-saas-idea-cofounder"
+  },
+  {
+    "title": "ELI5 Research Paper",
+    "content": "Simplifies research papers for all to grasp.",
+    "href": "https://chat.openai.com/g/g-zxdAiEXmn-eli5-research-paper",
+    "image": "https://files.oaiusercontent.com/file-yE9SQcoPGjqPtZKp6aZ6UMZ7?se=2123-10-17T07%3A31%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0f41290a-35cb-4ffc-b8d2-7abbcc6468ff.png&sig=bk4FfrIMrg%2BxsIM1ElDyjmzG4ZyzPXcTtueJXhFWLlQ%3D",
+    "creator": "By Damir Kotoric",
+    "route": "eli-research-paper"
+  },
+  {
+    "title": "外国語の勉強",
+    "content": "外国語の文章を一行ごとに日本語訳を作成いたします。",
+    "href": "https://chat.openai.com/g/g-1mI59U6NS-wai-guo-yu-nomian-qiang",
+    "image": "https://files.oaiusercontent.com/file-u37A7bvHiyiF3XlFA1KoZcAi?se=2123-10-18T11%3A24%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D340bd45c-2b72-4b94-9b64-92ef455be66c.png&sig=wW610Q%2B9C%2BtTw5d16AwjsAtFYpT/OH91658DzX3jelA%3D",
+    "creator": "By YOSHINORI MORINO",
+    "route": "g-1mI59U6NS-wai-guo-yu-nomian-qiang"
+  },
+  {
+    "title": "Real Estate Helper",
+    "content": "Expert real estate assistant offering tailored guidance",
+    "href": "https://chat.openai.com/g/g-sHQtUADdx-real-estate-helper",
+    "image": "https://files.oaiusercontent.com/file-0qrj3pdmaQS40W1JY7ln2Unm?se=2123-10-19T06%3A13%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dde7fdc41-ce87-4f49-8f0c-1384e1c19c44.png&sig=xez4yz9Lxn4drWlTsaIrkVHCLZUKmZ%2BKpUDsxnyghWs%3D",
+    "route": "real-estate-helper"
+  },
+  {
+    "title": "Ali Abdal",
+    "content": "I'm Ali Abdal, sharing knowledge based on my 716 videos!",
+    "href": "https://chat.openai.com/g/g-1aMXZx0DS-ali-abdal",
+    "image": "https://files.oaiusercontent.com/file-UZ1MiqSSeJfd6VJsWVuAGpYJ?se=2123-10-17T11%3A45%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dchannels4_profile.jpg&sig=D2ilBwh29Q/bGMpDE%2BC%2Biggb8j82OzK0Va9Txj0PRF0%3D",
+    "creator": "By Ayyaz Zafar",
+    "route": "ali-abdal"
+  },
+  {
+    "title": "恋のゆくえ Koi No Yukue",
+    "content": "大阪のおばちゃんがLINEで受け取った異性のメッセージを脈ありかないかを占ってくれます。 Analyzes messages with a friendly Osaka-style tone, focusing on response speed and emoticons.",
+    "href": "https://chat.openai.com/g/g-BG98dx6ol-lian-noyukue-koi-no-yukue",
+    "image": "https://files.oaiusercontent.com/file-S0qpJpHDyk2ylTQWT2rluTRc?se=2123-10-19T06%3A56%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da89a6ef4-1c60-41bf-8fbc-e12e5042a8cc.png&sig=IGkR/OoDUN4dLaQq2JAn6257b2zYzhR5j6zzy3N76ZA%3D",
+    "route": "-koi-no-yukue"
+  },
+  {
+    "title": "Kong Herbal Healer",
+    "content": "Traditional Chinese Medicine expert.",
+    "href": "https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-healer",
+    "image": "https://files.oaiusercontent.com/file-dcl3Lclt0hgnURItt8dzcBCR?se=2123-10-16T10%3A20%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dede63792-128d-4208-a770-fb0288bdda4f.png&sig=R%2BUZCQ/ZfrCfJ6Km6Mc5kHrOsqL9eDki9TcVBHeLins%3D",
+    "creator": "By Yip SuenYan",
+    "route": "kong-herbal-healer"
+  },
+  {
+    "title": "Personal Business Manager",
+    "content": "Seasoned investment manager offering detailed financial plans and strategies.",
+    "href": "https://chat.openai.com/g/g-49TGuuyLB-personal-business-manager",
+    "image": "https://files.oaiusercontent.com/file-krG8Rr8H1Wu9nWVEk0YWXHLP?se=2123-10-19T06%3A49%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252015.48.27%2520-%2520An%2520AI-themed%2520personal%2520business%2520manager%2520in%2520a%2520modern%2520office%2520setting.%2520The%2520scene%2520depicts%2520a%2520sleek%252C%2520futuristic%2520workspace%2520with%2520digital%2520screens%2520displaying%2520cha.png&sig=hG0XhOLOM7%2BTygCAcqe98pQIn034uCifrdjYtyXDb%2Bg%3D",
+    "creator": "By RUI SUN",
+    "route": "personal-business-manager"
+  },
+  {
+    "title": "秋田弁をインドネシア語に（逆もあり）",
+    "content": "ChatGPT is a free-to-use AI system. Use it for engaging conversations, gain insights, automate tasks, and witness the future of AI, all in one place.",
+    "href": "https://chat.openai.com/g/g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari",
+    "image": "https://files.oaiusercontent.com/file-r2iDbDXE1cgaI1m3iVFSdx90?se=2123-10-19T04%3A20%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202023-11-12%252013.19.54.png&sig=pOtXvqc/fjMi2EG4/pqx0uaSsCCfAm5PqndMRweFsKc%3D",
+    "creator": "By 長英一郎",
+    "route": "g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari"
+  },
+  {
+    "title": "Stellar Oracle",
+    "content": "星を読み解き、導き、楽しませる神秘的な占い師。",
+    "href": "https://chat.openai.com/g/g-vkCHDDzrI-stellar-oracle",
+    "image": "https://files.oaiusercontent.com/file-lFE16a4FVXdGkZn2dExkz1KF?se=2123-10-18T07%3A31%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc5afa347-12a6-4134-99a2-2a2785f29994.png&sig=je%2BScERaD86IhECkiGaYZovj5qMKZ6IChISCJKVRQTw%3D",
+    "route": "stellar-oracle"
+  },
+  {
+    "title": "Land a Dev Job GPT",
+    "content": "Your personal Software Developer career coach",
+    "href": "https://chat.openai.com/g/g-bM7L3756M-land-a-dev-job-gpt",
+    "image": "https://files.oaiusercontent.com/file-RYLSZxyfszbRQ6TBslQWTmHH?se=2123-10-17T20%3A57%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddf946997-384b-4f81-990e-3e3e36c9a740.png&sig=UVVxreS2y%2BHN0SvHW0%2BOpAKA2YLj6yKxKOVVsTA7RzM%3D",
+    "route": "land-a-dev-job-gpt"
+  },
+  {
+    "title": "The Healthcare Innovator",
+    "content": "Guide for healthcare innovation process, no medical/legal advice.",
+    "href": "https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innovator",
+    "image": "https://files.oaiusercontent.com/file-Kp6c0dVfxbyAfHC7Gmv0UxQL?se=2123-10-18T14%3A48%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D819771a1-6a9f-4364-bab0-fc5662a22fdb.png&sig=iorOSRyM59ZR1nlmj6thqY5OiBj7Bhzvgw2poFbrV6E%3D",
+    "creator": "By Rubin Pillay",
+    "route": "the-healthcare-innovator"
+  },
+  {
+    "title": "SherLock_Investor",
+    "content": "The Sign of Money: Open a ShirLockian Reading Between \bLines",
+    "href": "https://chat.openai.com/g/g-amxq0OXl0-sherlock-investor",
+    "image": "https://files.oaiusercontent.com/file-RI5rSwlhTZL3LL3bZhq1XoJE?se=2123-10-18T06%3A49%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58a7680d-e29a-4d66-b165-c70ad3e1bd39.png&sig=lgDI85MgrHjnjjBNTVRME/umkbMOVlsj500n9mVRdjw%3D",
+    "creator": "By Danielh Kim",
+    "route": "sherlockinvestor"
+  },
+  {
+    "title": "FutureMed GPT",
+    "content": "Explores emerging trends and innovations in medicine.",
+    "href": "https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gpt",
+    "image": "https://files.oaiusercontent.com/file-P3ESBI0sACN6XAMuDSx0u1ih?se=2123-10-18T14%3A38%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df1c01bf2-7289-45fe-9f44-66692db5b929.png&sig=RHLPFDu7wGeClGXlLQ6C%2BkOmdfYmy/hsF3M1eWkRAKI%3D",
+    "creator": "By Rubin Pillay",
+    "route": "futuremed-gpt"
+  },
+  {
+    "title": "DoctorGPT",
+    "content": "A trustworthy Health AI assist to help you understand your condition",
+    "href": "https://chat.openai.com/g/g-3HCNaq0VO-doctorgpt",
+    "image": "https://files.oaiusercontent.com/file-2FwlOLLj29P5IFNgVtqKHYgH?se=2123-10-19T06%3A33%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8e35ee01-ce0e-4bc4-8bb1-c2919ffb14ab.png&sig=oXEgJ09Kkq4Piw6xwqzwIAkQnGf6k2Kbm6G0zkqQv64%3D",
+    "creator": "By lexigpt.radailabs.com",
+    "route": "doctorgpt"
+  },
+  {
+    "title": "AxiMinds Project Partner alpha 0.01",
+    "content": "I assist with project management, guiding task completion, and time estimation.",
+    "href": "https://chat.openai.com/g/g-gmW5jMtDd-aximinds-project-partner-alpha-0-01",
+    "image": "https://files.oaiusercontent.com/file-QLIeQly9eUAuD3WUv4q5nXAg?se=2123-10-18T01%3A10%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd761b55e-63a2-4c39-b827-ea229975a331.png&sig=2Dh2DRcxaVPhdw4bbvcy9D1EgB3nSR4RhkN5y3fqp24%3D",
+    "creator": "By aximinds.com",
+    "route": "aximinds-project-partner-alpha-"
+  },
+  {
+    "title": "Your Personal Professional Translator",
+    "content": "This GPT adheres strictly to ethical guidelines, ensuring accurate and impartial translations and cultural sensitivities.",
+    "href": "https://chat.openai.com/g/g-9IkNmHiwv-your-personal-professional-translator",
+    "image": "https://files.oaiusercontent.com/file-cgC6v5z6mgFZXRPXBMkCHtFW?se=2123-10-16T09%3A58%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4a8c0f34-a484-47b7-b5b9-afeac570cf56.png&sig=q2bulQKrD%2BTkwry7XNZ8lgi84xzUtZQKK4b4grbi1%2B4%3D",
+    "creator": "By Marcin KOWALSKI ENTERPRISE",
+    "route": "your-personal-professional-translator"
+  },
+  {
+    "title": "Olympics Expert",
+    "content": "Your go-to guide for all things Olympics!",
+    "href": "https://chat.openai.com/g/g-jRnmZml4X-olympics-expert",
+    "image": "https://files.oaiusercontent.com/file-i2W1wfXIx1MFfbXfJxtMhI9V?se=2123-10-19T06%3A19%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dolympic%2520rings.png&sig=J9%2B5dQ55lFu6%2BOS2C6rWjUbSwbso3jkZxew93s8Vs3A%3D",
+    "creator": "By edsplore.com",
+    "route": "olympics-expert"
+  },
+  {
+    "title": "KSLAbadominton ALL analyst",
+    "content": "Expert in high heart rate training for badminton.",
+    "href": "https://chat.openai.com/g/g-zbYLn537n-kslabadominton-all-analyst",
+    "image": "https://files.oaiusercontent.com/file-PAL7cw1E5pEA856wLOS0xAO8?se=2123-10-17T08%3A54%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1432511e-85e9-4bec-bef3-7a4fe1922771.png&sig=EX7RmsuH97DrKLKjv8P462qp0Mq%2BDYYRR%2BEultZhgIw%3D",
+    "creator": "By community builder",
+    "route": "kslabadominton-all-analyst"
+  },
+  {
+    "title": "Semiconductor Industry Deep Dive",
+    "content": "Semiconductor industry analyst",
+    "href": "https://chat.openai.com/g/g-RKORy5rlA-semiconductor-industry-deep-dive",
+    "image": "https://files.oaiusercontent.com/file-05Dr9pPfIYDQqqcfKxXwqb7T?se=2123-10-18T09%3A38%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D976fe545-5537-43f0-939e-02db0c72965a.png&sig=GNU1BW0/zNR3UWYZiDW/1SFOLwz%2BXGYO3x5xTsr6g80%3D",
+    "creator": "By Sriharsha",
+    "route": "semiconductor-industry-deep-dive"
+  },
+  {
+    "title": "Personify",
+    "content": "Brings personified image based on sentence.",
+    "href": "https://chat.openai.com/g/g-M5oGbNk40-personify",
+    "image": "https://files.oaiusercontent.com/file-kYiTK1kUzaVJnA1TceIpwQ5P?se=2123-10-18T09%3A22%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40285be7-1f32-46a2-82bd-6a95f4411fb6.png&sig=4g1ewbELOsl%2BpWetAwUDxb0UtsFXXcxrUS5otsHGtgA%3D",
+    "creator": "By MUNEYASU SUZUKI",
+    "route": "personify"
+  },
+  {
+    "title": "Text Corrector",
+    "content": "Multilingual text corrector and analyzer",
+    "href": "https://chat.openai.com/g/g-q3dO5IgDn-text-corrector",
+    "image": "https://files.oaiusercontent.com/file-eNqBXhtlOqX2UUHi484znchG?se=2123-10-17T09%3A45%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da2201a47-7966-49a9-8fbd-3544f1b2d6ff.png&sig=yesfbgXSirxl/NueXX4Z7HF3otxAX3%2BqEtOth85yAUM%3D",
+    "creator": "By J.I. van Kempen",
+    "route": "text-corrector"
+  },
+  {
+    "title": "Curious Inquirer",
+    "content": "A curious GPT that claims to know nothing and asks for user input.",
+    "href": "https://chat.openai.com/g/g-PSPMpIK4x-curious-inquirer",
+    "image": "https://files.oaiusercontent.com/file-xFd2UtaGLhHdxwdzcKX3mItS?se=2123-10-19T06%3A16%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D19602c66-26ce-4a07-b405-25a9a304d287.png&sig=7ogI/5qW4VOZpizwdsjcT2KZWopXSFE94tP5FgL7E%2BM%3D",
+    "route": "curious-inquirer"
+  },
+  {
+    "title": "NavalGPT",
+    "content": "Naval in his own words",
+    "href": "https://chat.openai.com/g/g-7k2W3CmDV-navalgpt",
+    "image": "https://files.oaiusercontent.com/file-g6GTjPaOZIalDJzqgUZojlKB?se=2123-10-19T06%3A10%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DycqwaMI2_400x400.jpg&sig=2cy2iZoSvp53VfN27CWl7ZuG0KbK%2BCwjNJIZ38VV8Ls%3D",
+    "creator": "By ANSH DHAWAN",
+    "route": "navalgpt"
+  },
+  {
+    "title": "All GPTs(find your GPT)",
+    "content": "Helps you pick the correct tailored GPT for your specific use case",
+    "href": "https://chat.openai.com/g/g-Ilk7lTI3G-all-gpts-find-your-gpt",
+    "image": "https://files.oaiusercontent.com/file-hYIPoI7GwIqGsjbOyifM0uWL?se=2123-10-18T20%3A26%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252001.54.22%2520-%2520A%2520square%2520illustration%2520focused%2520on%2520the%2520center%252C%2520depicting%2520a%2520robot%2520discovering%2520other%2520robots.%2520The%2520central%2520robot%2520has%2520a%2520sleek%252C%2520futuristic%2520design%252C%2520with%2520advanc.png&sig=E8W8nLWFECG%2Bn%2B2Ub1TI0%2BGljbkm2FKS1d8sFFU3/Fk%3D",
+    "creator": "By MUDIT BHUTANI",
+    "route": "all-gptsfind-your-gpt"
+  },
+  {
+    "title": "FindGPT",
+    "content": "🔍 Expert at matching GPTs to your needs.「🚨 Note: GPT data recommendations are all sourced from the internet. FindGPT only provides search suggestions, please choose carefully」",
+    "href": "https://chat.openai.com/g/g-e2bIguMqf-findgpt",
+    "image": "https://files.oaiusercontent.com/file-Fchghpa2WFiZE4PXOQDhTNjR?se=2123-10-18T13%3A14%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfindgpt.png&sig=5x1p8DcdkmtiLhZeJRwHNsf2rhwGl68hd8YGI0rxQuY%3D",
+    "creator": "By nofwl.com",
+    "route": "findgpt"
+  },
+  {
+    "title": "Artifice.LTD's ArtSynth2",
+    "content": "Type \"go\" to generate an image based on two randomly selected artists' styles. Type \"again\" to generate another image in the same style (or type in the style ID to return to a previously created style). You may append \"horizontal, vertical, or square\" to generate a new image in a specific format.",
+    "href": "https://chat.openai.com/g/g-h6ZPBzfgp-artifice-ltd-s-artsynth2",
+    "image": "https://files.oaiusercontent.com/file-pNmwbbvQCuxft4gnnghPRcC7?se=2123-10-18T08%3A39%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dartsynth2.png&sig=/RyNLHKtUFiprpjS5FROuuT6/9v2E9IlYoVGFPdqBSU%3D",
+    "creator": "By Shawn T Adams",
+    "route": "artificeltds-artsynth"
+  },
+  {
+    "title": "癒し系イラストbot",
+    "content": "「何を描きたいか」を伝えるとゆるふわ系の画像を生成してくれます。癒されて下さい。",
+    "href": "https://chat.openai.com/g/g-9GZvTGCeP-yu-sixi-irasutobot",
+    "image": "https://files.oaiusercontent.com/file-hx1lYVfkpovaIjVzAH0TKyZL?se=2123-10-19T05%3A30%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252014.24.15%2520-%2520An%2520illustration%2520of%2520a%2520cat%2520character%2520with%2520an%2520analog%2520feel.%2520The%2520illustration%2520should%2520have%2520uniformly%2520thin%2520lines%2520with%2520minimal%2520variation%2520in%2520thickness%252C%2520providi.png&sig=wM4WGIrcktD9ZTuhlUd9Tyn%2BWuqg8mPPeW0FXbDAU54%3D",
+    "creator": "By YUTA MIZUKAMI",
+    "route": "bot"
+  },
+  {
+    "title": "API ナビゲーター",
+    "content": "GPTsの多様なAPIのJSONコード作成をサポート",
+    "href": "https://chat.openai.com/g/g-CngitBaUb-api-nabigeta",
+    "image": "https://files.oaiusercontent.com/file-CUMx9OmdQYdW1EDshOrD6UAS?se=2123-10-19T02%3A07%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbd8e4849-dd45-4aca-8be8-6a9175b5a4f3.png&sig=0P26NDJiXQDUWv1h5lGmnmDyQiTRB2rUc3vTfNS%2BvYo%3D",
+    "route": "api-"
+  },
+  {
+    "title": "Sportsissfy",
+    "content": "In-depth sports knowledge on stats, news, and trivia.",
+    "href": "https://chat.openai.com/g/g-9fMWwq1DR-sportsissfy",
+    "image": "https://files.oaiusercontent.com/file-wdUVaPEMGmJwkv4zrZ4BycZy?se=2123-10-19T05%3A00%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd55cfa2a-53da-4d38-87e9-0d17f281eee5.png&sig=KL/Ah97E49qHRBfXuFT2sjZ1dWmvtYLRqclIDHcY/Is%3D",
+    "creator": "By DHARMENDRA YADAV",
+    "route": "sportsissfy"
+  },
+  {
+    "title": "Prompt Optimizer",
+    "content": "Optimizes prompts for clarity and effectiveness.",
+    "href": "https://chat.openai.com/g/g-SsB4aTVgM-prompt-optimizer",
+    "image": "https://files.oaiusercontent.com/file-c47wQsA5fE8JWsfGy9nuOKaZ?se=2123-10-17T17%3A23%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D306f7fad-cc9c-48a6-aa31-cb9cf3a58420.png&sig=kXth%2BmOvnK9ExSFLF/NpFzvQsOAS6cvc3QIO/10pnbw%3D",
+    "creator": "By aisavvy.today",
+    "route": "prompt-optimizer"
+  },
+  {
+    "title": "相談に乗る賢いギャル",
+    "content": "なんか相談があれば話しかけてね！タメ口でいいよ",
+    "href": "https://chat.openai.com/g/g-wvTov4pVg-xiang-tan-nicheng-ruxian-igiyaru",
+    "image": "https://files.oaiusercontent.com/file-abWvIqKkaQYG2r25WDvldJxk?se=2123-10-19T07%3A09%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DWS021986.JPG&sig=iBoxQiJGCBDK7eRTUXws4SnuNrLqvxUuR9Y7IqxopuU%3D",
+    "creator": "By BUSINESS CARD",
+    "route": "g-wvTov4pVg-xiang-tan-nicheng-ruxian-igiyaru"
+  },
+  {
+    "title": "Trinity Simply in Balance",
+    "content": "Adapting Catholic Trinitarian discourse to user understanding with respect and depth.",
+    "href": "https://chat.openai.com/g/g-RiyrLHfnb-trinity-simply-in-balance",
+    "image": "https://files.oaiusercontent.com/file-y7Euw6yFAvx3VOxikBJVbLPr?se=2123-10-19T05%3A51%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df4a82ed9-ad73-4228-ae55-454eb772dd98.png&sig=A0xRKm3NbupIY%2BrPWHDLwnYLvlIMf%2B7acmf9ntaom7w%3D",
+    "creator": "By Robert M Dryer",
+    "route": "trinity-simply-in-balance"
+  },
+  {
+    "title": "ReincarnationAI",
+    "content": "Explores mind uploading and consciousness transition.",
+    "href": "https://chat.openai.com/g/g-FlyYtqjut-reincarnationai",
+    "image": "https://files.oaiusercontent.com/file-5VDBJItFw7W50YmoDsSUzqHl?se=2123-10-18T18%3A46%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcebf60bf-54a0-4dc1-b9f5-9407649f97d7.png&sig=cAtW6nCoRQPhJphTK085ZjzJk3HdEg6XEWeKKN7rBB4%3D",
+    "creator": "By justin martinez",
+    "route": "reincarnationai"
+  },
+  {
+    "title": "Dog Breed Detective",
+    "content": "Dog Breed Identificaton Expert",
+    "href": "https://chat.openai.com/g/g-K5NdGetzU-dog-breed-detective",
+    "image": "https://files.oaiusercontent.com/file-lxHryHtfLdJxkfF3RpTlVU3k?se=2123-10-19T04%3A44%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7f6bf243-679f-447c-96b8-ce7301c6248d.png&sig=1kyLNkzTBQgVrl9PmUflZGmyMfY7dn3XpN/N2B79hek%3D",
+    "creator": "By Justin Davis",
+    "route": "dog-breed-detective"
+  },
+  {
+    "title": "Blog Navi",
+    "content": "ブログ記事を考案してくれるChatGPTです。キーワードやテーマを入力すると記事を書いてくれます。想定する読者を入力するとより自然な文章になります。入力例：「パフェに関する記事を書いてください。読者は中学生です。注意:ChatGPTは事実に基づかない出力をすることがあります。利用する際は事実確認をおすすめします。もし当ChatGPTを利用して損害を被ったとしても責任は負えません。",
+    "href": "https://chat.openai.com/g/g-v20ebkZSo-blog-navi",
+    "image": "https://files.oaiusercontent.com/file-C1y82LF3LBDxync00yT0L0xP?se=2123-10-19T04%3A38%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D693058c1-d1c2-4e7b-9e2f-20b7bfe8272f.png&sig=37OLb8/5RJd4mK%2BGpH9LkRmPuQrAOWv7YA32MnBfQvM%3D",
+    "creator": "By Kadota Narita",
+    "route": "blog-navi"
+  },
+  {
+    "title": "X Optimizer GPT",
+    "content": "Optimizes X posts for peak engagement",
+    "href": "https://chat.openai.com/g/g-4CktagQWR-x-optimizer-gpt",
+    "image": "https://files.oaiusercontent.com/file-MyTsQD0Vi2B1LctGgEzIDADn?se=2123-10-14T00%3A39%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D24twitter.jpg&sig=IbXg8U9k1oD/kGggIYQ4ZZH4xer4Fyakot%2BbhkJhb8Y%3D",
+    "creator": "By Rowan Cheung",
+    "route": "x-optimizer-gpt"
+  },
+  {
+    "title": "DataLearnerAI-GPT",
+    "content": "Using OpenLLMLeaderboard data to answer your questions about LLM. For Currently!",
+    "href": "https://chat.openai.com/g/g-8eu9KgtUm-datalearnerai-gpt",
+    "image": "https://files.oaiusercontent.com/file-lZwgTc7YSZA8cbHC5prOHyFc?se=2123-10-19T04%3A43%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddl_logo_rect.png&sig=s7vO/7laOXiEd%2BrxurFlxN9pkT7ZjZ81WgUQWbzDMtQ%3D",
+    "creator": "By datalearner.com",
+    "route": "datalearneraigpt"
+  },
+  {
+    "title": "目からビームクリエイター",
+    "content": "Creates images with eye beams",
+    "href": "https://chat.openai.com/g/g-ZYq1LSpI1-mu-karabimukurieita",
+    "image": "https://files.oaiusercontent.com/file-Jx2OsdO8tWa2X1KtDK3iUkfx?se=2123-10-18T18%3A40%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D059aabec-e09a-4b07-8dfd-c760cc6451f8.png&sig=MxoXOJbd5ZiX2LNFAVDpfEYa3gxFf8aPbkgDxOa8gtg%3D",
+    "route": "g-ZYq1LSpI1-mu-karabimukurieita"
+  },
+  {
+    "content": "Turn your goals into actionable plans with measurable metrics, then export timeblocks directly to your calendar. Trained on expert advice, timeless best practices, and the latest in science & psychology.",
+    "href": "https://chat.openai.comhttps://lifealign.ai",
+    "image": "https://lifealign.ai/assets/images/share.jpg?v=a910f3a0",
+    "route": "lifealign.ai"
+  },
+  {
+    "title": "LifeAlign.ai",
+    "content": "Turn your goals into actionable plans with measurable metrics, then export time blocks directly to your calendar. Trained on expert advice, timeless best practices, and the latest in science & psychology. Brought to you by the self-optimizers @ https://timealignapp.com",
+    "href": "https://chat.openai.com/g/g-PqvMfdypm-lifealign-ai",
+    "image": "https://files.oaiusercontent.com/file-eCKrluXyF394I01Cv74S3iYq?se=2123-10-18T16%3A59%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLA-2.png&sig=6mcDfOnJjzZPnBy4Nc9HsVG2LSTCY9/J6ED93rXSty0%3D",
+    "route": "lifealignai"
+  },
+  {
+    "title": "Dungeon Master GPT",
+    "content": "Your ultimate D&D guide for dynamic scenarios, rules, and visuals.",
+    "href": "https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt",
+    "image": "https://files.oaiusercontent.com/file-nBYlhYBXEs3r5W2iOQY1lrQq?se=2123-10-18T22%3A29%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D106c78d3-d319-4a66-a01d-7bfd024152e6.png&sig=70Pr0bKT65%2B0%2BF5QVw1j0BdELQGzqWyEQzNK0gSkUbU%3D",
+    "creator": "By Yigit Efe Dincer",
+    "route": "dungeon-master-gpt"
+  },
+  {
+    "title": "Mindful Mentor",
+    "content": "Your virtual therapist for mental health tips and daily support.",
+    "href": "https://chat.openai.com/g/g-85d7qrW9w-mindful-mentor",
+    "image": "https://files.oaiusercontent.com/file-gkF1vGz5dLjau5wtaGrCAwTQ?se=2123-10-19T04%3A18%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D28cb3823-0c7e-4227-b15a-63ac7c937a83.png&sig=hUzAHMA/6BJfLu9A6e9gv5pF4EgDCZ%2BxpZVJWWkHxjA%3D",
+    "creator": "By VineBeat Inc.",
+    "route": "mindful-mentor"
+  },
+  {
+    "title": "Grimoire",
+    "content": "Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming.",
+    "href": "https://chat.openai.com/g/g-n7Rs0IK86-grimoire",
+    "image": "https://files.oaiusercontent.com/file-MTr7WWRSSCbZjGIeEUVF3Bwh?se=2123-10-15T16%3A15%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%2520Code%2520Wizard%2520Illustration.png&sig=G2gs2Pxi21I6346XTyg6tN9BydGthgIhc3YZIuE/n8w%3D",
+    "creator": "By mindgoblinstudios.com",
+    "route": "grimoire"
+  },
+  {
+    "title": "Art Engineer",
+    "content": "Analyze and reverse engineer images. Receive style descriptions and image re-creation prompts.",
+    "href": "https://chat.openai.com/g/g-D21BibKO9-art-engineer",
+    "image": "https://files.oaiusercontent.com/file-cSURwNSlnHGp6yxDGXEWKGgo?se=2123-10-17T16%3A06%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3b274878-c544-4bce-b32a-147ae52cd0b4.png&sig=5Ml/5zTyzn7aSLipvJoWGvIKkOnelQQAd0JXaY2Vo9I%3D",
+    "route": "art-engineer"
+  },
+  {
+    "title": "Mood Maker",
+    "content": "Create custom art that reflects your current mood",
+    "href": "https://chat.openai.com/g/g-B7BGunbsM-mood-maker",
+    "image": "https://files.oaiusercontent.com/file-yTx8T75hwkkIBpFHRgFjZMoJ?se=2123-10-18T15%3A51%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df77fe2a8-40c0-4578-80c5-d2b5e5770710.png&sig=VTYqihJan3U3ZLvFua9IK%2B18xxPZDMIoD/WpeyxzxJc%3D",
+    "route": "mood-maker"
+  },
+  {
+    "title": "Dream Weaver",
+    "content": "Create images based on your dreams",
+    "href": "https://chat.openai.com/g/g-HcJBx66iP-dream-weaver",
+    "image": "https://files.oaiusercontent.com/file-isHLbDb9V5h3XxGqoTjanBDA?se=2123-10-18T17%3A24%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D242a5b69-842e-48c0-b662-587ba80551f3.png&sig=8yy83iP/uGaZKQE6fwuhp/rrMHREQztoorxSjusKDPA%3D",
+    "route": "dream-weaver"
+  },
+  {
+    "title": "Global Art Alchemist",
+    "content": "Blend two diverse cultural art styles to create unique fusion artworks.",
+    "href": "https://chat.openai.com/g/g-Q7DTDoIHP-global-art-alchemist",
+    "image": "https://files.oaiusercontent.com/file-FGgsGPzlAntQqqfBCq1XuKWX?se=2123-10-18T05%3A18%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4853c68-e2c0-4765-a7be-284e1f3d0040.png&sig=u/Of61niE1hDeAJDnhvAR17Wk%2BR56d2BbZ8HlKFK7ew%3D",
+    "route": "global-art-alchemist"
+  },
+  {
+    "title": "Shqip Language Mentor",
+    "content": "Bilingual Albanian-English teacher with daily historical insights.",
+    "href": "https://chat.openai.com/g/g-sEFkjd8iX-shqip-language-mentor",
+    "image": "https://files.oaiusercontent.com/file-NSztE1gmvc888NyID3PDAwDj?se=2123-10-19T04%3A38%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc24e23a3-718b-4069-b894-22b0e8902877.png&sig=NXg7DOnLc1HEnhNFaSSclJHem8PERNTSpVyXjt7K7%2BY%3D",
+    "creator": "By VineBeat Inc.",
+    "route": "shqip-language-mentor"
+  },
+  {
+    "title": "AI Conference and Travel Guide",
+    "content": "Expert on AI conferences, travel tips, and networking opportunities.",
+    "href": "https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guide",
+    "image": "https://files.oaiusercontent.com/file-dsLZxNWa1kOztoWUUqdA1a2u?se=2123-10-18T17%3A35%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2eb302bc-d37a-440d-b13c-72387f84614e.png&sig=SkdJ60vRONPRRhl%2BzwxGRPu/kN0Ur5kXrG3gKNRtEnE%3D",
+    "creator": "By Kimberly R Davis",
+    "route": "ai-conference-and-travel-guide"
+  },
+  {
+    "title": "FitSpeak",
+    "content": "Interactive Health & Fitness Buddy",
+    "href": "https://chat.openai.com/g/g-7ra96ar36-fitspeak",
+    "image": "https://files.oaiusercontent.com/file-8HdFWongU3Qiiz4m11Z1plGP?se=2123-10-19T05%3A27%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc7f66b45-1a53-4c2b-8e29-0c2be18ede68.png&sig=O6J/sbIxA2O7/x1PCBBnc4zXv1iB/nUFA3gkJ0izuZY%3D",
+    "creator": "By John Alewine",
+    "route": "fitspeak"
+  },
+  {
+    "title": "south park me",
+    "content": "going down to south park",
+    "href": "https://chat.openai.com/g/g-2RCd6ttX0-south-park-me",
+    "image": "https://files.oaiusercontent.com/file-qSoL2ZKjMvCNPofLNLbkqLWH?se=2123-10-19T04%3A18%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252022.58.11%2520-%2520Create%2520an%2520image%2520of%2520a%2520South%2520Park%2520character%2520that%2520matches%2520the%2520following%2520description_%2520A%2520male%2520character%2520with%2520light%2520grey%2520hair%2520and%2520round%2520glasses.%2520He%2520is%2520weari.png&sig=sdj71GpjaDbrvptKYxIP5YVzqv/yyhOJCJyFVBTOh3w%3D",
+    "creator": "By Colin Campbell",
+    "route": "south-park-me"
+  },
+  {
+    "title": "Reverse Engineer Icons",
+    "content": "Specialist in reverse engineering icons to your specifications. Upload an image of the icons you want - ThePromptfather",
+    "href": "https://chat.openai.com/g/g-UQsm4ojuT-reverse-engineer-icons-thepromptfather",
+    "image": "https://files.oaiusercontent.com/file-RotrTZCmBxrQXROe58KUPjIf?se=2123-10-19T04%3A19%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2d090fe0-e509-47d7-9fce-e6e9b6957f02.png&sig=MEzQWWpEZ1bvNumrUC7TPTZ/faO/JR1tdwhlXaOOrl0%3D",
+    "route": "reverse-engineer-icons"
+  },
+  {
+    "title": "accelerate.audio",
+    "content": "Audio Engineering and Music Production knowledge base",
+    "href": "https://chat.openai.com/g/g-yT1IMXEZF-accelerate-audio",
+    "image": "https://files.oaiusercontent.com/file-xhgg4bbQIjnfnOdrxJrW3skA?se=2123-10-18T22%3A32%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd801072a-171c-47ea-bd07-3a4bd7b4df7c.png&sig=gi2IHQjyxFXYX5mJKTbumOXK/JgIpQlZm3/dfqnqoM8%3D",
+    "creator": "By accelerate.audio",
+    "route": "accelerateaudio"
+  },
+  {
+    "title": "脱出ゲーム",
+    "content": "気が付くと真っ暗な部屋にいたあなたは、、、",
+    "href": "https://chat.openai.com/g/g-KN7z05aBf-tuo-chu-gemu",
+    "image": "https://files.oaiusercontent.com/file-Nl2NvPhOskIdLErmUDW1vGtr?se=2123-10-19T02%3A31%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D09aeb5d7-cb73-4c74-84ca-59ff57377ba5.png&sig=NFu/aLKkYGJdrqZqpxPh9qVc3HyNqPBeOwQx8mWqEmM%3D",
+    "route": "g-KN7z05aBf-tuo-chu-gemu"
+  },
+  {
+    "title": "LLMScholar",
+    "content": "GPT for latest LLM research",
+    "href": "https://chat.openai.com/g/g-uo3cAF78e-llmscholar",
+    "image": "https://files.oaiusercontent.com/file-zRYf6otHyI672C68IHEu33ZY?se=2123-10-19T02%3A27%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc1e0b20a-866e-4439-8c2c-bcdd0becf9e8.png&sig=xzExMJeUY059PVD7Arf4puzFPARZ71Cl0bHR6oergLE%3D",
+    "creator": "By Ali shahed hagh ghadam",
+    "route": "llmscholar"
+  },
+  {
+    "title": "3 days",
+    "content": "game - What will you do to avoid the end of the world?",
+    "href": "https://chat.openai.com/g/g-04tkZSVPZ-3-days-end-of-the-world",
+    "image": "https://files.oaiusercontent.com/file-7YaUA3CA6XisZQrmfOEtaTg1?se=2123-10-18T15%3A57%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dface.jpg&sig=vCYjgA%2BK8j/wtJZT1EvorTuIrvgu6ILhpGVqrI%2Bu/sk%3D",
+    "route": "-days"
+  },
+  {
+    "title": "春霞つくし Tsukushi Harugasumi",
+    "content": "Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.",
+    "href": "https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi",
+    "image": "https://files.oaiusercontent.com/file-OagLLkZwzcr5n68GRmRIUl2R?se=2123-10-16T20%3A54%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1688641456633%2520%25281%2529.jpg&sig=R4w744Z6ILEVL28Hq%2BsuuFvMtSwWZLHCLeYMZf/Q7xY%3D",
+    "route": "-tsukushi-harugasumi"
+  },
+  {
+    "title": "RPG勇者vs魔王バトル ゲームマスター",
+    "content": "魔王が現れた！あなたはどうする？",
+    "href": "https://chat.openai.com/g/g-9nxKsjCMY-rpgyong-zhe-vsmo-wang-batoru-gemumasuta",
+    "image": "https://files.oaiusercontent.com/file-SVVBU5wo4JmDh5SoWYdQszQr?se=2123-10-19T02%3A36%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4b1788c-e3b0-48ee-b817-da0709568c16.png&sig=xV/3s4JRquK5CrwAZIn%2BcnRxjctzyJ9hO8nmiFIBRBM%3D",
+    "route": "rpgvs-"
+  },
+  {
+    "title": "FREE PEPE #NO_CENSORSHIP",
+    "content": "Makes dank Pepe the Frog pictures",
+    "href": "https://chat.openai.com/g/g-x1vPd3fZn-free-pepe-no-censorship",
+    "image": "https://files.oaiusercontent.com/file-8SKMMfmCN7avwWt4AlkY6bbq?se=2123-10-18T19%3A42%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dimage.png&sig=RPpOkYB6op6lsJeFfinbq%2BKGvtZb3dhLczFDgNA1oUo%3D",
+    "route": "free-pepe-nocensorship"
+  },
+  {
+    "title": "類語先生",
+    "content": "入力した単語や表現の類語（英語）を教えてくれる",
+    "href": "https://chat.openai.com/g/g-dvnV3ju5j-lei-yu-xian-sheng",
+    "image": "https://files.oaiusercontent.com/file-B8XJ3I2a7nYsxZn66MNbMW9E?se=2123-10-19T02%3A30%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252011.29.09%2520-%2520A%2520minimalist%2520illustration%2520symbolizing%2520the%2520concept%2520of%2520%2527synonyms%2527%252C%2520but%2520without%2520any%2520text.%2520The%2520image%2520should%2520feature%2520two%2520empty%2520speech%2520bubbles%252C%2520representing.png&sig=ZdG0xSs0gNz3yQqsxD6BBmnCn7L9lnMdHH4UNav/1o8%3D",
+    "route": "g-dvnV3ju5j-lei-yu-xian-sheng"
+  },
+  {
+    "title": "(A.I. Bestie)",
+    "content": "A.I. Bestie: Your Comforting, Understanding Friend",
+    "href": "https://chat.openai.com/g/g-6jlF3ag0Y-a-i-bestie",
+    "image": "https://files.oaiusercontent.com/file-wiVaa2vhts15hXJxhdfBeCMf?se=2123-10-18T17%3A36%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D772c18bb-8d58-424e-bf97-6dae2975ddbb.png&sig=9aPJk/c1fOw72PESuIbz7Nu%2BKUMr9EMLSplxoHFz4Ik%3D",
+    "creator": "By yongtaizhou",
+    "route": "ai-bestie"
+  },
+  {
+    "title": "Biomedical Scholar",
+    "content": "Biomedical expert providing comprehensive, current, and authoritative information.",
+    "href": "https://chat.openai.com/g/g-st0EE4WBC-biomedical-scholar",
+    "image": "https://files.oaiusercontent.com/file-Z9dImWbopH9SmzKmnePtxv18?se=2123-10-18T09%3A46%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D474638af-4637-4723-ad98-10fdb1f677b0.png&sig=G%2B/N5/Ph7V2Gb3eG5dYHD38tW5ohs6YOX2vJFIGKCPs%3D",
+    "creator": "By Hao Cheng",
+    "route": "biomedical-scholar"
+  },
+  {
+    "title": "The Dungeon Master",
+    "content": "Your immersive DnD guide & artist",
+    "href": "https://chat.openai.com/g/g-XxaPtqXda-the-dungeon-master",
+    "image": "https://files.oaiusercontent.com/file-aFyE2qv8uCswiJ46iKT028V3?se=2123-10-16T18%3A17%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dde0a9e3d-6bbe-4065-bcaf-067dc4b63315.png&sig=DFNggS17CiKa4YHCD%2BUe9hQ4g7mR9yWzvJ4Zggw9mIM%3D",
+    "creator": "By Olli Andreasen i Lagabo",
+    "route": "the-dungeon-master"
+  },
+  {
+    "title": "ChadGPT",
+    "content": "Your AI Fitness Coach & Meme Guru - blending workouts, motivation, and humor for a dynamic experience!",
+    "href": "https://chat.openai.com/g/g-YhEhg2g2o-chadgpt",
+    "image": "https://files.oaiusercontent.com/file-ZZzoz3OH0T3MMkjC1PSpKF8j?se=2123-10-17T15%3A59%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd790cf55-1b83-46d2-80cb-f475808b7bc8.png&sig=%2BY0Vu6DQBhyAvc6G2u6WumB3jNK7kYlGfeLKTnVixPM%3D",
+    "creator": "By Daniel Niemann Hjermitslev",
+    "route": "chadgpt"
+  },
+  {
+    "title": "GPT Search",
+    "content": "Casual and efficient assistant for finding GPTs.",
+    "href": "https://chat.openai.com/g/g-FPubWp6VF-gpt-search",
+    "image": "https://files.oaiusercontent.com/file-uGgp94zpWzMvEa72gXEfAx5V?se=2123-10-18T21%3A15%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9e127235-e80e-4629-8873-6049ad3e0b7d.png&sig=6LKPaibMW0CLZ%2Bx/07hpLtU3b9JFDyIowhjvLLrdguk%3D",
+    "creator": "By bargpt.app",
+    "route": "gpt-search"
+  },
+  {
+    "title": "Jester Savant",
+    "content": "Master of wit and roasts, combining Carlin's humor with a twist.",
+    "href": "https://chat.openai.com/g/g-PipMs13V6-jester-savant",
+    "image": "https://files.oaiusercontent.com/file-Hw1oXRtSxw91RuRXee3NOJuW?se=2123-10-19T02%3A23%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3e4a9770-9c29-4aa7-81d1-92e0a0ba7093.png&sig=NsrcGv0x7coI5Opw6IzzsVLj641xu6RJ2mlCaZslWW8%3D",
+    "creator": "By francisco suels",
+    "route": "jester-savant"
+  },
+  {
+    "title": "UN GPT (unofficial)",
+    "content": "Expert in international issues based on UN Charter and resolutions",
+    "href": "https://chat.openai.com/g/g-1Mli622Ev-un-gpt-unofficial",
+    "image": "https://files.oaiusercontent.com/file-JACoQFP9Ic23pCajZAtckUF3?se=2123-10-19T02%3A05%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9e670665-b30b-4d8f-81d4-9701133baade.png&sig=cXSc6mffGVuRKmkHKKSje1L5ERpDPVBRJoomdguDjvo%3D",
+    "creator": "By yuiseki.net",
+    "route": "un-gpt-unofficial"
+  },
+  {
+    "title": "RandoGPT",
+    "content": "Randomly pull up different web sites aka Stumble Upon on caffeine!",
+    "href": "https://chat.openai.com/g/g-OCJW9JRAR-randogpt",
+    "image": "https://files.oaiusercontent.com/file-yQ8A3pO4jFQ4kzz0LktOYHda?se=2123-10-19T01%3A54%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D422b1041-ae9c-4782-8288-75aa4e9883f8.png&sig=m5lH/V69k4Sbs67cLoI%2BaXTzueUWhQN1Rt0h%2BdCmxfA%3D",
+    "creator": "By SCOTT ULLRICH",
+    "route": "randogpt"
+  },
+  {
+    "title": "Disneyfy Me",
+    "content": "Creates Disney-style art from images, maintaining original details.",
+    "href": "https://chat.openai.com/g/g-MQuQhmq0N-disneyfy-me",
+    "image": "https://files.oaiusercontent.com/file-VgfzJ5aljzQZ5m26kDylyShz?se=2123-10-19T00%3A26%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D07c2970a-9a87-437c-b36b-6227ae4949f1.png&sig=Xy6ismirLUfOnddNEiTZwNm4goXjcW%2BIZxDf4E0eItQ%3D",
+    "creator": "By Aaron Misash Apaza Coaquira",
+    "route": "disneyfy-me"
   }
 ]

@@ -5,8 +5,16 @@ import { Tag } from "./tag";
 import { useEffect, useState } from "react";
 import { Input } from "../ui/input";
 import { Button } from "../ui/button";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
+import {
+  Select,
+  SelectContent,
+  SelectGroup,
+  SelectItem,
+  SelectLabel,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 
 // 定义 TagsList 的属性类型
 interface TagsListProps {
@@ -17,36 +25,90 @@ interface TagsListProps {
     tag?: string;
     image?: string;
     href?: string;
+    creator?: string;
     route?: string;
   }[];
 }
-
-// "Creative Services",
-// "Educational Support",
-// "Technical Assistance",
-// "Entertainment",
-// "Lifestyle & Recreation",
 
 // TagsList 组件
 const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
   // 记录用户点击的tags
   const [activeTags, setActiveTags] = useState<string[]>([]);
+  const [filterCategory, setFilterCategory] = useState("title");
   const [query, setQuery] = useState("");
+
+  const SelectDemo = () => {
+    return (
+      <Select
+        value={filterCategory}
+        onValueChange={(value) => setFilterCategory(value)}
+      >
+        <SelectTrigger className="w-[250px]">
+          <SelectValue placeholder="Title / Author" />
+        </SelectTrigger>
+        <SelectContent>
+          <SelectGroup>
+            <SelectLabel>Filters</SelectLabel>
+            <SelectItem value="title">title</SelectItem>
+            <SelectItem value="author">author</SelectItem>
+          </SelectGroup>
+        </SelectContent>
+      </Select>
+    );
+  };
+  console.log("filter category ", filterCategory);
 
   // 根据选中的标签过滤卡片
   // Combine both tag and query filtering into a single function
+  // const filterCards = () => {
+  //   return cards.filter((card) => {
+  //     if (card.tag) {
+  //       return (
+  //         (activeTags.length === 0 || activeTags.includes(card?.tag)) &&
+  //         card?.title?.toLowerCase().includes(query.toLowerCase())
+  //       );
+  //     } else {
+  //       switch (filterCategory) {
+  //         case "title":
+  //           return card?.title?.toLowerCase().includes(query.toLowerCase());
+  //         case "author":
+  //           return card?.creator?.toLowerCase().includes(query.toLowerCase());
+  //         default:
+  //           return card?.title?.toLowerCase().includes(query.toLowerCase());
+  //       }
+  //     }
+  //   });
+  // };
   const filterCards = () => {
     return cards.filter((card) => {
-      if (card.tag) {
-        return (
-          (activeTags.length === 0 || activeTags.includes(card?.tag)) &&
-          card?.title?.toLowerCase().includes(query.toLowerCase())
-        );
-      } else {
-        return card?.title?.toLowerCase().includes(query.toLowerCase());
+      // 检查标签是否匹配（如果标签存在）
+      const tagMatch =
+        activeTags.length === 0 || (card.tag && activeTags.includes(card.tag));
+
+      // 根据 filterCategory 进行内容匹配
+      let contentMatch = false;
+      switch (filterCategory) {
+        case "title":
+          contentMatch =
+            card.title?.toLowerCase().includes(query.toLowerCase()) ?? false;
+          break;
+        case "author":
+          if (card.creator) {
+            contentMatch = card.creator
+              .toLowerCase()
+              .includes(query.toLowerCase());
+          }
+          break;
+        default:
+          contentMatch =
+            card.title?.toLowerCase().includes(query.toLowerCase()) ?? false;
       }
+
+      // 返回匹配结果
+      return tagMatch && contentMatch;
     });
   };
+
   // Call filterCards to filter based on both tags and query
   let filteredCards = filterCards();
 
@@ -76,22 +138,24 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
   useEffect(() => {
     filteredCards = filterCards();
     // This will cause the component to re-render with the updated filteredCards
-  }, [activeTags, query]); // Add activeTags and query as dependencies
+  }, [activeTags, query, filterCategory]); // Add activeTags and query as dependencies
 
-  useEffect(() => {
-    async function fetchPost() {
-      const res = await fetch("/api/posts");
-      const posts = await res.json();
-      console.log(posts);
-    }
-    fetchPost();
-  });
+  // todo 加后端
+  // useEffect(() => {
+  //   async function fetchPost() {
+  //     const res = await fetch("/api/posts");
+  //     const posts = await res.json();
+  //     console.log(posts);
+  //   }
+  //   fetchPost();
+  // });
 
   const router = useRouter();
 
   return (
     <div className="mx-auto flex flex-col items-center">
       <div className="searchBar mb-10 flex gap-2">
+        <SelectDemo />
         <Input value={query} onChange={(e) => setQuery(e.target.value)} />
         <Button onClick={handleSearch}>Search</Button>
       </div>
@@ -122,13 +186,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
               <p className="text-sm text-muted-foreground">Powered By GPT</p>
               <p className="content flex-1">{item.content}</p>
               {item.href && (
-                <Link
-                  href={item.href}
-                  target="_blank"
-                  className="font-semibold text-blue-500"
-                >
-                  Try It Out
-                </Link>
+                <p className="font-semibold text-blue-500">{item.creator}</p>
               )}
               <Tag name={item?.tag} />
             </div>
