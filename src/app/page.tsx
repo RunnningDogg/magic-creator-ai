@@ -69,6 +69,9 @@ export default function Home() {
 
         <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
           Find innovative GPTs and shared your GPTs with others 👍🏻
+          <span className="text-lg font-bold text-sky-500">
+            Total {cards.length} GPTs{" "}
+          </span>
         </p>
 
         {/* input area to search workflow */}

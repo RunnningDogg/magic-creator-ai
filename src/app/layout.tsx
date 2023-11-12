@@ -20,6 +20,8 @@ export const fontSans = FontSans({
 
 export const metadata: Metadata = {
   title: "GPT Store: find out the useful GPTs by OPENAI",
+  keywords:
+    "gpts store, gpts, gpts shop,ai chat,ai,chap gpt,chat gbt,chat gpt 3,chat gpt login,chat gpt website,chat gpt,chat gtp,chat openai,chat,chatai,chatbot gpt,chatg,chatgpt login,chatgpt,gpt chat,open ai,openai chat,openai chatgpt,openai",
   description:
     "Explore GPTs-Store.net for the latest in GPT advancements. Uncover unique insights and harness the power of GPTs in AI. Your gateway to the GPT universe!",
 };

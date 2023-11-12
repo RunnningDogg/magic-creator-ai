@@ -34,7 +34,7 @@ export default function sitemap() {
   const cardEntries = cards
     .filter((card) => typeof card.href === "string") // 只处理 href 为字符串的条目
     .map((card) => ({
-      url: card.href, // 现在 card.href 确定是字符串
+      url: `https://gpts-store.net/gpts/${card.route}`, // 现在 card.href 确定是字符串
       lastModified: new Date(),
       changeFrequency: "daily",
       priority: 0.5, // 根据需要调整优先级

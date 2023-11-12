@@ -1,6 +1,7 @@
 "use client";
 import GiscusApp from "@/components/ui-tony/giscus";
 import data from "../../data.json";
+import Link from "next/link";
 
 // 假设这是你data.json中的数据类型
 
@@ -54,6 +55,16 @@ export default function Page({ params }: { params: { title: string } }) {
       )}
 
       <h2 className="mb-3 text-xl font-bold">URL</h2>
+      {gptsData.href ? (
+        <Link
+          className=" mb-5 font-semibold text-teal-600 transition duration-150 hover:text-teal-700 hover:underline"
+          href={gptsData.href}
+        >
+          Give a Try
+        </Link>
+      ) : (
+        "-"
+      )}
       {gptsData.href && (
         <iframe
           className="mb-5 h-[50vh] w-full border-2 border-teal-500"
