@@ -15,7 +15,7 @@ import {
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 
 import cards from "../data.json";
-import Image from "next/image";
+
 import Link from "next/link";
 import { ArrowUp, Vote } from "lucide-react";
 
@@ -89,7 +89,14 @@ export default async function TrendingPage() {
         <TableBody>
           {matchedCards.map((item) => (
             <TableRow key={item?.title}>
-              <TableCell className="font-medium">{item.title}</TableCell>
+              <TableCell className="font-medium">
+                <Link
+                  className="  font-semibold text-blue-500 transition duration-150 hover:text-blue-600"
+                  href={`/gpts/${item.route}`}
+                >
+                  {item.title}
+                </Link>
+              </TableCell>
               <TableCell>{item.content}</TableCell>
               <TableCell>{item.creator}</TableCell>
               <TableCell>
