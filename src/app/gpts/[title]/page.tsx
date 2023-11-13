@@ -2,6 +2,11 @@
 import GiscusApp from "@/components/ui-tony/giscus";
 import data from "../../data.json";
 import Link from "next/link";
+import { ThumbsUp } from "lucide-react";
+import { useState } from "react";
+import toast from "react-hot-toast";
+import { useSession } from "next-auth/react";
+import { Button } from "@/components/ui/button";
 
 // 假设这是你data.json中的数据类型
 
@@ -28,13 +33,50 @@ function getPostData(title: string) {
 export default function Page({ params }: { params: { title: string } }) {
   // 使用 cardData 渲染页面
   const gptsData = getPostData(params.title);
-  console.log(gptsData);
+  // console.log(gptsData);
+
+  // 点赞的时候请求api
+  const { status } = useSession();
+  const handleThumsUp = async () => {
+    // 请求点赞api redis记录
+    if (status === "unauthenticated") {
+      toast.error("please login to upvote");
+      return;
+    }
+    try {
+      const response = await fetch("/api/posts/like", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          title: gptsData?.title,
+          // 在这里添加其他需要的字段
+        }),
+      });
+      const data = await response.json();
+      if (data["status"] === 0) {
+        toast.success(data["message"]);
+      } else {
+        toast.error(data["message"]);
+      }
+    } catch (error) {
+      console.error("Error:", error);
+    }
+  };
 
   return (
     <div className="mx-auto flex   max-w-4xl flex-1 flex-col rounded-lg bg-white p-6 shadow-lg">
       <h1 className="mb-4 text-center text-3xl font-semibold">
         {gptsData.title}
       </h1>
+
+      <div className="mx-auto">
+        <Button className="flex gap-2 font-semibold" onClick={handleThumsUp}>
+          <span>Upvote</span>
+          <span>🎉</span>
+        </Button>
+      </div>
 
       <h2 className="mb-3 text-xl font-semibold">Description</h2>
 
@@ -65,6 +107,7 @@ export default function Page({ params }: { params: { title: string } }) {
       ) : (
         "-"
       )}
+
       {gptsData.href && (
         <iframe
           className="mb-5 h-[50vh] w-full border-2 border-teal-500"

@@ -11,6 +11,7 @@ import { Toaster } from "react-hot-toast";
 import Script from "next/script";
 import Header from "@/components/ui-tony/general/header";
 import Footer from "@/components/ui-tony/footer";
+import AuthProvider from "@/components/ui-tony/general/AuthProvider";
 // import GoogleAnalytics from "./GoogleAnalytic";
 
 export const fontSans = FontSans({
@@ -40,13 +41,16 @@ export default function RootLayout({
           fontSans.variable,
         )}
       >
-        <Header />
-        {children}
-        <Footer />
+        <AuthProvider>
+          <Header />
+          {children}
+          <Footer />
 
-        {/* toaster & analytic */}
-        <ShadnCnToaster />
-        <Toaster />
+          {/* toaster & analytic */}
+          <ShadnCnToaster />
+          <Toaster />
+        </AuthProvider>
+
         <Analytics />
         <Script
           async

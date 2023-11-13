@@ -15,6 +15,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "@/components/ui/select";
+import toast from "react-hot-toast";
+import { useSession } from "next-auth/react";
 
 // 定义 TagsList 的属性类型
 interface TagsListProps {
@@ -134,6 +136,16 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
     setQuery(query);
   };
 
+  const { status } = useSession();
+  const handleThumsUp = async () => {
+    // 请求点赞api redis记录
+    if (status === "unauthenticated") {
+      toast.error("please login to upvote");
+      return;
+    }
+    toast.success("We receive your like!");
+  };
+
   // Use useEffect to update the list of cards when activeTags or query changes
   useEffect(() => {
     filteredCards = filterCards();
@@ -160,7 +172,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
         <Button onClick={handleSearch}>Search</Button>
       </div>
 
-      <div className="mt-2 flex flex-wrap gap-2 rounded">
+      {/* <div className="mt-2 flex flex-wrap gap-2 rounded">
         {tags.map((tag, index) => (
           <Tag
             activeTags={activeTags}
@@ -170,7 +182,7 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
             handleTagClick={() => handleTagClick(tag)}
           />
         ))}
-      </div>
+      </div> */}
 
       <div className="mb-10 grid w-3/4 grid-cols-1 gap-8 bg-slate-100 p-6 transition duration-500 ease-in-out   md:grid-cols-2 lg:grid-cols-3">
         {filteredCards.map((item, idx) => (

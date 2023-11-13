@@ -1,14 +1,12 @@
-import Image from "next/image";
-import Link from "next/link";
 import { FAQ } from "@/components/v0/faq";
-import Footer from "@/components/ui-tony/footer";
+
 import LinksList from "@/components/ui-tony/link-list";
 import TypeWriter from "@/components/ui-tony/type-writer";
 import SquigglyLines from "@/components/ui-tony/SquigglyLines";
 import TagsList from "@/components/ui-tony/tag-list";
-import { SubmitDialog } from "@/components/ui-tony/submit-dialog";
-
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import cards from "./data.json";
+import { Terminal } from "lucide-react";
 
 const links = [
   {
@@ -36,7 +34,20 @@ export default function Home() {
     <>
       {/* max-w-5xl */}
 
-      <main className="flex w-full flex-col items-center justify-center py-[10vh] sm:py-[10vh]">
+      <main className="flex w-full flex-col items-center justify-center ">
+        {/* py-[10vh] sm:py-[5vh] */}
+        <div className="mb-3 mt-5">
+          <Alert className="w-xl">
+            {/* <Terminal className="h-4 w-4" /> */}
+            <AlertTitle>Heads up!</AlertTitle>
+            <AlertDescription>
+              <p className="font-bold">
+                Vote for your favorite GPTs in content page
+              </p>
+            </AlertDescription>
+          </Alert>
+        </div>
+
         <h1 className="mb-3 text-4xl font-bold text-black duration-1000 ease-in-out animate-in fade-in slide-in-from-bottom-3">
           GPTs Store{" "}
           <span className="relative whitespace-nowrap text-[#3290EE]">
