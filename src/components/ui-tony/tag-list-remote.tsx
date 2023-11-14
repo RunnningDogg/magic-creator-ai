@@ -37,7 +37,30 @@ interface GPTsListProps {
 
 // TagsList 组件
 const TagsListRemote: React.FC = () => {
-  // swr
+  const [filterCategory, setFilterCategory] = useState("title");
+  const [query, setQuery] = useState("");
+
+  const SelectDemo = () => {
+    return (
+      <Select
+        value={filterCategory}
+        onValueChange={(value) => setFilterCategory(value)}
+      >
+        <SelectTrigger className="w-[250px]">
+          <SelectValue placeholder="Title / Author" />
+        </SelectTrigger>
+        <SelectContent>
+          <SelectGroup>
+            <SelectLabel>Filters</SelectLabel>
+            <SelectItem value="title">title</SelectItem>
+            <SelectItem value="author">author</SelectItem>
+          </SelectGroup>
+        </SelectContent>
+      </Select>
+    );
+  };
+
+  // swr 获取初始数据
   const [pageIndex, setPageIndex] = useState(0);
   const fetcher = () =>
     fetch(`/api/posts?page=${pageIndex}`).then((res) => res.json());
@@ -45,6 +68,25 @@ const TagsListRemote: React.FC = () => {
     `/api/posts?page=${pageIndex}`,
     fetcher,
   );
+
+  // const searchFetcher = () =>
+  //   fetch(`/api/posts/query`, {
+  //     method: "POST",
+  //     headers: {
+  //       "Content-Type": "application/json",
+  //     },
+  //     body: JSON.stringify({ query: query, type: filterCategory }),
+  //   }).then((res) => res.json());
+
+  // const {
+  //   data: searchData,
+  //   error: searchError,
+  //   isLoading: searchLoading,
+  // } = useSWR<GPTsListProps>(
+  //   `/api/posts/query?query=${query}&type=${filterCategory}`,
+  //   fetcher,
+  // );
+
   const router = useRouter();
   if (error) return <div>failed to load</div>;
   if (isLoading)
@@ -63,6 +105,11 @@ const TagsListRemote: React.FC = () => {
 
   const gptsArray = data["pageData"];
 
+  // Update the search query state and filter the cards
+  // const handleSearch = () => {
+  //   setQuery(query);
+  // };
+
   return (
     <div className="mx-auto flex min-h-[50vh] flex-col items-center">
       <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
@@ -71,6 +118,19 @@ const TagsListRemote: React.FC = () => {
           Total {data?.count} GPTs{" "}
         </span>
       </p>
+
+      {/* <div className="searchBar mb-10 flex gap-2">
+        <SelectDemo />
+        <Input value={query} onChange={(e) => setQuery(e.target.value)} />
+        <Button
+          onClick={handleSearch}
+          className={cn({
+            "animate-spin": searchLoading,
+          })}
+        >
+          Search
+        </Button>
+      </div> */}
 
       <div className="mb-10 grid w-3/4 grid-cols-1 gap-8 bg-slate-100 p-6 transition duration-500 ease-in-out   md:grid-cols-2 lg:grid-cols-3">
         {gptsArray.map((item, idx) => (

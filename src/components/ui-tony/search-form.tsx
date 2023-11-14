@@ -66,7 +66,7 @@ export function SubmitGPTsForm({
     console.log(values["query"]);
 
     const data = {
-      url: values["query"],
+      query: values["query"],
     };
 
     // Convert the data to a JSON string
@@ -87,7 +87,7 @@ export function SubmitGPTsForm({
       .then((data) => {
         console.log("Success:", data); // Handle the success response
         toast.success(
-          `Submit ${values["url"]} Success We will process it ASAP`,
+          `Submit ${values["query"]} Success We will process it ASAP`,
         );
       })
       .catch((error) => {
@@ -118,7 +118,7 @@ export function SubmitGPTsForm({
       >
         <FormField
           control={form.control}
-          name="url"
+          name="query"
           render={({ field }) => (
             <FormItem>
               <FormLabel>URL</FormLabel>
