@@ -136,15 +136,15 @@ const TagsList: React.FC<TagsListProps> = ({ tags, cards }) => {
     setQuery(query);
   };
 
-  const { status } = useSession();
-  const handleThumsUp = async () => {
-    // 请求点赞api redis记录
-    if (status === "unauthenticated") {
-      toast.error("please login to upvote");
-      return;
-    }
-    toast.success("We receive your like!");
-  };
+  // const { status } = useSession();
+  // const handleThumsUp = async () => {
+  //   // 请求点赞api redis记录
+  //   if (status === "unauthenticated") {
+  //     toast.error("please login to upvote");
+  //     return;
+  //   }
+  //   toast.success("We receive your like!");
+  // };
 
   // Use useEffect to update the list of cards when activeTags or query changes
   useEffect(() => {

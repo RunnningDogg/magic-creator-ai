@@ -1,0 +1,6 @@
+-- AlterTable
+ALTER TABLE "gpts" ALTER COLUMN "short_url" DROP NOT NULL,
+ALTER COLUMN "author" DROP NOT NULL,
+ALTER COLUMN "show_name" DROP NOT NULL,
+ALTER COLUMN "show_desc" DROP NOT NULL,
+ALTER COLUMN "show_welcome" DROP NOT NULL;

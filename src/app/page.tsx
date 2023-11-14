@@ -7,6 +7,7 @@ import TagsList from "@/components/ui-tony/tag-list";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import cards from "./data.json";
 import { Terminal } from "lucide-react";
+import TagsListRemote from "@/components/ui-tony/tag-list-remote";
 
 const links = [
   {
@@ -78,22 +79,15 @@ export default function Home() {
           </span>{" "}
         </h1>
 
-        <p className="duration-1200 mb-12 text-base text-gray-500 ease-in-out animate-in fade-in slide-in-from-bottom-4">
-          Find innovative GPTs and shared your GPTs with others 👍🏻
-          <span className="text-lg font-bold text-sky-500">
-            Total {cards.length} GPTs{" "}
-          </span>
-        </p>
+        <div className=" min-h-[50vh]">
+          <TagsListRemote />
+        </div>
 
         {/* input area to search workflow */}
 
-        {/* <div className="searchBar mb-10">
-          <SearchBar />
-        </div> */}
-
-        <div>
+        {/* <div>
           <TagsList tags={tags} cards={cards} />
-        </div>
+        </div> */}
 
         {/* faq */}
         <FAQ />

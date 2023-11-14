@@ -15,3 +15,16 @@ model Posts {
   url       String?  @unique
   createdAt DateTime @default(now()) @db.Timestamp(6)
 }
+
+model Gpts {
+  id           Int     @id @default(autoincrement())
+  post_id      String  @unique
+  short_url    String?
+  author       String?
+  show_name    String?
+  show_desc    String?
+  show_welcome String?
+  show_image   String?
+
+  @@map("gpts")
+}

@@ -29,6 +29,13 @@ export default function Footer() {
         <Link
           target="_blank"
           className="mb-5 hover:text-blue-500"
+          href="https://www.gptshunter.com"
+        >
+          Credits to GPTs Hunter
+        </Link>
+        <Link
+          target="_blank"
+          className="mb-5 hover:text-blue-500"
           href="https://meetups.ai/"
         >
           Meetups.ai
