@@ -16,9 +16,10 @@ export const GET = async (request: NextRequest) => {
 
   // 起始
   const limit1 = page ? Number(page) : 0;
+  const skip = limit1 * 100;
   const pageData = await prisma.gpts.findMany({
-    skip: limit1,
-    take: 300,
+    skip: skip,
+    take: 100,
   });
   return NextResponse.json({ count, pageData });
 };

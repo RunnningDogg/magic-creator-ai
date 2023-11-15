@@ -12,5 +12,6 @@ export async function GET(request: NextRequest) {
 
   const topPosts = await getTopPosts();
 
+  console.log(topPosts);
   return Response.json({ topPosts });
 }

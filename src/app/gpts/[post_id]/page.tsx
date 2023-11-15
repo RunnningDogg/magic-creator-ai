@@ -1,12 +1,12 @@
 "use client";
 import GiscusApp from "@/components/ui-tony/giscus";
 import Link from "next/link";
-import { ThumbsUp } from "lucide-react";
-import { useState } from "react";
 import toast from "react-hot-toast";
 import { useSession } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import useSWR from "swr";
+import { useState } from "react";
+import { Loader2Icon } from "lucide-react";
 
 interface GPTsItemProps {
   item: {
@@ -24,6 +24,8 @@ interface GPTsItemProps {
 export default function Page({ params }: { params: { post_id: number } }) {
   // 点赞的时候请求api
   const { status } = useSession();
+
+  const [loading, setLoading] = useState(false);
 
   const postID = params["post_id"];
   const fetcher = () =>
@@ -56,6 +58,7 @@ export default function Page({ params }: { params: { post_id: number } }) {
       return;
     }
     try {
+      setLoading(true);
       const response = await fetch("/api/posts/like", {
         method: "POST",
         headers: {
@@ -74,6 +77,8 @@ export default function Page({ params }: { params: { post_id: number } }) {
       }
     } catch (error) {
       console.error("Error:", error);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -85,6 +90,7 @@ export default function Page({ params }: { params: { post_id: number } }) {
 
       <div className="mx-auto">
         <Button className="flex gap-2 font-semibold" onClick={handleThumsUp}>
+          {loading && <Loader2Icon className="animate-spin" />}
           <span>Upvote</span>
           <span>🎉</span>
         </Button>

@@ -1,6 +1,6 @@
 // "use client";
 import { createRedisInstance } from "@/lib/redis";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 
 import {
   Table,
@@ -18,6 +18,7 @@ import cards from "../data.json";
 
 import Link from "next/link";
 import { ArrowUp, Vote } from "lucide-react";
+import GiscusApp from "@/components/ui-tony/giscus";
 
 type Card = {
   title?: string;
@@ -39,8 +40,22 @@ export default async function TrendingPage() {
 
   const redisData = await getTopPosts();
 
+  // const [redisData, setRedisData] = useState([]);
+  // useEffect(() => {
+  //   async function fetchData() {
+  //     const res = await fetch("/api/gpts");
+  //     const resJson = await res.json();
+  //     console.log("resjson" + resJson);
+  //     setRedisData(resJson);
+  //   }
+  //   fetchData();
+  // }, []);
+
   // 假设cards是您已经导入的JSON数组
   const matchedCards: (Card & { score?: string })[] = [];
+  // const [matchedCards, setMatchCards] = useState<Card & { score?: string }[]>(
+  //   [],
+  // );
 
   for (let i = 0; i < redisData.length; i += 2) {
     const cardTitle = redisData[i];
@@ -122,6 +137,10 @@ export default async function TrendingPage() {
           </TableRow> */}
         </TableFooter>
       </Table>
+
+      {/* <div className="mx-auto max-w-5xl">
+        <GiscusApp />
+      </div> */}
     </div>
   );
 }
