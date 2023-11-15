@@ -99,7 +99,7 @@ const TagsListRemote: React.FC = () => {
     (url: string) => fetcher(url),
   );
 
-  const { data: count } = useSWR("/api/posts/count", () =>
+  const { data: count, error: countError } = useSWR("/api/posts/count", () =>
     fetch("/api/posts/count").then((res) => res.json()),
   );
 
@@ -107,7 +107,7 @@ const TagsListRemote: React.FC = () => {
   // console.log("count", count);
 
   const router = useRouter();
-  if (error) return <div>failed to load</div>;
+  if (error | countError) return <div>failed to load</div>;
 
   const gptsArray = data?.pageData;
 

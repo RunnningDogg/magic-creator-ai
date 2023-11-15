@@ -41,7 +41,13 @@ export default async function Header({}: Props) {
           className=" ml-8 border-b border-b-blue-500 text-lg font-semibold text-blue-500 transition duration-150 hover:text-blue-700"
           href="/trending"
         >
-          Trending GPTs🔥
+          Mote voted GPTs🙌
+        </Link>
+        <Link
+          className=" ml-8 border-b border-b-teal-500 text-lg font-semibold text-teal-500 transition duration-150 hover:text-teal-700"
+          href="/mostview"
+        >
+          Mote viewed GPTs🔥
         </Link>
       </div>
 

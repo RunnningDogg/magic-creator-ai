@@ -5,7 +5,7 @@ import toast from "react-hot-toast";
 import { useSession } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import useSWR from "swr";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Loader2, Loader2Icon } from "lucide-react";
 
 interface GPTsItemProps {
@@ -42,11 +42,20 @@ export default function Page({ params }: { params: { post_id: number } }) {
     fetcher,
   );
 
-  const gptsData = data?.item;
-  console.log(data);
+  useEffect(() => {
+    fetch("/api/posts/viewed", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({ post_id: postID }),
+    }).then((res) => {});
+  }, [postID]);
 
-  console.log("详情页 " + gptsData);
-  console.log(gptsData);
+  const gptsData = data?.item;
+  // console.log(data);
+  // console.log("详情页 " + gptsData);
+  // console.log(gptsData);
 
   if (error) return <div className="min-h-[80vh]">failed to load</div>;
   if (isLoading)
@@ -137,6 +146,9 @@ export default function Page({ params }: { params: { post_id: number } }) {
 
       {gptsData?.short_url && (
         <iframe
+          title={gptsData.post_id}
+          name={gptsData?.show_name}
+          id={gptsData?.short_url}
           className="mb-5 h-[50vh] w-full border-2 border-teal-500"
           src={`https://chat.openai.com/g/${gptsData.short_url}`}
         ></iframe>

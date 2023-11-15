@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
+const { PrismaPlugin } = require('@prisma/nextjs-monorepo-workaround-plugin')
+
+
+
 const nextConfig = {
   images: {
     formats: ['image/avif', 'image/webp'],
@@ -32,9 +36,28 @@ const nextConfig = {
         hostname: "*.producthunt.com",
         port: '',
         pathname: '/**'
+      },
+      {
+        protocol: "https",
+        hostname: "files.oaiusercontent.com",
+        port: '',
+        pathname: '/**'
       }
     ]
   }
 }
 
-module.exports = nextConfig
+// module.exports = nextConfig
+
+module.exports = {
+  webpack: (config, { isServer }) => {
+    if (process.env.NODE_ENV !== 'production') {
+      config.plugins = [...config.plugins]
+    } else {
+      config.plugins = [...config.plugins, new PrismaPlugin()]
+    }
+
+    return config
+  },
+  ...nextConfig
+}

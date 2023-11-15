@@ -34,8 +34,8 @@ type GPTSArray = {
 };
 
 export default function TrendingPage() {
-  const { data, isLoading } = useSWR<GPTSArray>("/api/posts/trending", () =>
-    fetch("/api/posts/trending").then((res) => res.json()),
+  const { data, isLoading } = useSWR<GPTSArray>("/api/posts/viewed", () =>
+    fetch("/api/posts/viewed").then((res) => res.json()),
   );
 
   // console.log(data);
@@ -48,21 +48,16 @@ export default function TrendingPage() {
         {/* <Terminal className="h-4 w-4" /> */}
         <AlertTitle className="text-center">Sort Algorithm💻</AlertTitle>
         <AlertDescription>
-          <p className="font-bold">
-            Every One has 30 Votes for 30 different pages every day. Same GPTs
-            only 1 vote
-          </p>
+          <p className="text-center  font-bold">Sort By PV, 24 hour</p>
         </AlertDescription>
       </Alert>
 
-      <h2 className="mt-8 text-center text-xl  font-bold">
-        Most popular GPTs!
-      </h2>
+      <h2 className="mt-8 text-center text-xl  font-bold">Most View GPTs!</h2>
 
       {isLoading ? (
         <div className="min-h-[80vh]">
           {" "}
-          <div className="absolute top-1/2 flex  w-full flex-col items-center">
+          <div className="absolute  top-1/2 flex  w-full flex-col items-center">
             <Loader2 className="h-10 w-10 animate-spin text-center text-blue-500" />{" "}
             loading...{" "}
           </div>
@@ -110,9 +105,9 @@ export default function TrendingPage() {
           </TableBody>
           <TableFooter>
             {/* <TableRow>
-          <TableCell colSpan={3}>Total</TableCell>
-          <TableCell className="text-right">$2,500.00</TableCell>
-        </TableRow> */}
+            <TableCell colSpan={3}>Total</TableCell>
+            <TableCell className="text-right">$2,500.00</TableCell>
+          </TableRow> */}
           </TableFooter>
         </Table>
       )}

@@ -1,15 +1,10 @@
+"use client";
 import { FAQ } from "@/components/v0/faq";
-
 import LinksList from "@/components/ui-tony/link-list";
 import TypeWriter from "@/components/ui-tony/type-writer";
 import SquigglyLines from "@/components/ui-tony/SquigglyLines";
-import TagsList from "@/components/ui-tony/tag-list";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
-import cards from "./data.json";
-import { Terminal } from "lucide-react";
 import TagsListRemote from "@/components/ui-tony/tag-list-remote";
-import Image from "next/image";
-import Link from "next/link";
 
 const links = [
   {
@@ -81,21 +76,6 @@ export default function Home() {
           </span>{" "}
         </h1>
 
-        {/* <Link
-          href="https://www.producthunt.com/posts/gpts-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts-store&theme=light"
-          // passHref
-          target="_blank"
-          // rel="noopener noreferrer"
-        >
-          <Image
-            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg"
-            // ?post_id=425391
-            alt="GPTs-store - Explore, Vote, and Discuss: explore the World of GPTs | Product Hunt"
-            width={250}
-            height={54}
-            // layout="fixed"
-          />
-        </Link> */}
         <a
           href="https://www.producthunt.com/posts/gpts-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts&#0045;store"
           target="_blank"
@@ -125,7 +105,6 @@ export default function Home() {
         {/* related links */}
         <LinksList className="mt-10" links={links} />
       </main>
-      {/* footer */}
     </>
   );
 }

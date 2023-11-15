@@ -35,11 +35,12 @@ export async function GET(request: NextRequest) {
     },
   });
 
-  console.log("gptsData ", array);
-  const gptData = array.map((item) => {
-    const score = postScoreMap[item.post_id];
-    return { ...item, score };
+  const gptData = postIds.map((item) => {
+    const otherData = array.find((info) => info.post_id === item);
+    return { score: postScoreMap[item], ...otherData };
   });
+
+  console.log(gptData);
 
   return Response.json({ gptData });
 }

@@ -10,6 +10,6 @@ export const GET = async (request: NextRequest) => {
   // 获取总共的gpts
   const count = await prisma.gpts.count();
 
-  console.log("count接口 ", count);
+  // console.log("count接口 ", count);
   return NextResponse.json({ count });
 };
