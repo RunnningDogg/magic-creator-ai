@@ -26,6 +26,12 @@ const nextConfig = {
         hostname: "github.com",
         port: '',
         pathname: '/**'
+      },
+      {
+        protocol: "https",
+        hostname: "*.producthunt.com",
+        port: '',
+        pathname: '/**'
       }
     ]
   }

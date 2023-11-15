@@ -1,6 +1,6 @@
-// "use client";
+"use client";
 import { createRedisInstance } from "@/lib/redis";
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 import {
   Table,
@@ -18,59 +18,28 @@ import cards from "../data.json";
 
 import Link from "next/link";
 import { ArrowUp, Vote } from "lucide-react";
-import GiscusApp from "@/components/ui-tony/giscus";
+import useSWR from "swr";
 
-type Card = {
-  title?: string;
-  content?: string;
-  tag?: string;
-  image?: string;
-  href?: string;
-  creator?: string;
-  route?: string;
+type GPTSArray = {
+  gptData: {
+    author?: string;
+    id?: string;
+    post_id?: string;
+    short_url?: string;
+    show_desc?: string;
+    show_image?: string;
+    show_name?: string;
+    show_welcome?: string;
+    score?: number;
+  }[];
 };
 
-export default async function TrendingPage() {
-  const redis = createRedisInstance();
+export default function TrendingPage() {
+  const { data, isLoading } = useSWR<GPTSArray>("/api/posts/trending", () =>
+    fetch("/api/posts/trending").then((res) => res.json()),
+  );
 
-  async function getTopPosts() {
-    // return await redis.zrevrange("postLikes", 0, 150, "WITHSCORES");
-    return await redis.zrevrange("postLikes", 0, 150, "WITHSCORES");
-  }
-
-  const redisData = await getTopPosts();
-
-  // const [redisData, setRedisData] = useState([]);
-  // useEffect(() => {
-  //   async function fetchData() {
-  //     const res = await fetch("/api/gpts");
-  //     const resJson = await res.json();
-  //     console.log("resjson" + resJson);
-  //     setRedisData(resJson);
-  //   }
-  //   fetchData();
-  // }, []);
-
-  // 假设cards是您已经导入的JSON数组
-  const matchedCards: (Card & { score?: string })[] = [];
-  // const [matchedCards, setMatchCards] = useState<Card & { score?: string }[]>(
-  //   [],
-  // );
-
-  for (let i = 0; i < redisData.length; i += 2) {
-    const cardTitle = redisData[i];
-    const cardScore = redisData[i + 1];
-    const card = cards.find((c) => c.title === cardTitle);
-
-    if (card) {
-      matchedCards.push({
-        ...card,
-        score: cardScore, // 将分数添加到匹配的卡片对象中
-      });
-    }
-  }
-
-  console.log(matchedCards);
+  console.log(data);
 
   return (
     <div className="min-h-screen">
@@ -90,6 +59,7 @@ export default async function TrendingPage() {
       <h2 className="mt-8 text-center text-xl  font-bold">
         Most popular GPTs!
       </h2>
+
       <Table className="mx-auto mt-10 max-w-5xl">
         <TableCaption>GPTs voted by users by day</TableCaption>
         <TableHeader>
@@ -102,23 +72,23 @@ export default async function TrendingPage() {
           </TableRow>
         </TableHeader>
         <TableBody>
-          {matchedCards.map((item) => (
-            <TableRow key={item?.title}>
+          {data?.gptData.map((item) => (
+            <TableRow key={item?.post_id}>
               <TableCell className="font-medium">
                 <Link
                   className="  font-semibold text-blue-500 transition duration-150 hover:text-blue-600"
-                  href={`/gpts/${item.route}`}
+                  href={`/gpts/${item.post_id}`}
                 >
-                  {item.title}
+                  {item.show_name}
                 </Link>
               </TableCell>
-              <TableCell>{item.content}</TableCell>
-              <TableCell>{item.creator}</TableCell>
+              <TableCell>{item.show_desc}</TableCell>
+              <TableCell>{item.author}</TableCell>
               <TableCell>
-                {item.href && (
+                {item.short_url && (
                   <Link
                     className="text-lg font-bold text-teal-500 transition duration-150 hover:text-teal-600"
-                    href={item.href}
+                    href={`https://chat.openai.com/g/${item.short_url}`}
                   >
                     Try it
                   </Link>
@@ -137,10 +107,6 @@ export default async function TrendingPage() {
           </TableRow> */}
         </TableFooter>
       </Table>
-
-      {/* <div className="mx-auto max-w-5xl">
-        <GiscusApp />
-      </div> */}
     </div>
   );
 }

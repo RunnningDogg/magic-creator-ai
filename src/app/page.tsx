@@ -8,6 +8,8 @@ import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import cards from "./data.json";
 import { Terminal } from "lucide-react";
 import TagsListRemote from "@/components/ui-tony/tag-list-remote";
+import Image from "next/image";
+import Link from "next/link";
 
 const links = [
   {
@@ -79,7 +81,35 @@ export default function Home() {
           </span>{" "}
         </h1>
 
-        <div className=" min-h-[50vh]">
+        {/* <Link
+          href="https://www.producthunt.com/posts/gpts-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts-store&theme=light"
+          // passHref
+          target="_blank"
+          // rel="noopener noreferrer"
+        >
+          <Image
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg"
+            // ?post_id=425391
+            alt="GPTs-store - Explore, Vote, and Discuss: explore the World of GPTs | Product Hunt"
+            width={250}
+            height={54}
+            // layout="fixed"
+          />
+        </Link> */}
+        <a
+          href="https://www.producthunt.com/posts/gpts-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts&#0045;store"
+          target="_blank"
+        >
+          <img
+            src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=425391&theme=light"
+            alt="GPTs&#0045;store - Explore&#0044;&#0032;Vote&#0044;&#0032;and&#0032;Discuss&#0058;&#0032;explore&#0032;the&#0032;World&#0032;of&#0032;GPTs | Product Hunt"
+            // style="width: 250px; height: 54px;"
+            className="h-[54px] w-[250px]"
+            width="250"
+            height="54"
+          />
+        </a>
+        <div className="mt-3 min-h-[50vh]">
           <TagsListRemote />
         </div>
 

@@ -6,7 +6,7 @@ import { useSession } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import useSWR from "swr";
 import { useState } from "react";
-import { Loader2Icon } from "lucide-react";
+import { Loader2, Loader2Icon } from "lucide-react";
 
 interface GPTsItemProps {
   item: {
@@ -49,7 +49,16 @@ export default function Page({ params }: { params: { post_id: number } }) {
   console.log(gptsData);
 
   if (error) return <div className="min-h-[80vh]">failed to load</div>;
-  if (isLoading) return <div className="min-h-[80vh]">loading...</div>;
+  if (isLoading)
+    return (
+      <div className="min-h-[80vh]">
+        {" "}
+        <div className="absolute  top-1/2 flex  w-full flex-col items-center">
+          <Loader2 className="h-10 w-10 animate-spin text-center text-blue-500" />{" "}
+          loading...{" "}
+        </div>
+      </div>
+    );
 
   const handleThumsUp = async () => {
     // 请求点赞api redis记录
@@ -118,7 +127,7 @@ export default function Page({ params }: { params: { post_id: number } }) {
       {gptsData?.short_url ? (
         <Link
           className=" mb-5 font-semibold text-teal-600 transition duration-150 hover:text-teal-700 hover:underline"
-          href={gptsData.short_url}
+          href={`https://chat.openai.com/g/${gptsData.short_url}`}
         >
           Give a Try
         </Link>

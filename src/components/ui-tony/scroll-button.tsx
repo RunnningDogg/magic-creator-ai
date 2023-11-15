@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { ArrowUp } from "lucide-react";
 import { Button } from "../ui/button";
 
@@ -23,7 +23,9 @@ const ScrollButton = () => {
     });
   };
 
-  window.addEventListener("scroll", toggleVisible);
+  useEffect(() => {
+    window.addEventListener("scroll", toggleVisible);
+  }, []);
 
   // return (
   //   <Button>
