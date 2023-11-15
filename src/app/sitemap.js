@@ -9,10 +9,13 @@ export default async function sitemap() {
 
   const urls = await prisma.gpts.findMany({
     select: {
-      short_url: true
+      post_id: true
     }
   });
 
+  // for (let i = 0; i < 2; i++) {
+  //   console.log(urls[i])
+  // }
 
   const sitemapArray = [
     {
@@ -31,7 +34,7 @@ export default async function sitemap() {
 
   const newUrls = urls.map(item => {
     return {
-      url: `https://gpts-store.net/gpts/${item}`, // 现在 card.href 确定是字符串
+      url: `https://gpts-store.net/gpts/${item.post_id}`, // 现在 card.href 确定是字符串
       lastModified: new Date(),
       changeFrequency: "daily",
       priority: 0.5, // 根据需要调整优先级
