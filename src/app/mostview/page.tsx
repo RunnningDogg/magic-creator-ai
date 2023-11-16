@@ -92,6 +92,7 @@ export default function TrendingPage() {
                     <Link
                       className="text-lg font-bold text-teal-500 transition duration-150 hover:text-teal-600"
                       href={`https://chat.openai.com/g/${item.short_url}`}
+                      target="_blank"
                     >
                       Try
                     </Link>

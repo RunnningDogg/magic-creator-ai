@@ -20,7 +20,7 @@ export const POST = async (request: NextRequest) => {
       post_id: postId,
     },
   });
-  console.log("结果 ", data);
+  // console.log("结果 ", data);
 
   return NextResponse.json({ item: data });
 };

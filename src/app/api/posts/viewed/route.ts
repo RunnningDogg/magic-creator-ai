@@ -24,7 +24,7 @@ export async function GET(request: NextRequest) {
     postScoreMap[postId] = postScore;
   }
 
-  console.log("postIds ", postIds);
+  // console.log("postIds ", postIds);
 
   // 请求
   const hotPostsArray = await prisma.gpts.findMany({
@@ -42,7 +42,7 @@ export async function GET(request: NextRequest) {
     return { score: postScoreMap[item], ...info };
   });
 
-  console.log("gptData ", gptData);
+  // console.log("gptData ", gptData);
   return Response.json({ gptData });
 }
 
@@ -50,14 +50,24 @@ export async function POST(request: NextRequest) {
   //  const ip = req.headers['x-forwarded-for'] || req.connection.remoteAddress;
   const requestJson = await request.json();
   const post_id = requestJson["post_id"];
-  // 增加帖子的点赞计数
-  await redis.zincrby("postViews", 1, post_id);
-  // 对每个 post_id 使用一个独立的键，并设置过期时间
-  // 对每个 post_id 使用一个独立的键，并设置过期时间
-  // const postViewKey = `postView:${post_id}`;
-  // const isSet = await redis.setnx(postViewKey, "exists");
-  // if (isSet) {
-  //   await redis.expire(postViewKey, 86400); // 24小时
-  // }
-  return Response.json({ status: "0" });
+  // 逻辑补充, 因为和之前的路由不一样,所以需要判断是否是新的路由
+  const existsCount = await prisma.gpts.count({
+    where: {
+      post_id: post_id,
+    },
+  });
+  if (existsCount > 0) {
+    // 增加帖子的点赞计数
+    await redis.zincrby("postViews", 1, post_id);
+    // 对每个 post_id 使用一个独立的键，并设置过期时间
+
+    // const postViewKey = `postView:${post_id}`;
+    // const isSet = await redis.setnx(postViewKey, "exists");
+    // if (isSet) {
+    //   await redis.expire(postViewKey, 86400); // 24小时
+    // }
+    return Response.json({ status: "0" });
+  }
+  console.log(` 点了一些不存在的路由 路由 ${post_id} count: ${existsCount}`);
+  return Response.json({ status: "1" });
 }

@@ -6,7 +6,8 @@ import { useSession } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import useSWR from "swr";
 import { useEffect, useState } from "react";
-import { Loader2, Loader2Icon } from "lucide-react";
+import { Loader2, Loader2Icon, Terminal } from "lucide-react";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 
 interface GPTsItemProps {
   item: {
@@ -53,9 +54,6 @@ export default function Page({ params }: { params: { post_id: number } }) {
   }, [postID]);
 
   const gptsData = data?.item;
-  // console.log(data);
-  // console.log("详情页 " + gptsData);
-  // console.log(gptsData);
 
   if (error) return <div className="min-h-[80vh]">failed to load</div>;
   if (isLoading)
@@ -114,6 +112,17 @@ export default function Page({ params }: { params: { post_id: number } }) {
         </Button>
       </div>
 
+      <Alert className="mx-auto my-3 max-w-xl">
+        <Terminal className="h-4 w-4" />
+        <AlertTitle>Heads up!</AlertTitle>
+        <AlertDescription className="font-semibold">
+          For those who directly collect GPTs URL to come in directly, due to
+          our upgrading the data (400GPTs to 9500+) resulting in a change in
+          routing, please go back to the homepage and search according to the
+          title!
+        </AlertDescription>
+      </Alert>
+
       <h2 className="mb-3 text-xl font-semibold">Description</h2>
 
       <p className="mb-4 text-gray-700">{gptsData?.show_desc}</p>
@@ -137,6 +146,7 @@ export default function Page({ params }: { params: { post_id: number } }) {
         <Link
           className=" mb-5 font-semibold text-teal-600 transition duration-150 hover:text-teal-700 hover:underline"
           href={`https://chat.openai.com/g/${gptsData.short_url}`}
+          target="_blank"
         >
           Give a Try
         </Link>
