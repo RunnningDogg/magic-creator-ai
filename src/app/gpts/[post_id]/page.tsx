@@ -117,7 +117,7 @@ export default function Page({ params }: { params: { post_id: number } }) {
         <AlertTitle>Heads up!</AlertTitle>
         <AlertDescription className="font-semibold">
           For those who directly collect GPTs URL to come in directly, due to
-          our upgrading the data (400GPTs to 9500+) resulting in a change in
+          our upgrading the data (400GPTs to 15000+) resulting in a change in
           routing, please go back to the homepage and search according to the
           title!
         </AlertDescription>
