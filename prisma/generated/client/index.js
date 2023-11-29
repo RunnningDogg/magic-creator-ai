@@ -135,7 +135,7 @@ const config = {
       "value": "prisma-client-js"
     },
     "output": {
-      "value": "/Users/liangjiongxin/front/product/magic-creator-ai/prisma/generated/client",
+      "value": "/Users/tony/front/magic-creator-ai/prisma/generated/client",
       "fromEnvVar": null
     },
     "config": {
@@ -144,7 +144,7 @@ const config = {
     "binaryTargets": [
       {
         "fromEnvVar": null,
-        "value": "darwin",
+        "value": "darwin-arm64",
         "native": true
       }
     ],
@@ -162,6 +162,7 @@ const config = {
     "db"
   ],
   "activeProvider": "postgresql",
+  "postinstall": false,
   "inlineDatasources": {
     "db": {
       "url": {
@@ -171,7 +172,8 @@ const config = {
     }
   },
   "inlineSchema": "Z2VuZXJhdG9yIGNsaWVudCB7CiAgcHJvdmlkZXIgPSAicHJpc21hLWNsaWVudC1qcyIKICBvdXRwdXQgICA9ICIuL2dlbmVyYXRlZC9jbGllbnQiCn0KCmRhdGFzb3VyY2UgZGIgewogIHByb3ZpZGVyICAgICAgICAgID0gInBvc3RncmVzcWwiCiAgdXJsICAgICAgICAgICAgICAgPSBlbnYoIkRBVEFCQVNFX1VSTCIpCiAgc2hhZG93RGF0YWJhc2VVcmwgPSBlbnYoIlNIQURPV19EQVRBQkFTRV9VUkwiKQp9Cgptb2RlbCBQb3N0cyB7CiAgaWQgICAgICAgIEludCAgICAgIEBpZCBAZGVmYXVsdChhdXRvaW5jcmVtZW50KCkpCiAgdXJsICAgICAgIFN0cmluZz8gIEB1bmlxdWUKICBjcmVhdGVkQXQgRGF0ZVRpbWUgQGRlZmF1bHQobm93KCkpIEBkYi5UaW1lc3RhbXAoNikKfQoKbW9kZWwgR3B0cyB7CiAgaWQgICAgICAgICAgIEludCAgICAgQGlkIEBkZWZhdWx0KGF1dG9pbmNyZW1lbnQoKSkKICBwb3N0X2lkICAgICAgU3RyaW5nICBAdW5pcXVlCiAgc2hvcnRfdXJsICAgIFN0cmluZz8KICBhdXRob3IgICAgICAgU3RyaW5nPwogIHNob3dfbmFtZSAgICBTdHJpbmc/CiAgc2hvd19kZXNjICAgIFN0cmluZz8KICBzaG93X3dlbGNvbWUgU3RyaW5nPwogIHNob3dfaW1hZ2UgICBTdHJpbmc/CgogIEBAbWFwKCJncHRzIikKfQo=",
-  "inlineSchemaHash": "124e14a04d3a96e6bf5ecae6a06c5645af3be813b0924bbf2060700e95625bb6"
+  "inlineSchemaHash": "124e14a04d3a96e6bf5ecae6a06c5645af3be813b0924bbf2060700e95625bb6",
+  "noEngine": false
 }
 
 const fs = require('fs')
@@ -208,8 +210,8 @@ exports.PrismaClient = PrismaClient
 Object.assign(exports, Prisma)
 
 // file annotations for bundling tools to include these files
-path.join(__dirname, "libquery_engine-darwin.dylib.node");
-path.join(process.cwd(), "prisma/generated/client/libquery_engine-darwin.dylib.node")
+path.join(__dirname, "libquery_engine-darwin-arm64.dylib.node");
+path.join(process.cwd(), "prisma/generated/client/libquery_engine-darwin-arm64.dylib.node")
 // file annotations for bundling tools to include these files
 path.join(__dirname, "schema.prisma");
 path.join(process.cwd(), "prisma/generated/client/schema.prisma")
