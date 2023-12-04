@@ -5,6 +5,8 @@ import TypeWriter from "@/components/ui-tony/type-writer";
 import SquigglyLines from "@/components/ui-tony/SquigglyLines";
 import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import TagsListRemote from "@/components/ui-tony/tag-list-remote";
+import Link from "next/link";
+import Image from "next/image";
 
 const links = [
   {
@@ -66,7 +68,19 @@ export default function Home() {
         </h1>
 
         <div className="flex gap-3">
-          <a
+          <Link
+            href="https://ko-fi.com/F1F0QT7HI"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <Image
+              height={100}
+              width={162} // 你需要提供正确的宽度
+              src="/kofi_button_red.png"
+              alt="Buy Me a Coffee at ko-fi.com"
+            />
+          </Link>
+          {/* <a
             href="https://www.producthunt.com/posts/gpts-store?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gpts&#0045;store"
             target="_blank"
           >
@@ -78,7 +92,7 @@ export default function Home() {
               width="250"
               height="54"
             />
-          </a>
+          </a> */}
           {/* <Alert className="w-xl">
             
             <AlertTitle>Heads up!</AlertTitle>

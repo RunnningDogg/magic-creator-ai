@@ -71,6 +71,11 @@ export default function RootLayout({
           src="https://plausible.io/js/script.js"
         ></Script>
 
+        <Script
+          defer
+          data-domain="gpts-store.net"
+          src="http://plausible.runningpig.top/js/script.js"
+        ></Script>
         {/* heatmap */}
         {/* <!-- Hotjar Tracking Code for https://www.gpts-store.net/ --> */}
         <Script id="heatmap">

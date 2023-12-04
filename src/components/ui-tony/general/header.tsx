@@ -52,19 +52,6 @@ export default async function Header({}: Props) {
       </div>
 
       <nav className="flex items-center space-x-3">
-        <Link
-          href="https://ko-fi.com/F1F0QT7HI"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            height={100}
-            width={162} // 你需要提供正确的宽度
-            src="/kofi_button_red.png"
-            alt="Buy Me a Coffee at ko-fi.com"
-          />
-        </Link>
-
         <SubmitDialog />
 
         <div className="flex gap-3">
