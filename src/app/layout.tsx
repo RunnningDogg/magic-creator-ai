@@ -1,7 +1,6 @@
 import type { Metadata } from "next";
 // import { Inter } from "next/font/google";
 import "./globals.css";
-import { Analytics } from "@vercel/analytics/react";
 // const inter = Inter({ subsets: ["latin"] });
 
 import { Inter as FontSans } from "next/font/google";
@@ -51,7 +50,12 @@ export default function RootLayout({
           <Toaster />
         </AuthProvider>
 
-        <Analytics />
+        <Script
+          async
+          src="https://umami-analytic-mu.vercel.app/script.js"
+          data-website-id="a83595d1-783a-4223-b24e-3e9bc69946c2"
+        ></Script>
+
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-XPLK21FMNR"
