@@ -40,6 +40,14 @@ export default function Footer() {
         >
           Meetups.ai
         </Link>
+        <Link
+          target="_blank"
+          className="mb-5 hover:text-blue-500"
+          href="https://pika-art.com/"
+        >
+          Pika-Art: An idea-to-video platform that brings your creativity to
+          motion
+        </Link>
       </div>
     </footer>
   );
